@@ -9,6 +9,9 @@ import ragboxImg from '../../assets/images/empresas/ragbox.png';
 import fullstoreImg from '../../assets/images/empresas/fullstoregg.png';
 import gameflixImg from '../../assets/images/empresas/gameflix-logo.png';
 
+import GGBoxProducts from '../GGBoxProducts';
+import RagboxProducts from '../RagboxProducts';
+
 const LojasPage = () => {
     // Scroll to top when component mounts
     useEffect(() => {
@@ -16,7 +19,6 @@ const LojasPage = () => {
     }, []);
 
     const otherStores = [
-        { name: "Ragbox", logo: ragboxImg, type: "Retro", verified: true },
         { name: "Full Store GG", logo: fullstoreImg, type: "Mobile / PC", verified: true },
         { name: "GameFlix", logo: gameflixImg, type: "Retro / PC", verified: true },
     ];
@@ -37,6 +39,12 @@ const LojasPage = () => {
             {/* GPBox Section (Reused) */}
             <GPBoxProducts />
 
+            {/* Ragbox Section (New) */}
+            <RagboxProducts />
+
+            {/* GGBox Section (New) */}
+            <GGBoxProducts />
+
             {/* Playbox Section (Reused) */}
             <PlayboxProducts />
 
@@ -48,9 +56,9 @@ const LojasPage = () => {
                         <p className="text-gray-600 dark:text-gray-400">Explore mais opções de parceiros oficiais.</p>
                     </div>
 
-                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+                    <div className="flex flex-wrap justify-center gap-8 max-w-5xl mx-auto">
                         {otherStores.map((store, idx) => (
-                            <div key={idx} className="h-full">
+                            <div key={idx} className="h-full w-full sm:w-[300px]">
                                 <StoreCard {...store} />
                             </div>
                         ))}

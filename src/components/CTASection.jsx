@@ -16,7 +16,7 @@ const CTASection = () => {
                     Pronto para elevar seu nível de jogo?
                 </h2>
                 <p className="text-xl text-gray-600 mb-10 max-w-2xl mx-auto">
-                    Junte-se a milhares de gamers que já descobriram a melhor forma de jogar. Acesso imediato ao GPBOX e muito mais.
+                    Junte-se a milhares de gamers que já descobriram a melhor forma de jogar. Acesso imediato aos nossos sistemas e muito mais.
                 </p>
                 <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                     <Button variant="primary" size="lg" className="shadow-xl shadow-blue-600/20 w-full sm:w-auto scale-110">

@@ -48,17 +48,7 @@ const Footer = () => {
         <footer className="bg-gray-50 dark:bg-slate-950 border-t border-gray-200 dark:border-slate-900 pt-16 transition-colors duration-300">
             <div className="container mx-auto px-4 md:px-6">
 
-                {/* Partners Section */}
-                <div className="mb-16">
-                    <div className="flex items-center justify-between mb-8">
-                        <h3 className="text-2xl font-bold text-gray-900 dark:text-white">Nossos Parceiros / Projetos</h3>
-                    </div>
-                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-                        {partners.map((partner, idx) => (
-                            <PartnerCard key={idx} {...partner} />
-                        ))}
-                    </div>
-                </div>
+                {/* Partners Section Removed */}
 
                 {/* Security / Trust Section */}
                 <div className="bg-white dark:bg-slate-900 rounded-2xl p-8 md:p-12 shadow-sm border border-gray-100 dark:border-slate-800 flex flex-col md:flex-row items-center justify-between gap-8 mb-16 text-center md:text-left transition-colors duration-300">
@@ -105,9 +95,9 @@ const Footer = () => {
                 <div className="border-t border-gray-200 dark:border-slate-900 py-8 flex flex-col md:flex-row items-center justify-between text-sm text-gray-500 dark:text-gray-400">
                     <p>&copy; 2026 Portal de Games. Todos os direitos reservados.</p>
                     <div className="flex items-center gap-6 mt-4 md:mt-0">
-                        <a href="#" className="hover:text-gray-900 dark:hover:text-white transition-colors">Termos de Uso</a>
-                        <a href="#" className="hover:text-gray-900 dark:hover:text-white transition-colors">Política de Privacidade</a>
-                        <a href="#" className="hover:text-gray-900 dark:hover:text-white transition-colors">Contato</a>
+                        <Link to="/termos" className="hover:text-gray-900 dark:hover:text-white transition-colors">Termos de Uso</Link>
+                        <Link to="/privacidade" className="hover:text-gray-900 dark:hover:text-white transition-colors">Política de Privacidade</Link>
+                        <a href="https://wa.me/5511999999999" target='_blank' rel='noreferrer' className="hover:text-gray-900 dark:hover:text-white transition-colors">Contato</a>
                     </div>
                 </div>
 

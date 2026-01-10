@@ -1,4 +1,9 @@
+import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
+import Button from './ui/Button';
+
+// Image import
+import logoImg from '../assets/images/logo.png';
 
 const Navbar = ({ theme, toggleTheme }) => {
     const [isScrolled, setIsScrolled] = useState(false);
@@ -28,7 +33,7 @@ const Navbar = ({ theme, toggleTheme }) => {
                     <Link to="/" className="flex items-center gap-2 group">
                         <div className="relative">
                             <div className="absolute inset-0 bg-blue-500 blur-lg opacity-20 group-hover:opacity-40 transition-opacity rounded-full"></div>
-                            <img src="/logos/logogameparts.png" alt="Portal de Games" className="h-10 w-auto relative z-10" />
+                            <img src={logoImg} alt="Portal de Games" className="h-10 w-auto relative z-10" />
                         </div>
                         <span className={`font-bold text-xl tracking-tight transition-colors ${isScrolled ? 'text-gray-900 dark:text-white' : 'text-gray-900 dark:text-white'}`}>
                             Portal<span className="text-primary">Games</span>

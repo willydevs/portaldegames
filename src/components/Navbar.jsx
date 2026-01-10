@@ -20,8 +20,9 @@ const Navbar = ({ theme, toggleTheme }) => {
 
     const navLinks = [
         { name: 'Jogos', href: '/#games' },
-        { name: 'Sistemas', href: '/#products' },
+        { name: 'Destaque', href: '/#products' },
         { name: 'Lojas', href: '/lojas', isRoute: true },
+        { name: 'Depoimentos', href: '/#testimonials' },
         { name: 'Benefícios', href: '/#benefits' },
     ];
 

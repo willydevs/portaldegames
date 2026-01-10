@@ -4,8 +4,9 @@ import GPBoxProducts from '../GPBoxProducts';
 import ConsoleLists from '../ConsoleLists';
 import SystemsMarquee from '../SystemsMarquee';
 import FeaturesGrid from '../FeaturesGrid';
-import CTASection from '../CTASection';
+import Testimonials from '../Testimonials';
 import PlayboxProducts from '../PlayboxProducts';
+import RagboxProducts from '../RagboxProducts';
 
 const HomePage = () => {
     // Scroll to top when component mounts
@@ -20,8 +21,9 @@ const HomePage = () => {
             <ConsoleLists />
             <SystemsMarquee />
             <FeaturesGrid />
-            <CTASection />
-            <PlayboxProducts />
+            <Testimonials />
+            {/* <PlayboxProducts /> */}
+            <RagboxProducts />
         </>
     );
 };

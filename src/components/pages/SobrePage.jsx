@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 
 const SobrePage = () => {
     useEffect(() => {
@@ -60,6 +61,11 @@ const SobrePage = () => {
                     <p>
                         Estamos aqui para ajudar você a jogar com mais confiança.
                     </p>
+                    <div className="mt-6">
+                        <Link to="/ajuda" className="text-primary font-bold hover:underline">
+                            Precisa de ajuda? Entre em contato
+                        </Link>
+                    </div>
                 </div>
             </div>
         </div>

@@ -89,6 +89,7 @@ const AjudaPage = () => {
                     <li><strong>Boleto:</strong> Prazo máximo 3 dias úteis (geralmente solicitaremos seus dados bancários).</li>
                 </ul>
             )
+        },
         {
             question: "Como denunciar conteúdo que viola direitos autorais?",
             answer: (

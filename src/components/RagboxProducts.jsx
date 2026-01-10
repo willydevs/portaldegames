@@ -1,4 +1,5 @@
 import React, { useRef, useState, useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 import Button from './ui/Button';
 
 // Importing logo
@@ -64,6 +65,7 @@ const ProductCard = ({ title, oldPrice, price, description, image, badge }) => (
 
 const RagboxProducts = () => {
     const scrollRef = useRef(null);
+    const location = useLocation();
     const [isHovered, setIsHovered] = useState(false);
     const [isPaused, setIsPaused] = useState(false);
 
@@ -133,7 +135,9 @@ const RagboxProducts = () => {
                         {/* Store Info */}
                         <div className="text-left">
                             <div className="flex items-center gap-1.5">
-                                <span className="text-gray-500 dark:text-gray-400 font-normal">Loja oficial</span>
+                                <span className="text-gray-500 dark:text-gray-400 font-normal">
+                                    {location.pathname === '/lojas' ? 'Loja' : 'Loja em destaque'}
+                                </span>
                                 <h2 className="text-lg font-bold text-gray-900 dark:text-white">RAGBOX</h2>
                                 {/* Blue Verified Badge */}
                                 <svg className="w-4 h-4 text-blue-500" viewBox="0 0 24 24" fill="currentColor">

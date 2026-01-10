@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import Button from './ui/Button';
 
 const Hero = () => {
@@ -35,18 +36,21 @@ const Hero = () => {
                     </div>
 
                     <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-gray-900 dark:text-white leading-tight drop-shadow-sm">
-                        Portal de <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-blue-400">Games</span>
+                        Um portal. <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-blue-400">Vários sistemas de jogos.</span>
                     </h1>
 
                     <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto leading-relaxed">
-                        A central oficial das maiores empresas de sistemas multijogos. Reunimos os principais lançamentos para PS4, PS5 e Xbox em um só lugar.          </p>
+                        Reunimos portais multijogos e jogos avulsos em um só lugar, para você escolher como e onde quer jogar.
+                    </p>
 
                     <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4">
-                        <Button variant="primary" size="lg" className="shadow-blue-500/25 w-full sm:w-auto">
-                            Explorar Catálogo
-                        </Button>
-                        <Button variant="outline" size="lg" className="w-full sm:w-auto dark:border-gray-700 dark:text-gray-200 dark:hover:bg-slate-800">
-                            Conhecer o GPBOX
+                        <Link to="/lojas">
+                            <Button variant="primary" size="lg" className="shadow-blue-500/25 w-full sm:w-auto">
+                                Explorar portais
+                            </Button>
+                        </Link>
+                        <Button variant="outline" size="lg" className="w-full sm:w-auto dark:border-gray-700 dark:text-gray-200 dark:hover:bg-slate-800" onClick={() => document.getElementById('products')?.scrollIntoView({ behavior: 'smooth' })}>
+                            Ver jogos disponíveis
                         </Button>
                     </div>
 

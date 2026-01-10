@@ -95,6 +95,8 @@ const Footer = () => {
                 <div className="border-t border-gray-200 dark:border-slate-900 py-8 flex flex-col md:flex-row items-center justify-between text-sm text-gray-500 dark:text-gray-400">
                     <p>&copy; 2026 Portal de Games. Todos os direitos reservados.</p>
                     <div className="flex items-center gap-6 mt-4 md:mt-0">
+                        <Link to="/ajuda" className="hover:text-gray-900 dark:hover:text-white transition-colors">Central de Ajuda</Link>
+                        <Link to="/sobre" className="hover:text-gray-900 dark:hover:text-white transition-colors">Sobre</Link>
                         <Link to="/termos" className="hover:text-gray-900 dark:hover:text-white transition-colors">Termos de Uso</Link>
                         <Link to="/privacidade" className="hover:text-gray-900 dark:hover:text-white transition-colors">Política de Privacidade</Link>
                         <a href="https://wa.me/5511999999999" target='_blank' rel='noreferrer' className="hover:text-gray-900 dark:hover:text-white transition-colors">Contato</a>

@@ -1,4 +1,5 @@
 import React, { useRef, useState, useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 import Button from './ui/Button';
 import playboxLogo from '../assets/images/empresas/playbox-reserva.webp';
 
@@ -65,6 +66,7 @@ const ProductCard = ({ title, oldPrice, price, description, features, recommende
 
 const PlayboxProducts = () => {
     const scrollRef = useRef(null);
+    const location = useLocation();
     const [isHovered, setIsHovered] = useState(false);
     const [isPaused, setIsPaused] = useState(false);
     const [isDown, setIsDown] = useState(false);
@@ -192,7 +194,9 @@ const PlayboxProducts = () => {
                         {/* Store Info */}
                         <div className="text-left">
                             <div className="flex items-center gap-1.5">
-                                <span className="text-gray-500 dark:text-gray-400 font-normal">Loja oficial</span>
+                                <span className="text-gray-500 dark:text-gray-400 font-normal">
+                                    {location.pathname === '/lojas' ? 'Loja' : 'Loja em destaque'}
+                                </span>
                                 <h2 className="text-lg font-bold text-gray-900 dark:text-white">Playbox</h2>
                                 <svg className="w-5 h-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor">
                                     <path fillRule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
@@ -202,7 +206,7 @@ const PlayboxProducts = () => {
                                 Vendido por <span className="text-blue-500 hover:underline cursor-pointer">Portal de Games</span>
                             </div>
                             <div className="text-sm font-bold text-gray-900 dark:text-white mt-0.5">
-                                +10 mil vendas
+                                +1 mil vendas
                             </div>
                         </div>
                     </div>

@@ -1,4 +1,5 @@
 import React, { useRef, useState, useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 import Button from './ui/Button';
 
 // Importing images
@@ -64,6 +65,7 @@ const ProductCard = ({ title, oldPrice, price, description, image, link }) => (
 
 const GGBoxProducts = () => {
     const scrollRef = useRef(null);
+    const location = useLocation();
     const [isHovered, setIsHovered] = useState(false);
     const [isPaused, setIsPaused] = useState(false);
 
@@ -175,7 +177,9 @@ const GGBoxProducts = () => {
                         {/* Store Info */}
                         <div className="text-left">
                             <div className="flex items-center gap-1.5">
-                                <span className="text-gray-500 dark:text-gray-400 font-normal">Loja oficial</span>
+                                <span className="text-gray-500 dark:text-gray-400 font-normal">
+                                    {location.pathname === '/lojas' ? 'Loja' : 'Loja em destaque'}
+                                </span>
                                 <h2 className="text-lg font-bold text-gray-900 dark:text-white">GGBOX</h2>
                                 {/* Blue Verified Badge */}
                                 <svg className="w-5 h-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor">

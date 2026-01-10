@@ -4,7 +4,7 @@ import Button from './ui/Button';
 // Local images
 const nfsImage = '/games/nfsmw.webp';
 
-const GameCard = ({ title, image }) => (
+const GameCard = ({ title, image, oldPrice, price }) => (
     <div className="bg-white dark:bg-slate-900 rounded-2xl p-4 shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 dark:border-slate-800 flex flex-col min-w-[240px] md:min-w-[280px] snap-center group">
         <div className="relative aspect-[3/4] mb-4 overflow-hidden rounded-xl bg-gray-100 dark:bg-slate-800">
             <img
@@ -19,6 +19,16 @@ const GameCard = ({ title, image }) => (
         <h3 className="text-gray-900 dark:text-white font-bold text-center mb-1 text-base line-clamp-2 min-h-[3rem] flex items-center justify-center">
             {title}
         </h3>
+
+        <div className="flex flex-col items-center justify-center mb-3">
+            <div className="flex items-center gap-2 mb-1">
+                <span className="text-gray-400 dark:text-gray-500 line-through text-sm font-medium">R$ {oldPrice}</span>
+                <span className="text-2xl font-bold text-blue-600 dark:text-blue-400">R$ {price}</span>
+            </div>
+            <div className="bg-green-100 text-green-800 text-[10px] font-bold px-2 py-0.5 rounded-full uppercase tracking-wider">
+                VITALÍCIO
+            </div>
+        </div>
 
         <div className="text-center mb-3">
             <span className="text-green-600 dark:text-green-400 text-xs font-bold">Entrega em até 4h</span>
@@ -166,34 +176,34 @@ const GameRow = ({ title, games }) => {
 const ConsoleLists = () => {
     // Configured data from user request
     const ps4Games = [
-        { title: "Dark Souls Remastered", image: "https://m.media-amazon.com/images/I/716RNd1mPML._AC_UF1000,1000_QL80_.jpg" },
-        { title: "Dark Souls 2", image: "https://m.media-amazon.com/images/I/71hIZMtJfWL._AC_UF1000,1000_QL80_.jpg" },
-        { title: "Dark Souls 3", image: "https://m.media-amazon.com/images/I/81kHY1Irw0L._AC_UF1000,1000_QL80_.jpg" },
-        { title: "Elden Ring", image: "https://m.media-amazon.com/images/I/71lS5rBEFmL._AC_UF1000,1000_QL80_.jpg" },
-        { title: "Need for Speed MW", image: nfsImage },
-        { title: "Red Dead Redemption 2", image: "https://m.media-amazon.com/images/I/71XrxGqPosL._AC_UF1000,1000_QL80_.jpg" },
-        { title: "Sekiro: Shadows Die Twice", image: "https://www.sekirothegame.com/content/dam/atvi/sekiro/buy/box-art/PS4_2D_MX.jpg" },
-        { title: "Spider-Man Remastered", image: "https://m.media-amazon.com/images/I/815TEngwF7L.jpg" },
-        { title: "The Last of Us Part I", image: "https://m.media-amazon.com/images/I/91zSahIYtIL.jpg" },
-        { title: "Uncharted L.T. Collection", image: "https://m.media-amazon.com/images/I/813QeeXqZwL._AC_UF1000,1000_QL80_.jpg" },
-        { title: "God of War", image: "https://m.media-amazon.com/images/I/913r59lGp-L.jpg" }
+        { title: "Dark Souls Remastered", image: "https://m.media-amazon.com/images/I/716RNd1mPML._AC_UF1000,1000_QL80_.jpg", oldPrice: "179,90", price: "9,90" },
+        { title: "Dark Souls 2", image: "https://m.media-amazon.com/images/I/71hIZMtJfWL._AC_UF1000,1000_QL80_.jpg", oldPrice: "149,90", price: "9,90" },
+        { title: "Dark Souls 3", image: "https://m.media-amazon.com/images/I/81kHY1Irw0L._AC_UF1000,1000_QL80_.jpg", oldPrice: "249,90", price: "9,90" },
+        { title: "Elden Ring", image: "https://m.media-amazon.com/images/I/71lS5rBEFmL._AC_UF1000,1000_QL80_.jpg", oldPrice: "299,90", price: "19,90" },
+        { title: "Need for Speed MW", image: nfsImage, oldPrice: "89,90", price: "9,90" },
+        { title: "Red Dead Redemption 2", image: "https://m.media-amazon.com/images/I/71XrxGqPosL._AC_UF1000,1000_QL80_.jpg", oldPrice: "248,90", price: "9,90" },
+        { title: "Sekiro: Shadows Die Twice", image: "https://www.sekirothegame.com/content/dam/atvi/sekiro/buy/box-art/PS4_2D_MX.jpg", oldPrice: "274,50", price: "19,90" },
+        { title: "Spider-Man Remastered", image: "https://m.media-amazon.com/images/I/815TEngwF7L.jpg", oldPrice: "249,50", price: "19,90" },
+        { title: "The Last of Us Part I", image: "https://m.media-amazon.com/images/I/91zSahIYtIL.jpg", oldPrice: "349,90", price: "19,90" },
+        { title: "Uncharted L.T. Collection", image: "https://m.media-amazon.com/images/I/813QeeXqZwL._AC_UF1000,1000_QL80_.jpg", oldPrice: "199,50", price: "9,90" },
+        { title: "God of War", image: "https://m.media-amazon.com/images/I/913r59lGp-L.jpg", oldPrice: "99,50", price: "9,90" }
     ];
 
     const ps5Games = [
-        { title: "Assassin's Creed Mirage", image: "https://m.media-amazon.com/images/I/81tSC34DQFL.jpg" },
-        { title: "Dynasty Warriors Origins", image: "https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/dynasty-warriors-origins-ps5-sony/bluewavesgame/22012026/cacae64af9e69afc1790f2c9841fd697.jpeg" },
-        { title: "God of War Ragnarök", image: "https://m.media-amazon.com/images/I/8136lnf0n2L.jpg" },
-        { title: "Silent Hill 2", image: "https://m.media-amazon.com/images/I/71E3B-85r1L.jpg" },
-        { title: "The Witcher 3: Complete Edition", image: "https://m.media-amazon.com/images/I/81BHn3JO3ML._AC_UF1000,1000_QL80_.jpg" }
+        { title: "Assassin's Creed Mirage", image: "https://m.media-amazon.com/images/I/81tSC34DQFL.jpg", oldPrice: "239,90", price: "19,90" },
+        { title: "Dynasty Warriors Origins", image: "https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/dynasty-warriors-origins-ps5-sony/bluewavesgame/22012026/cacae64af9e69afc1790f2c9841fd697.jpeg", oldPrice: "349,90", price: "19,90" },
+        { title: "God of War Ragnarök", image: "https://m.media-amazon.com/images/I/8136lnf0n2L.jpg", oldPrice: "349,90", price: "19,90" },
+        { title: "Silent Hill 2", image: "https://m.media-amazon.com/images/I/71E3B-85r1L.jpg", oldPrice: "349,50", price: "19,90" },
+        { title: "The Witcher 3: Complete Edition", image: "https://m.media-amazon.com/images/I/81BHn3JO3ML._AC_UF1000,1000_QL80_.jpg", oldPrice: "199,90", price: "9,90" }
     ];
 
     const xboxGames = [
-        { title: "Call of Duty: Black Ops 3", image: "https://m.media-amazon.com/images/I/81T23W11n6L.jpg" },
-        { title: "Crysis 3 Remastered", image: "https://m.media-amazon.com/images/I/71E4xtlcajL._AC_UF1000,1000_QL80_.jpg" },
-        { title: "Cyberpunk 2077", image: "https://m.media-amazon.com/images/I/819bg+506sL.jpg" },
-        { title: "Dragon Ball: Sparking! Zero", image: "https://m.media-amazon.com/images/I/817bPOXbpqL._AC_UF1000,1000_QL80_.jpg" },
-        { title: "Forza Horizon 5", image: "https://m.media-amazon.com/images/I/61RvJphIh0L._AC_UF1000,1000_QL80_.jpg" },
-        { title: "GTA V", image: "https://m.media-amazon.com/images/I/71EyQaVZq0L._AC_UF1000,1000_QL80_.jpg" }
+        { title: "Call of Duty: Black Ops 3", image: "https://m.media-amazon.com/images/I/81T23W11n6L.jpg", oldPrice: "299,00", price: "19,90" },
+        { title: "Crysis 3 Remastered", image: "https://m.media-amazon.com/images/I/71E4xtlcajL._AC_UF1000,1000_QL80_.jpg", oldPrice: "149,50", price: "9,90" },
+        { title: "Cyberpunk 2077", image: "https://m.media-amazon.com/images/I/819bg+506sL.jpg", oldPrice: "249,90", price: "19,90" },
+        { title: "Dragon Ball: Sparking! Zero", image: "https://m.media-amazon.com/images/I/817bPOXbpqL._AC_UF1000,1000_QL80_.jpg", oldPrice: "349,90", price: "19,90" },
+        { title: "Forza Horizon 5", image: "https://m.media-amazon.com/images/I/61RvJphIh0L._AC_UF1000,1000_QL80_.jpg", oldPrice: "249,00", price: "9,90" },
+        { title: "GTA V", image: "https://m.media-amazon.com/images/I/71EyQaVZq0L._AC_UF1000,1000_QL80_.jpg", oldPrice: "149,90", price: "9,90" }
     ];
 
     return (

@@ -1,14 +1,9 @@
-import React, { useEffect } from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import GPBoxProducts from './components/GPBoxProducts';
-import ConsoleLists from './components/ConsoleLists';
-import SystemsMarquee from './components/SystemsMarquee';
-import FeaturesGrid from './components/FeaturesGrid';
-import CTASection from './components/CTASection';
 import Footer from './components/Footer';
 import MouseGlow from './components/ui/MouseGlow';
-import PlayboxProducts from './components/PlayboxProducts';
+import HomePage from './components/pages/HomePage';
+import LojasPage from './components/pages/LojasPage';
 
 function App() {
   const [theme, setTheme] = React.useState(() => {
@@ -41,22 +36,21 @@ function App() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-white dark:bg-slate-950 selection:bg-blue-100 selection:text-primary relative transition-colors duration-300">
-      <MouseGlow />
-      <Navbar theme={theme} toggleTheme={toggleTheme} />
+    <Router>
+      <div className="min-h-screen bg-white dark:bg-slate-950 selection:bg-blue-100 selection:text-primary relative transition-colors duration-300">
+        <MouseGlow />
+        <Navbar theme={theme} toggleTheme={toggleTheme} />
 
-      <main>
-        <Hero />
-        <GPBoxProducts />
-        <ConsoleLists />
-        <SystemsMarquee />
-        <FeaturesGrid />
-        <CTASection />
-        <PlayboxProducts />
-      </main>
+        <main>
+          <Routes>
+            <Route path="/" element={<HomePage />} />
+            <Route path="/lojas" element={<LojasPage />} />
+          </Routes>
+        </main>
 
-      <Footer />
-    </div>
+        <Footer />
+      </div>
+    </Router>
   );
 };
 

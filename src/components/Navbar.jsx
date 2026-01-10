@@ -1,9 +1,9 @@
-import React, { useState, useEffect } from 'react';
-import Button from './ui/Button';
+import { Link, useLocation } from 'react-router-dom';
 
 const Navbar = ({ theme, toggleTheme }) => {
     const [isScrolled, setIsScrolled] = useState(false);
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+    const location = useLocation();
 
     useEffect(() => {
         const handleScroll = () => {
@@ -14,9 +14,10 @@ const Navbar = ({ theme, toggleTheme }) => {
     }, []);
 
     const navLinks = [
-        { name: 'Jogos', href: '#games' },
-        { name: 'Sistemas', href: '#products' },
-        { name: 'Benefícios', href: '#features' },
+        { name: 'Jogos', href: '/#games' },
+        { name: 'Sistemas', href: '/#products' },
+        { name: 'Lojas', href: '/lojas', isRoute: true },
+        { name: 'Benefícios', href: '/#features' },
     ];
 
     return (
@@ -24,7 +25,7 @@ const Navbar = ({ theme, toggleTheme }) => {
             <div className="container mx-auto px-4 md:px-6">
                 <div className="flex items-center justify-between">
                     {/* Logo */}
-                    <a href="#" className="flex items-center gap-2 group">
+                    <Link to="/" className="flex items-center gap-2 group">
                         <div className="relative">
                             <div className="absolute inset-0 bg-blue-500 blur-lg opacity-20 group-hover:opacity-40 transition-opacity rounded-full"></div>
                             <img src="/logos/logogameparts.png" alt="Portal de Games" className="h-10 w-auto relative z-10" />
@@ -32,18 +33,28 @@ const Navbar = ({ theme, toggleTheme }) => {
                         <span className={`font-bold text-xl tracking-tight transition-colors ${isScrolled ? 'text-gray-900 dark:text-white' : 'text-gray-900 dark:text-white'}`}>
                             Portal<span className="text-primary">Games</span>
                         </span>
-                    </a>
+                    </Link>
 
                     {/* Desktop Nav */}
                     <div className="hidden md:flex items-center space-x-8">
                         {navLinks.map((link) => (
-                            <a
-                                key={link.name}
-                                href={link.href}
-                                className="text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors"
-                            >
-                                {link.name}
-                            </a>
+                            link.isRoute ? (
+                                <Link
+                                    key={link.name}
+                                    to={link.href}
+                                    className={`text-sm font-medium transition-colors ${location.pathname === link.href ? 'text-blue-600 dark:text-blue-400 font-bold' : 'text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary'}`}
+                                >
+                                    {link.name}
+                                </Link>
+                            ) : (
+                                <a
+                                    key={link.name}
+                                    href={link.href}
+                                    className="text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors"
+                                >
+                                    {link.name}
+                                </a>
+                            )
                         ))}
                     </div>
 

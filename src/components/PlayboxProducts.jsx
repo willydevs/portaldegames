@@ -1,5 +1,6 @@
 import React, { useRef, useState, useEffect } from 'react';
 import Button from './ui/Button';
+import playboxLogo from '../assets/images/empresas/playbox-reserva.webp';
 
 const ProductCard = ({ title, oldPrice, price, description, features, recommended, isBestSeller, image, color }) => (
     <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 dark:border-slate-800 flex flex-col min-w-[300px] md:min-w-[350px] snap-center group h-full relative overflow-hidden">
@@ -32,10 +33,10 @@ const ProductCard = ({ title, oldPrice, price, description, features, recommende
         </div>
 
         <div className="mb-4 flex flex-col items-center justify-center">
-            <span className="text-gray-400 dark:text-gray-500 line-through text-sm font-medium">De R$ {oldPrice}</span>
-            <div className="flex items-end gap-1">
-                <span className="text-sm font-bold text-gray-500 dark:text-gray-400 mb-1">por</span>
-                <span className={`text-4xl font-bold ${isBestSeller ? 'text-yellow-500' : 'text-primary dark:text-blue-400'}`}>R$ {price}</span>
+            <span className="text-gray-400 dark:text-gray-500 line-through text-lg font-medium">R$ {oldPrice}</span>
+            <div className={`text-4xl font-bold mb-2 ${isBestSeller ? 'text-yellow-500' : 'text-primary dark:text-blue-400'}`}>R$ {price}</div>
+            <div className="bg-green-100 text-green-800 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
+                VITALÍCIO
             </div>
         </div>
 
@@ -128,13 +129,12 @@ const PlayboxProducts = () => {
     const products = [
         {
             title: "Ultimate",
-            oldPrice: "199,90",
+            oldPrice: "144,80",
             price: "134,80",
             image: "/logos/playbox/ultimate.avif",
             color: "bg-yellow-500",
             features: [
                 "40 Consoles", // Used as tag
-                "Acesso vitalício",
                 "40 consoles desbloqueados",
                 "Mais de 20.000 Jogos incluídos",
                 "Biblioteca completa",
@@ -146,13 +146,12 @@ const PlayboxProducts = () => {
         },
         {
             title: "Upgrade",
-            oldPrice: "149,90",
+            oldPrice: "114,90",
             price: "104,90",
             image: "/logos/playbox/intermediario.avif",
             color: "bg-blue-500",
             features: [
                 "35 Consoles", // Used as tag
-                "Acesso vitalício",
                 "35 consoles desbloqueados",
                 "Mais de 18.000 Jogos incluídos",
                 "Atualizações exclusivas",
@@ -163,13 +162,12 @@ const PlayboxProducts = () => {
         },
         {
             title: "Playbox",
-            oldPrice: "97,90",
+            oldPrice: "74,90",
             price: "64,90",
             image: "/logos/playbox/basico.avif",
             color: "bg-gray-500",
             features: [
                 "30 Consoles", // Used as tag
-                "Acesso vitalício",
                 "30 consoles desbloqueados",
                 "Mais de 15.000 Jogos incluídos",
                 "no-Atualizações exclusivas",
@@ -188,7 +186,7 @@ const PlayboxProducts = () => {
                         {/* Store Logo - Using same logo as Footer/GPBox for now or specific Playbox logo if available */}
                         <div className="w-16 h-16 rounded-full border border-gray-100 dark:border-slate-800 p-1 bg-white dark:bg-slate-900 shadow-sm shrink-0">
                             {/* Assuming playbox-reserva.webp is the logo user mentioned */}
-                            <img src="/images/empresas/playbox-reserva.webp" alt="Playbox Logo" className="w-full h-full object-contain rounded-full" />
+                            <img src={playboxLogo} alt="Playbox Logo" className="w-full h-full object-contain rounded-full" />
                         </div>
 
                         {/* Store Info */}
@@ -197,7 +195,7 @@ const PlayboxProducts = () => {
                                 <span className="text-gray-500 dark:text-gray-400 font-normal">Loja oficial</span>
                                 <h2 className="text-lg font-bold text-gray-900 dark:text-white">Playbox</h2>
                                 <svg className="w-4 h-4 text-blue-500" viewBox="0 0 24 24" fill="currentColor">
-                                    <path d="M22.5 12.5c0-1.58-.875-2.95-2.148-3.6.154-.435.238-.905.238-1.4 0-2.21-1.71-4-3.99-4-.485 0-.96.084-1.4.238C14.45 2.375 13.08 1.5 11.5 1.5c-1.58 0-2.95.875-3.6 2.148-.435-.154-.905-.238-1.4-.238-2.21 0-4 1.71-4 3.99 0 .485.084.96.238 1.4C1.375 9.55.5 10.92.5 12.5c0 1.58.875 2.95 2.148 3.6-.154.435-.238.905-.238 1.4 0 2.21 1.71 4 3.99 4 .485 0 .96-.084 1.4-.238C8.55 22.625 9.92 23.5 11.5 23.5c1.58 0 2.95-.875 3.6-2.148.435.154.905.238 1.4.238 2.21 0 4-1.71 4-3.99 0-.485-.084-.96-.238-1.4C21.625 15.45 22.5 14.08 22.5 12.5zM9.04 17.5l-4.5-4.5 1.42-1.42 3.08 3.08 8.08-8.08 1.42 1.42-9.5 9.5z"></path>
+                                    <path d="M22.5 12.5c0-1.58-.875-2.95-2.148-3.6.154-.435.238-.905.238-1.4 0-2.21-1.71-4-3.99-4-.485 0-.96.084-1.4.238C14.45 2.375 13.08 1.5 11.5 1.5c-1.58 0-2.95.875-3.6 2.148-.435-.154-.905-.238-1.4-.238-2.21 0-4 1.71-4 3.99 0 .485.084.96.238 1.4C1.375 9.55.5 10.92.5 12.5c0 1.58.875 2.95 2.148 3.6-.154.435-.238.905-.238 1.4.238 2.21 0 4-1.71 4-3.99 0-.485-.084-.96-.238-1.4C21.625 15.45 22.5 14.08 22.5 12.5zM9.04 17.5l-4.5-4.5 1.42-1.42 3.08 3.08 8.08-8.08 1.42 1.42-9.5 9.5z"></path>
                                 </svg>
                             </div>
                             <div className="text-sm text-gray-500 dark:text-gray-400">

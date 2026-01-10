@@ -142,6 +142,36 @@ const GPBoxProducts = () => {
         }
     ];
 
+    const [isDown, setIsDown] = useState(false);
+    const [startX, setStartX] = useState(0);
+    const [scrollLeftState, setScrollLeftState] = useState(0);
+
+    const handleMouseDown = (e) => {
+        setIsDown(true);
+        setIsPaused(true); // Ensure auto-scroll is paused while dragging
+        const slider = scrollRef.current;
+        setStartX(e.pageX - slider.offsetLeft);
+        setScrollLeftState(slider.scrollLeft);
+    };
+
+    const handleMouseLeave = () => {
+        setIsDown(false);
+        setIsHovered(false); // Resume normal hover behavior checks
+    };
+
+    const handleMouseUp = () => {
+        setIsDown(false);
+    };
+
+    const handleMouseMove = (e) => {
+        if (!isDown) return;
+        e.preventDefault();
+        const slider = scrollRef.current;
+        const x = e.pageX - slider.offsetLeft;
+        const walk = (x - startX) * 2; // Scroll speed multiplier
+        slider.scrollLeft = scrollLeftState - walk;
+    };
+
     return (
         <section className="py-20 bg-gray-50 dark:bg-slate-950 transition-colors duration-300" id="products">
             <div className="container mx-auto px-4 md:px-6">
@@ -205,12 +235,15 @@ const GPBoxProducts = () => {
                 <div
                     className="relative"
                     onMouseEnter={() => setIsHovered(true)}
-                    onMouseLeave={() => setIsHovered(false)}
+                    onMouseLeave={handleMouseLeave}
                 >
                     <div
                         ref={scrollRef}
-                        className="flex overflow-x-auto gap-6 pb-12 snap-x snap-mandatory scrollbar-hide -mx-4 px-4 md:mx-0 md:px-0"
+                        className={`flex overflow-x-auto gap-6 pb-12 scrollbar-hide -mx-4 px-4 md:mx-0 md:px-0 select-none ${isDown ? 'cursor-grabbing snap-none' : 'cursor-grab snap-x snap-mandatory'}`}
                         style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
+                        onMouseDown={handleMouseDown}
+                        onMouseUp={handleMouseUp}
+                        onMouseMove={handleMouseMove}
                     >
                         {products.map((product, idx) => (
                             <ProductCard key={idx} {...product} />

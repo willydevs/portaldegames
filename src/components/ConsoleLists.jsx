@@ -72,11 +72,41 @@ const GameRow = ({ title, games }) => {
 
     const togglePause = () => setIsPaused(!isPaused);
 
+    const [isDown, setIsDown] = useState(false);
+    const [startX, setStartX] = useState(0);
+    const [scrollLeftState, setScrollLeftState] = useState(0);
+
+    const handleMouseDown = (e) => {
+        setIsDown(true);
+        setIsPaused(true);
+        const slider = scrollRef.current;
+        setStartX(e.pageX - slider.offsetLeft);
+        setScrollLeftState(slider.scrollLeft);
+    };
+
+    const handleMouseLeave = () => {
+        setIsDown(false);
+        setIsHovered(false);
+    };
+
+    const handleMouseUp = () => {
+        setIsDown(false);
+    };
+
+    const handleMouseMove = (e) => {
+        if (!isDown) return;
+        e.preventDefault();
+        const slider = scrollRef.current;
+        const x = e.pageX - slider.offsetLeft;
+        const walk = (x - startX) * 2;
+        slider.scrollLeft = scrollLeftState - walk;
+    };
+
     return (
         <div
             className="mb-12 last:mb-0 relative group/row"
             onMouseEnter={() => setIsHovered(true)}
-            onMouseLeave={() => setIsHovered(false)}
+            onMouseLeave={handleMouseLeave}
         >
             <div className="flex items-center justify-between mb-6 px-4 md:px-0">
                 <h3 className="text-2xl font-bold text-gray-900 dark:text-white border-l-4 border-primary pl-3">{title}</h3>
@@ -119,8 +149,11 @@ const GameRow = ({ title, games }) => {
             {/* Scrollable Container */}
             <div
                 ref={scrollRef}
-                className="flex overflow-x-auto gap-6 pb-8 px-4 md:px-0 snap-x snap-mandatory scrollbar-hide -mx-4 md:mx-0"
+                className={`flex overflow-x-auto gap-6 pb-8 px-4 md:px-0 scrollbar-hide -mx-4 md:mx-0 select-none ${isDown ? 'cursor-grabbing snap-none' : 'cursor-grab snap-x snap-mandatory'}`}
                 style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
+                onMouseDown={handleMouseDown}
+                onMouseUp={handleMouseUp}
+                onMouseMove={handleMouseMove}
             >
                 {games.map((game, idx) => (
                     <GameCard key={idx} {...game} />

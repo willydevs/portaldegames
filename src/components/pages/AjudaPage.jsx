@@ -89,6 +89,14 @@ const AjudaPage = () => {
                     <li><strong>Boleto:</strong> Prazo máximo 3 dias úteis (geralmente solicitaremos seus dados bancários).</li>
                 </ul>
             )
+        {
+            question: "Como denunciar conteúdo que viola direitos autorais?",
+            answer: (
+                <>
+                    <p className="mb-2">Levamos a sério a proteção da propriedade intelectual. Se você identificou conteúdo em nossa plataforma que viola seus direitos autorais, siga nosso processo oficial de denúncia.</p>
+                    <p>Para isso, acesse nossa <Link to="/denuncia" className="text-blue-600 dark:text-blue-400 hover:underline">página de denúncia</Link> e preencha o formulário com os detalhes da violação.</p>
+                </>
+            )
         }
     ];
 

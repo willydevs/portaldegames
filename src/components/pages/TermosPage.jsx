@@ -19,6 +19,9 @@ const TermosPage = () => {
 
                 <h3>3. Propriedade Intelectual</h3>
                 <p>Todo o conteúdo presente neste site, incluindo textos, gráficos, logotipos e códigos, é propriedade do Portal de Games ou de seus licenciadores e está protegido por leis de direitos autorais.</p>
+                <div className="mt-2">
+                    <a href="/denuncia" className="text-blue-600 dark:text-blue-400 hover:underline font-medium">Fazer uma denúncia</a>
+                </div>
 
                 <h3>4. Limitação de Responsabilidade</h3>
                 <p>O Portal de Games não será responsável por quaisquer danos diretos, indiretos, incidentais ou consequentes resultantes do uso ou da incapacidade de usar nossos serviços.</p>

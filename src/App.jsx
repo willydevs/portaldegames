@@ -11,6 +11,7 @@ import PrivacidadePage from './components/pages/PrivacidadePage';
 import SobrePage from './components/pages/SobrePage';
 import AjudaPage from './components/pages/AjudaPage';
 import AbrirChamadoPage from './components/pages/AbrirChamadoPage';
+import DenunciaPage from './components/pages/DenunciaPage';
 
 function App() {
   const [theme, setTheme] = React.useState(() => {
@@ -58,6 +59,7 @@ function App() {
             <Route path="/sobre" element={<SobrePage />} />
             <Route path="/ajuda" element={<AjudaPage />} />
             <Route path="/ajuda/novo-chamado" element={<AbrirChamadoPage />} />
+            <Route path="/denuncia" element={<DenunciaPage />} />
           </Routes>
         </main>
 

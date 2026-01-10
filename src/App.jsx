@@ -10,6 +10,27 @@ import Footer from './components/Footer';
 import MouseGlow from './components/ui/MouseGlow';
 
 function App() {
+  const [theme, setTheme] = React.useState(() => {
+    if (typeof window !== 'undefined') {
+      return localStorage.getItem('theme') || 'light';
+    }
+    return 'light';
+  });
+
+  useEffect(() => {
+    const root = window.document.documentElement;
+    if (theme === 'dark') {
+      root.classList.add('dark');
+    } else {
+      root.classList.remove('dark');
+    }
+    localStorage.setItem('theme', theme);
+  }, [theme]);
+
+  const toggleTheme = () => {
+    setTheme(prev => prev === 'light' ? 'dark' : 'light');
+  };
+
   // Smooth scroll behavior
   useEffect(() => {
     document.documentElement.style.scrollBehavior = 'smooth';
@@ -19,9 +40,9 @@ function App() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-white selection:bg-blue-100 selection:text-primary relative group">
+    <div className="min-h-screen bg-white dark:bg-slate-950 selection:bg-blue-100 selection:text-primary relative transition-colors duration-300">
       <MouseGlow />
-      <Navbar />
+      <Navbar theme={theme} toggleTheme={toggleTheme} />
 
       <main>
         <Hero />

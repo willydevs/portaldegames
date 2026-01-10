@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 
 const TermosPage = () => {
     useEffect(() => {
@@ -19,8 +20,11 @@ const TermosPage = () => {
 
                 <h3>3. Propriedade Intelectual</h3>
                 <p>Todo o conteúdo presente neste site, incluindo textos, gráficos, logotipos e códigos, é propriedade do Portal de Games ou de seus licenciadores e está protegido por leis de direitos autorais.</p>
-                <div className="mt-2">
-                    <a href="/denuncia" className="text-blue-600 dark:text-blue-400 hover:underline font-medium">Fazer uma denúncia</a>
+                <p className="mt-4 mb-2">
+                    Caso você identifique qualquer violação de propriedade intelectual ou de nossas políticas, você pode reportar através do link abaixo:
+                </p>
+                <div>
+                    <Link to="/denuncia" className="text-blue-600 dark:text-blue-400 hover:underline font-medium">Fazer uma denúncia</Link>
                 </div>
 
                 <h3>4. Limitação de Responsabilidade</h3>

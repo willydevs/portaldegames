@@ -52,7 +52,7 @@ const FeaturesGrid = () => {
                 <div className="text-center mb-16">
                     <h2 className="text-3xl md:text-4xl font-bold mb-4">Por que escolher o Portal?</h2>
                     <p className="text-gray-600 max-w-2xl mx-auto">
-                        Uma experiência pensada para gamers exigentes que buscam qualidade e segurança.
+                        O Portal de Games funciona como um hub: reunimos diferentes sites multijogos, cada um com seu próprio sistema, catálogo e proposta, além da venda de alguns jogos individuais.
                     </p>
                 </div>
 

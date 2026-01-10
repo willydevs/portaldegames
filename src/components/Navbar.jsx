@@ -22,7 +22,7 @@ const Navbar = ({ theme, toggleTheme }) => {
         { name: 'Jogos', href: '/#games' },
         { name: 'Sistemas', href: '/#products' },
         { name: 'Lojas', href: '/lojas', isRoute: true },
-        { name: 'Benefícios', href: '/#features' },
+        { name: 'Benefícios', href: '/#benefits' },
     ];
 
     return (

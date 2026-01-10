@@ -8,6 +8,7 @@ import FeaturesGrid from './components/FeaturesGrid';
 import CTASection from './components/CTASection';
 import Footer from './components/Footer';
 import MouseGlow from './components/ui/MouseGlow';
+import PlayboxProducts from './components/PlayboxProducts';
 
 function App() {
   const [theme, setTheme] = React.useState(() => {
@@ -51,11 +52,12 @@ function App() {
         <SystemsMarquee />
         <FeaturesGrid />
         <CTASection />
+        <PlayboxProducts />
       </main>
 
       <Footer />
     </div>
   );
-}
+};
 
 export default App;

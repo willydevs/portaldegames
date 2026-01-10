@@ -71,7 +71,7 @@ const GPBoxProducts = () => {
                     scrollContainer.scrollBy({ left: scrollAmount, behavior: 'smooth' });
                 }
             }
-        }, 4000); // Slightly slower for products
+        }, 7000); // Slower interval as requested
 
         return () => clearInterval(interval);
     }, [isHovered, isPaused]);

@@ -53,7 +53,7 @@ const GameRow = ({ title, games }) => {
                     scrollContainer.scrollBy({ left: scrollAmount, behavior: 'smooth' });
                 }
             }
-        }, 3000);
+        }, 7000);
 
         return () => clearInterval(interval);
     }, [isHovered, isPaused]);

@@ -1,0 +1,37 @@
+[
+    {
+        "Nome": "BeachSpikers",
+        "console": "naomi2",
+        "video": "",
+        "imagem": "https://forums.cdn.launchbox.gg/monthly_2022_09/1584597975_BeachSpikers-02.png.ed5225fb0cc1bda726b1d05ed6169109.png",
+        "pack": "pack_adicional"
+    },
+    {
+        "Nome": "InitialDVer3",
+        "console": "naomi2",
+        "video": "",
+        "imagem": "https://images.launchbox-app.com/dd0d24fe-e21e-4d1e-9883-da97447141e1.jpg",
+        "pack": "pack_adicional"
+    },
+    {
+        "Nome": "VirtuaFighter4",
+        "console": "naomi2",
+        "video": "",
+        "imagem": "https://images.launchbox-app.com/9ab8ad8b-3a75-45a5-a4da-4dc667a962fb.jpg",
+        "pack": "pack_adicional"
+    },
+    {
+        "Nome": "VirtuaFighter4Tuned",
+        "console": "naomi2",
+        "video": "",
+        "imagem": "https://images.launchbox-app.com/3f926743-2dab-46bd-bf66-a00440e54974.jpg",
+        "pack": "pack_adicional"
+    },
+    {
+        "Nome": "VirtuaStriker3",
+        "console": "naomi2",
+        "video": "",
+        "imagem": "https://images.launchbox-app.com/d395bb4b-5d04-4b1e-8037-883c08a7239d.jpg",
+        "pack": "pack_adicional"
+    }
+]

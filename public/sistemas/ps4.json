@@ -1,0 +1,79 @@
+[
+  {
+    "Nome": "DarkSoulsRemastered",
+    "console": "ps4",
+    "video": "https://ggbox.com.br/jogos/ps4/Dark%20Souls%20Remastered.mp4",
+    "imagem": "https://m.media-amazon.com/images/I/716RNd1mPML._AC_UF1000,1000_QL80_.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "DarkSouls2",
+    "console": "ps4",
+    "video": "https://ggbox.com.br/jogos/ps4/Dark%20Souls%202%20-%20Scholar%20of%20the%20First%20Sin.mp4",
+    "imagem": "https://m.media-amazon.com/images/I/71hIZMtJfWL._AC_UF1000,1000_QL80_.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "DarkSouls3",
+    "console": "ps4",
+    "video": "https://ggbox.com.br/jogos/ps4/Dark%20Souls%203.mp4",
+    "imagem": "https://m.media-amazon.com/images/I/81kHY1Irw0L._AC_UF1000,1000_QL80_.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "EldenRing",
+    "console": "ps4",
+    "video": "https://ggbox.com.br/jogos/ps4/ELDEN%20RING.mp4",
+    "imagem": "https://m.media-amazon.com/images/I/71lS5rBEFmL._AC_UF1000,1000_QL80_.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "NeedForSpeedMW",
+    "console": "ps4",
+    "video": "https://ggbox.com.br/jogos/ps4/Need%20for%20Speed%20-%20Most%20Wanted.mp4",
+    "imagem": "http://ggbox.com.br/jogos/ps4/nfsmw.webp",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "RedDeadRedemption2",
+    "console": "ps4",
+    "video": "https://ggbox.com.br/jogos/ps4/Red%20Dead%20Redemption%202.mp4",
+    "imagem": "https://m.media-amazon.com/images/I/71XrxGqPosL._AC_UF1000,1000_QL80_.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "SekiroShadowsDieTwice",
+    "console": "ps4",
+    "video": "https://ggbox.com.br/jogos/ps4/Sekiro.mp4",
+    "imagem": "https://www.sekirothegame.com/content/dam/atvi/sekiro/buy/box-art/PS4_2D_MX.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "SpiderManRemastered",
+    "console": "ps4",
+    "video": "https://ggbox.com.br/jogos/ps4/Spider-man%20Remastered.mp4",
+    "imagem": "https://m.media-amazon.com/images/I/815TEngwF7L.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "TheLastOfUsPartI",
+    "console": "ps4",
+    "video": "https://ggbox.com.br/jogos/ps4/The%20Last%20of%20Us%20-%20Part%20I.mp4",
+    "imagem": "https://m.media-amazon.com/images/I/91zSahIYtIL.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "UnchartedLTCollection",
+    "console": "ps4",
+    "video": "https://ggbox.com.br/jogos/ps4/UNCHARTED%20-%20Legacy%20of%20Thieves%20Collection.mp4",
+    "imagem": "https://m.media-amazon.com/images/I/813QeeXqZwL._AC_UF1000,1000_QL80_.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "GodOfWar",
+    "console": "ps4",
+    "video": "https://ggbox.com.br/jogos/ps4/God%20of%20War.mp4",
+    "imagem": "https://m.media-amazon.com/images/I/913r59lGp-L.jpg",
+    "pack": "pack_adicional"
+  }
+]

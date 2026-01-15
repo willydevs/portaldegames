@@ -1,0 +1,86 @@
+[
+  {
+    "Nome": "Lords of Thunder",
+    "console": "segacd",
+    "video": "https://ggbox.com.br/jogos/segacd/videos/Lords%20of%20Thunder.mp4",
+    "imagem": "https://ggbox.com.br/jogos/segacd/marquee/Lords%20of%20Thunder.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Flashback: The Quest for Identity",
+    "console": "segacd",
+    "video": "https://ggbox.com.br/jogos/segacd/videos/Flashback%20-%20The%20Quest%20For%20Identity.mp4",
+    "imagem": "https://ggbox.com.br/jogos/segacd/marquee/Flashback%20-%20The%20Quest%20For%20Identity.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The\tAmazing Spider-Man vs. The Kingpin",
+    "console": "segacd",
+    "video": "https://ggbox.com.br/jogos/segacd/videos/Amazing%20Spider-Man%20vs%20The%20Kingpin.mp4",
+    "imagem": "https://ggbox.com.br/jogos/segacd/marquee/Amazing%20Spider-Man%20vs%20The%20Kingpin.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Secret of Monkey Island",
+    "console": "segacd",
+    "video": "https://ggbox.com.br/jogos/segacd/videos/Secret%20of%20Monkey%20Island.mp4",
+    "imagem": "https://ggbox.com.br/jogos/segacd/marquee/Secret%20of%20Monkey%20Island.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Earthworm Jim: Special Edition",
+    "console": "segacd",
+    "video": "https://ggbox.com.br/jogos/segacd/videos/Earthworm%20Jim%20-%20Special%20Edition.mp4",
+    "imagem": "https://ggbox.com.br/jogos/segacd/marquee/Earthworm%20Jim%20-%20Special%20Edition.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Road Rash",
+    "console": "segacd",
+    "video": "https://ggbox.com.br/jogos/segacd/videos/Road%20Rash.mp4",
+    "imagem": "https://ggbox.com.br/jogos/3do/media/_images/Road%20Rash%20(USA",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Soul Star",
+    "console": "segacd",
+    "video": "https://ggbox.com.br/jogos/segacd/videos/Soul%20Star.mp4",
+    "imagem": "https://ggbox.com.br/jogos/segacd/marquee/Soul%20Star.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Time Gal",
+    "console": "segacd",
+    "video": "https://ggbox.com.br/jogos/segacd/videos/Time%20Gal%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/segacd/marquee/Time%20Gal%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Prince of Persia",
+    "console": "segacd",
+    "video": "https://ggbox.com.br/jogos/segacd/videos/Prince%20of%20Persia%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/segacd/marquee/Prince%20of%20Persia%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "segacd",
+    "console": "segacd",
+    "video": "",
+    "imagem": "",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sonic CD",
+    "console": "segacd",
+    "video": "https://ggbox.com.br/jogos/segacd/videos/Sonic%20the%20Hedgehog.mp4",
+    "imagem": "https://ggbox.com.br/jogos/segacd/marquee/Sonic%20the%20Hedgehog.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Batman Returns",
+    "console": "segacd",
+    "video": "https://ggbox.com.br/jogos/segacd/videos/Batman%20Returns.mp4",
+    "imagem": "https://ggbox.com.br/jogos/segacd/marquee/Batman%20Returns.png",
+    "pack": "pack_standard"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Nome": "Doraemon - Nobita No Dorabian Night",
+    "console": "pcenginecd",
+    "video": "https://ggbox.com.br/jogos/pcenginecd/videos/Doraemon%20Nobita%20no%20Dorabian%20Night.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcenginecd/marquee/Doraemon%20Nobita%20no%20Dorabian%20Night.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Addams Family",
+    "console": "pcenginecd",
+    "video": "https://ggbox.com.br/jogos/pcenginecd/videos/Addams%20Family.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcenginecd/marquee/Addams%20Family.png",
+    "pack": "pack_standard"
+  }
+]

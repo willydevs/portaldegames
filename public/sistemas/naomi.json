@@ -1,0 +1,16 @@
+[
+  {
+    "Nome": "Crazy Taxi",
+    "console": "naomi",
+    "video": "https://ggbox.com.br/jogos/naomi/media/videos/crzytaxi.mp4",
+    "imagem": "https://ggbox.com.br/jogos/naomi/media/wheel/crzytaxi.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Virtua Striker 2 Ver. 2000 (rev C)",
+    "console": "naomi",
+    "video": "https://ggbox.com.br/jogos/naomi/media/videos/vs2_2k.mp4",
+    "imagem": "https://ggbox.com.br/jogos/naomi/media/wheel/vs2_2k.png",
+    "pack": "pack_standard"
+  }
+]

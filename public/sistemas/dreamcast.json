@@ -1,0 +1,37 @@
+[
+  {
+    "Nome": "Sonic Adventure",
+    "console": "dreamcast",
+    "video": "https://ggbox.com.br/jogos/dreamcast/media/videos/Sonic%20Adventure%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs).mp4",
+    "imagem": "https://ggbox.com.br/jogos/dreamcast/media/wheel/Sonic%20Adventure%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sonic Adventure 2",
+    "console": "dreamcast",
+    "video": "https://ggbox.com.br/jogos/dreamcast/media/videos/Sonic%20Adventure%202%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs).mp4",
+    "imagem": "https://ggbox.com.br/jogos/dreamcast/media/wheel/Sonic%20Adventure%202%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Marvel Vs. Capcom - Clash Of Super Heroes",
+    "console": "dreamcast",
+    "video": "https://ggbox.com.br/jogos/dreamcast/media/videos/Marvel%20vs%20%20Capcom%202%20-%20New%20Age%20of%20Heroes%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/dreamcast/media/wheel/Marvel%20vs%20%20Capcom%202%20-%20New%20Age%20of%20Heroes%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Capcom Vs. Snk 2 Millionaire Fighting 2001",
+    "console": "dreamcast",
+    "video": "https://ggbox.com.br/jogos/dreamcast/media/videos/Capcom%20vs.%20SNK%202%20-%20Millionaire%20Fighting%202001%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/dreamcast/media/wheel/Capcom%20vs.%20SNK%202%20-%20Millionaire%20Fighting%202001%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Daytona USA 2001",
+    "console": "dreamcast",
+    "video": "https://ggbox.com.br/jogos/dreamcast/media/videos/Daytona%20USA%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/dreamcast/media/wheel/Daytona%20USA%20(USA).png",
+    "pack": "pack_standard"
+  }
+]

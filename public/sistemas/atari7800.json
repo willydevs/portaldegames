@@ -1,0 +1,513 @@
+[
+  {
+    "Nome": "Ace of Aces",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Ace%20of%20Aces%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Ace%20of%20Aces%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alien Brigade",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Alien%20Brigade%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Alien%20Brigade%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Asteroids",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Asteroids%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Asteroids%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ballblazer",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Ballblazer%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Ballblazer%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Barnyard Blaster",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Barnyard%20Blaster%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Barnyard%20Blaster%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Basketbrawl",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Basketbrawl%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Basketbrawl%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Beef Drop",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Beef%20Drop.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Beef%20Drop.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Centipede",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Centipede%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Centipede%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Choplifter!",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Choplifter!%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Choplifter!%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Commando",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Commando%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Commando%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crack'ed",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Crack'ed%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Crack'ed%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crossbow",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Crossbow%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Crossbow%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dark Chambers",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Dark%20Chambers%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Dark%20Chambers%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Desert Falcon",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Desert%20Falcon%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Desert%20Falcon%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dig Dug",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Dig%20Dug%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Dig%20Dug%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Donkey Kong Junior",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Donkey%20Kong%20Junior%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Donkey%20Kong%20Junior%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Donkey Kong",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Donkey%20Kong%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Donkey%20Kong%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Double Dragon",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Double%20Dragon%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Double%20Dragon%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "F-18 Hornet",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/F-18%20Hornet%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/F-18%20Hornet%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fatal Run",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Fatal%20Run%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Fatal%20Run%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fight Night",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Fight%20Night%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Fight%20Night%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Food Fight",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Food%20Fight%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Food%20Fight%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Galaga",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Galaga%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Galaga%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "GATO",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Gato%20(198x)%20(Atari)%20(Prototype)%20%5Ba2%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Gato%20(198x)%20(Atari)%20(Prototype)%20%5Ba2%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hat Trick",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Hat%20Trick%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Hat%20Trick%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ikari Warriors",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Ikari%20Warriors%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Ikari%20Warriors%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Impossible Mission",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Impossible%20Mission%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Impossible%20Mission%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jinks",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Jinks%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Jinks%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Joust",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Joust%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Joust%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Karateka",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Karateka%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Karateka%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Klax",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Klax%20(USA)%20(Proto).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Klax%20(USA)%20(Proto).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kung-Fu Master",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Kung-Fu%20Master%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Kung-Fu%20Master%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mario Bros.",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Mario%20Bros.%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Mario%20Bros.%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mat Mania Challenge",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Mat%20Mania%20Challenge%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Mat%20Mania%20Challenge%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mean 18 Ultimate Golf",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Mean%2018%20Ultimate%20Golf%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Mean%2018%20Ultimate%20Golf%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Meltdown",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Meltdown%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Meltdown%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Midnight Mutants",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Midnight%20Mutants%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Midnight%20Mutants%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Missing In Action",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Missing%20In%20Action%20(Unknown)%20(Proto).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Missing%20In%20Action%20(Unknown)%20(Proto).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Motor Psycho",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Motor%20Psycho%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Motor%20Psycho%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ms. Pac-Man",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Ms.%20Pac-Man%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Ms.%20Pac-Man%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ninja Golf",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Ninja%20Golf%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Ninja%20Golf%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "One-on-One Basketball",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/One-on-One%20Basketball%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/One-on-One%20Basketball%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pete Rose Baseball",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Pete%20Rose%20Baseball%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Pete%20Rose%20Baseball%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pit Fighter",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Pit%20Fighter%20(Unknown)%20(Proto).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Pit%20Fighter%20(Unknown)%20(Proto).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Planet Smashers",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Planet%20Smashers%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Planet%20Smashers%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Plutos",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Plutos%20(Unknown)%20(Proto).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Plutos%20(Unknown)%20(Proto).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pole Position II",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Pole%20Position%20II%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Pole%20Position%20II%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rampage",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Rampage%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Rampage%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "RealSports Baseball",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/RealSports%20Baseball%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/RealSports%20Baseball%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rescue on Fractalus",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Rescue%20on%20Fractalus%20(USA)%20(Proto).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Rescue%20on%20Fractalus%20(USA)%20(Proto).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Robotron : 2084",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Robotron%20-%202084%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Robotron%20-%202084%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Scrapyard Dog",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Scrapyard%20Dog%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Scrapyard%20Dog%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sentinel",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Sentinel%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Sentinel%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sirius",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Sirius%20(Unknown)%20(Proto).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Sirius%20(Unknown)%20(Proto).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space War!",
+    "console": "atari7800",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Space%20War.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Summer Games",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Summer%20Games%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Summer%20Games%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Huey UH-IX",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Super%20Huey%20UH-IX%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Super%20Huey%20UH-IX%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Skateboardin'",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Super%20Skateboardin'%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Super%20Skateboardin'%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tank Command",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Tank%20Command%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Tank%20Command%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Title Match Pro Wrestling",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Title%20Match%20Pro%20Wrestling%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Title%20Match%20Pro%20Wrestling%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tomcat : The F-14 Fighter Simulator",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Tomcat%20-%20The%20F-14%20Fighter%20Simulator%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Tomcat%20-%20The%20F-14%20Fighter%20Simulator%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Touchdown Football",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Touchdown%20Football%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Touchdown%20Football%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tower Toppler",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Tower%20Toppler%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Tower%20Toppler%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tubes",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Tubes.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Tubes.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Water Ski",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Water%20Ski%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Water%20Ski%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Winter Games",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Winter%20Games%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Winter%20Games%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Xenophobe",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Xenophobe%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Xenophobe%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Xevious",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/Xevious%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Xevious%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "ZZZ(notgame):Robot Finds Kitten",
+    "console": "atari7800",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/Robot%20Finds%20Kitten.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "ZZZ(notgame):[bios] Atari 7800",
+    "console": "atari7800",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/bios.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "ZZZ(notgame):[bios] Atari 7800",
+    "console": "atari7800",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/bios.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "ZZZ(notgame):[bios] Atari 7800",
+    "console": "atari7800",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/bios.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "3D Asteroids",
+    "console": "atari7800",
+    "video": "https://ggbox.com.br/jogos/atari7800/media/videos/3D%20Asteroids%20(1987)%20(Atari)%20(Prototype)%20%5Ba1%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari7800/media/wheel/3D%20Asteroids%20(1987)%20(Atari)%20(Prototype)%20%5Ba1%5D.png",
+    "pack": "pack_standard"
+  }
+]

@@ -1,0 +1,1199 @@
+[
+  {
+    "Nome": "The Addams Family",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Addams%20Family%2C%20The%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Addams%20Family%2C%20The%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alex Kidd in the Enchanted Castle",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Alex%20Kidd%20in%20the%20Enchanted%20Castle%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Alex%20Kidd%20in%20the%20Enchanted%20Castle%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alien 3",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Alien%203%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Alien%203%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alien Soldier",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Alien%20Soldier%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Alien%20Soldier%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alien Storm",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Alien%20Storm%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Alien%20Storm%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Atomic Robo-Kid",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Atomic%20Robo-Kid%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Atomic%20Robo-Kid%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Atomic Runner",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Atomic%20Runner%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Atomic%20Runner%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ayrton Senna's Super Monaco GP II",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Ayrton%20Senna's%20Super%20Monaco%20GP%20II%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Ayrton%20Senna's%20Super%20Monaco%20GP%20II%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Baby's Day Out",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Baby's%20Day%20Out%20(USA)%20(Proto).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Baby's%20Day%20Out%20(USA)%20(Proto).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Batman : Revenge of the Joker",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Batman%20-%20Revenge%20of%20the%20Joker%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Batman%20-%20Revenge%20of%20the%20Joker%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battle Mania Daiginjou",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Battle%20Mania%20Daiginjou%20(Japan%2C%20Korea)%20(Translated%20En).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Battle%20Mania%20Daiginjou%20(Japan%2C%20Korea)%20(Translated%20En).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battle Squadron",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Battle%20Squadron%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Battle%20Squadron%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battletoads",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Battletoads%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Battletoads%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Beyond Oasis",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Beyond%20Oasis%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Beyond%20Oasis%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bio Hazard Battle",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Bio%20Hazard%20Battle%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Bio%20Hazard%20Battle%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Caliber.50",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Caliber.50%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Caliber.50%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "California Games",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/California%20Games%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/California%20Games%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Captain Planet and the Planeteers",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Captain%20Planet%20and%20the%20Planeteers%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Captain%20Planet%20and%20the%20Planeteers%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chakan",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Chakan%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Chakan%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chuck Rock",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Chuck%20Rock%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Chuck%20Rock%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chuck Rock II : Son of Chuck",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Chuck%20Rock%20II%20-%20Son%20of%20Chuck%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Chuck%20Rock%20II%20-%20Son%20of%20Chuck%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Comix Zone",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Comix%20Zone%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Comix%20Zone%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Contra : Hard Corps",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Contra%20-%20Hard%20Corps%20(USA%2C%20Korea).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Contra%20-%20Hard%20Corps%20(USA%2C%20Korea).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crusader of Centy",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Crusader%20of%20Centy%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Crusader%20of%20Centy%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "DEcapAttack",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/DecapAttack%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/DecapAttack%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Desert Strike : Return to the Gulf",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Desert%20Strike%20-%20Return%20To%20The%20Gulf%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Desert%20Strike%20-%20Return%20To%20The%20Gulf%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "A Dinosaur's Tale",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Dinosaur's%20Tale%2C%20A%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Dinosaur's%20Tale%2C%20A%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "DJ Boy",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/DJ%20Boy%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/DJ%20Boy%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Donald in Maui Mallard",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Donald%20in%20Maui%20Mallard%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Donald%20in%20Maui%20Mallard%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon : The Bruce Lee Story",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Dragon%20-%20The%20Bruce%20Lee%20Story%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Dragon%20-%20The%20Bruce%20Lee%20Story%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Duke Nukem 3D",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Duke%20Nukem%203D%20(Brazil).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Duke%20Nukem%203D%20(Brazil).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dynamite Duke",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Dynamite%20Duke%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Dynamite%20Duke%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Earnest Evans",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Earnest%20Evans%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Earnest%20Evans%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ecco the Dolphin",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Ecco%20the%20Dolphin%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Ecco%20the%20Dolphin%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "El. Viento",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/El.%20Viento%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/El.%20Viento%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "ESWAT : City Under Siege",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/ESWAT%20-%20City%20Under%20Siege%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/ESWAT%20-%20City%20Under%20Siege%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Férias Frustradas do Pica-Pau",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Ferias%20Frustradas%20do%20Pica-Pau%20(Brazil).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Ferias%20Frustradas%20do%20Pica-Pau%20(Brazil).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "FIFA International Soccer",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/FIFA%20International%20Soccer%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/FIFA%20International%20Soccer%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "FIFA Soccer 97",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/FIFA%20Soccer%202000%20Gold%20Edition%20(Unl)%20(M6)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/FIFA%20Soccer%202000%20Gold%20Edition%20(Unl)%20(M6)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fighting Masters",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Fighting%20Masters%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Fighting%20Masters%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Final Zone",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Final%20Zone%20(Japan%2C%20USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Final%20Zone%20(Japan%2C%20USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Flashback : The Quest for Identity",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Flashback%20-%20The%20Quest%20for%20Identity%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Flashback%20-%20The%20Quest%20for%20Identity%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Flintstones",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Flintstones%2C%20The%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Flintstones%2C%20The%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gaiares",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Gaiares%20(Japan%2C%20USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Gaiares%20(Japan%2C%20USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gargoyles",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Gargoyles%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Gargoyles%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Golden Axe",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Golden%20Axe%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Golden%20Axe%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Golden Axe II",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Golden%20Axe%20II%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Golden%20Axe%20II%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Golden Axe III",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Golden%20Axe%20III%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Golden%20Axe%20III%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Goofy's Hysterical History Tour",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Goofy's%20Hysterical%20History%20Tour%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Goofy's%20Hysterical%20History%20Tour%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Greendog : The Beached Surfer Dude!",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Greendog%20-%20The%20Beached%20Surfer%20Dude!%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Greendog%20-%20The%20Beached%20Surfer%20Dude!%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Insector X",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Insector%20X%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Insector%20X%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "James Bond 007 : The Duel",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/James%20Bond%20007%20-%20The%20Duel%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/James%20Bond%20007%20-%20The%20Duel%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "James Pond : Underwater Agent",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/James%20Pond%20-%20Underwater%20Agent%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/James%20Pond%20-%20Underwater%20Agent%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "James Pond 3",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/James%20Pond%203%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/James%20Pond%203%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "James Pond II : Codename, Robocod",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/James%20Pond%20II%20-%20Codename%20Robocod%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/James%20Pond%20II%20-%20Codename%20Robocod%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "JuJu Densetsu",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/JuJu%20Densetsu%20(J).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/JuJu%20Densetsu%20(J).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jungle Strike : The Sequel to Desert Strike",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Jungle%20Strike%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Jungle%20Strike%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kid Chameleon",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Kid%20Chameleon%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Kid%20Chameleon%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Landstalker",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Landstalker%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Landstalker%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lemmings",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Lemmings%20(Japan%2C%20USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Lemmings%20(Japan%2C%20USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Light Crusader",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Light%20Crusader%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Light%20Crusader%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lightening Force : Quest for the Darkstar",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Lightening%20Force%20-%20Quest%20for%20the%20Darkstar%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Lightening%20Force%20-%20Quest%20for%20the%20Darkstar%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Lost World : Jurassic Park",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Lost%20World%2C%20The%20-%20Jurassic%20Park%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Lost%20World%2C%20The%20-%20Jurassic%20Park%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Marsupilami",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Marsupilami%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Marsupilami%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "McDonald's Treasure Land Adventure",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/McDonald's%20Treasure%20Land%20Adventure%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/McDonald's%20Treasure%20Land%20Adventure%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mega Man : The Wily Wars",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Mega%20Man%20-%20The%20Wily%20Wars%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Mega%20Man%20-%20The%20Wily%20Wars%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mega Turrican",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Mega%20Turrican%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Mega%20Turrican%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mercs",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Mercs%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Mercs%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Michael Jackson's Moonwalker",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Michael%20Jackson's%20Moonwalker%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Michael%20Jackson's%20Moonwalker%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Micro Machines : Military",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Micro%20Machines%20Military%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Micro%20Machines%20Military%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Micro Machines : Turbo Tournament 96",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Micro%20Machines%20Turbo%20Tournament%2096%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Micro%20Machines%20Turbo%20Tournament%2096%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Midnight Resistance",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Midnight%20Resistance%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Midnight%20Resistance%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Monster World IV",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Monster%20World%20IV%20(Japan)%20(Translated%20En).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Monster%20World%20IV%20(Japan)%20(Translated%20En).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mortal Kombat",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Mortal%20Kombat%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Mortal%20Kombat%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "MUSHA : Metallic Uniframe Super Hybrid Armor",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/MUSHA%20-%20Metallic%20Uniframe%20Super%20Hybrid%20Armor%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/MUSHA%20-%20Metallic%20Uniframe%20Super%20Hybrid%20Armor%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mystic Defender",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Mystic%20Defender%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Mystic%20Defender%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The New Zealand Story",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/New%20Zealand%20Story%2C%20The%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/New%20Zealand%20Story%2C%20The%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "OutRun",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/OutRun%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/OutRun%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "OutRun 2019",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/OutRun%202019%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/OutRun%202019%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "OutRunners",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/OutRunners%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/OutRunners%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pac-Mania",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Pac-Mania%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Pac-Mania%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Paperboy",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Paperboy%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Paperboy%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Phantasy Star II",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Phantasy%20Star%20II%20(pt).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Phantasy%20Star%20II%20(pt).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Phantasy Star II",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Phantasy%20Star%20II%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Phantasy%20Star%20II%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Phantasy Star III : Generations of Doom",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Phantasy%20Star%20III%20-%20Generations%20of%20Doom%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Phantasy%20Star%20III%20-%20Generations%20of%20Doom%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Phantasy Star IV",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Phantasy%20Star%20IV%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Phantasy%20Star%20IV%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Phelios",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Phelios%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Phelios%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pink Goes to Hollywood",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Pink%20Goes%20to%20Hollywood%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Pink%20Goes%20to%20Hollywood%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pinocchio",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Pinocchio%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Pinocchio%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Pirates of Dark Water",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Pirates%20of%20Dark%20Water%2C%20The%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Pirates%20of%20Dark%20Water%2C%20The%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pit-Fighter",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Pit-Fighter%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Pit-Fighter%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pocahontas",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Pocahontas%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Pocahontas%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Power Drive",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Power%20Drive%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Power%20Drive%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Predator 2",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Predator%202%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Predator%202%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pulseman",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Pulseman%20(Japan)%20(Translated%20En).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Pulseman%20(Japan)%20(Translated%20En).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Punisher",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Punisher%2C%20The%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Punisher%2C%20The%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "QuackShot Starring Donald Duck",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/QuackShot%20Starring%20Donald%20Duck%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/QuackShot%20Starring%20Donald%20Duck%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Raiden Trad",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Raiden%20Trad%20(Japan%2C%20USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Raiden%20Trad%20(Japan%2C%20USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rambo III",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Rambo%20III%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Rambo%20III%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ranger X",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Ranger%20X%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Ranger%20X%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Revenge of Shinobi",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Revenge%20of%20Shinobi%2C%20The%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Revenge%20of%20Shinobi%2C%20The%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ristar",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Ristar%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Ristar%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Road Rash",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Road%20Rash%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Road%20Rash%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Road Rash II",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Road%20Rash%20II%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Road%20Rash%20II%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "RoboCop 3",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/RoboCop%203%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/RoboCop%203%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "RoboCop versus The Terminator",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/RoboCop%20versus%20The%20Terminator%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/RoboCop%20versus%20The%20Terminator%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rocket Knight Adventures",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Rocket%20Knight%20Adventures%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Rocket%20Knight%20Adventures%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rolling Thunder 2",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Rolling%20Thunder%202%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Rolling%20Thunder%202%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rolling Thunder 3",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Rolling%20Thunder%203%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Rolling%20Thunder%203%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sagaia",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Sagaia%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Sagaia%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Scooby-Doo Mystery",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Scooby-Doo%20Mystery%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Scooby-Doo%20Mystery%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Second Samurai",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Second%20Samurai%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Second%20Samurai%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shadow Dancer : The Secret of Shinobi",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Shadow%20Dancer%20-%20The%20Secret%20of%20Shinobi%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Shadow%20Dancer%20-%20The%20Secret%20of%20Shinobi%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shadow of the Beast",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Shadow%20of%20the%20Beast%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Shadow%20of%20the%20Beast%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shadow of the Beast II",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Shadow%20of%20the%20Beast%20II%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Shadow%20of%20the%20Beast%20II%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shining Force",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Shining%20Force%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Shining%20Force%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shining Force II",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Shining%20Force%20II%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Shining%20Force%20II%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shining in the Darkness",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Shining%20in%20the%20Darkness%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Shining%20in%20the%20Darkness%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shinobi III : Return of the Ninja Master",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shove It! ...The Warehouse Game",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Shove%20It!%20...The%20Warehouse%20Game%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Shove%20It!%20...The%20Warehouse%20Game%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Show Do Milhao",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Show%20do%20Milhao%20-%20Vol.%201%20(pt).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Show%20do%20Milhao%20-%20Vol.%201%20(pt).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Show Do Milhao Volume 2",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Show%20do%20Milhao%20-%20Vol.%202%20(pt).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Show%20do%20Milhao%20-%20Vol.%202%20(pt).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Simpsons : Bart vs. the Space Mutants",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Simpsons%2C%20The%20-%20Bart%20Vs.%20The%20Space%20Mutants%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Simpsons%2C%20The%20-%20Bart%20Vs.%20The%20Space%20Mutants%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Simpsons : Bart's Nightmare",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Simpsons%2C%20The%20-%20Bart's%20Nightmare%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Simpsons%2C%20The%20-%20Bart's%20Nightmare%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Skeleton Krew",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Skeleton%20Krew%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Skeleton%20Krew%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sonic 3D Flickies' Island",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Sonic%203D%20Blast%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Sonic%203D%20Blast%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sonic The Hedgehog",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Sonic%20the%20Hedgehog%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Sonic%20the%20Hedgehog%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spider-Man &amp; Venom : Maximum Carnage",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Spider-Man%20and%20Venom%20-%20Maximum%20Carnage%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Spider-Man%20and%20Venom%20-%20Maximum%20Carnage%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spider-Man",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Spider-Man%20vs%20The%20Kingpin%20(W)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Spider-Man%20vs%20The%20Kingpin%20(W)%20%5B!%5D.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Splatterhouse 3",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Splatterhouse%203%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Splatterhouse%203%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Story of Thor",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Story%20of%20Thor%2C%20The%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Story%20of%20Thor%2C%20The%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Streets of Rage",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Streets%20of%20Rage%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Streets%20of%20Rage%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Streets of Rage 2",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Streets%20of%20Rage%202%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Streets%20of%20Rage%202%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Streets of Rage 3",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Streets%20of%20Rage%203%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Streets%20of%20Rage%203%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Strider",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Strider%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Strider%20(USA%2C%20Europe).png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Super Monaco GP",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Super%20Monaco%20GP%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Super%20Monaco%20GP%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Street Fighter II",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Super%20Street%20Fighter%20II%20-%20The%20New%20Challengers%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Super%20Street%20Fighter%20II%20-%20The%20New%20Challengers%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Syd of Valis",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Syd%20of%20Valis%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Syd%20of%20Valis%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Taz in Escape from Mars",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Taz%20in%20Escape%20from%20Mars%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Taz%20in%20Escape%20from%20Mars%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Taz-Mania",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Taz-Mania%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Taz-Mania%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Terminator",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Terminator%2C%20The%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Terminator%2C%20The%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Thunder Force II",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Thunder%20Force%20II%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Thunder%20Force%20II%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Thunder Force III",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Thunder%20Force%20III%20(Japan%2C%20USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Thunder%20Force%20III%20(Japan%2C%20USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Thunder Fox",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Thunder%20Fox%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Thunder%20Fox%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "TinHead",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/TinHead%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/TinHead%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tintin in Tibet",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Tintin%20au%20Tibet%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Tintin%20au%20Tibet%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Toki : Going Ape Spit",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Toki%20-%20Going%20Ape%20Spit%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Toki%20-%20Going%20Ape%20Spit%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Toy Story",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Toy%20Story%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Toy%20Story%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Trouble Shooter",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Trouble%20Shooter%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Trouble%20Shooter%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Truxton",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Truxton%20(World).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Truxton%20(World).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Turbo Out Run",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Turbo%20OutRun%20(Japan%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Turbo%20OutRun%20(Japan%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Turma da Mônica na Terra dos Monstros",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Turma%20da%20Monica%20na%20Terra%20dos%20Monstros%20(Brazil).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Turma%20da%20Monica%20na%20Terra%20dos%20Monstros%20(Brazil).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Twinkle Tale",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Twinkle%20Tale%20(Japan)%20(Translated%20En).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Twinkle%20Tale%20(Japan)%20(Translated%20En).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Two Crude Dudes",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Two%20Crude%20Dudes%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Two%20Crude%20Dudes%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Valis",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Valis%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Valis%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Valis III",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Valis%20III%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Valis%20III%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vectorman",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Vectorman%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Vectorman%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vectorman 2",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Vectorman%202%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Vectorman%202%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Warsong",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Warsong%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Warsong%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Where in the World is Carmen Sandiego?",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Where%20in%20the%20World%20Is%20Carmen%20Sandiego%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Where%20in%20the%20World%20Is%20Carmen%20Sandiego%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Where in Time is Carmen Sandiego?",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Where%20in%20Time%20Is%20Carmen%20Sandiego%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Where%20in%20Time%20Is%20Carmen%20Sandiego%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wonder Boy in Monster World",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Wonder%20Boy%20in%20Monster%20World%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Wonder%20Boy%20in%20Monster%20World%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "World of Illusion Starring Mickey Mouse and Donald",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/World%20of%20Illusion%20Starring%20Mickey%20Mouse%20and%20Donald%20Duck%20(USA%2C%20Korea).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/World%20of%20Illusion%20Starring%20Mickey%20Mouse%20and%20Donald%20Duck%20(USA%2C%20Korea).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "X-Men 2 : Clone Wars",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/X-Men%202%20-%20Clone%20Wars%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/X-Men%202%20-%20Clone%20Wars%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "YuYu Hakusho : Sunset Fighters",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Yu%20Yu%20Hakusho%20Sunset%20Fighters.mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Yu%20Yu%20Hakusho%20Sunset%20Fighters.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Yu Yu Hakusho : Makyou Toitsusen",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Yuu%20Yuu%20Hakusho%20-%20Makyou%20Toitsusen%20(Japan)%20(Translated%20En).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Yuu%20Yuu%20Hakusho%20-%20Makyou%20Toitsusen%20(Japan)%20(Translated%20En).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zero the Kamikaze Squirrel",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Zero%20the%20Kamikaze%20Squirrel%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Zero%20the%20Kamikaze%20Squirrel%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zool : Ninja of the 'Nth' Dimension",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Zool%20-%20Ninja%20of%20the%20'Nth'%20Dimension%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Zool%20-%20Ninja%20of%20the%20'Nth'%20Dimension%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Castle of Illusion Starring Mickey Mouse",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Castle%20of%20Illusion%20Starring%20Mickey%20Mouse%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Castle%20of%20Illusion%20Starring%20Mickey%20Mouse%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Altered Beast",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Altered%20Beast%20(USA%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Altered%20Beast%20(USA%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aladdin",
+    "console": "megadrivebr",
+    "video": "https://ggbox.com.br/jogos/megadrivebr/videos/Aladdin%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/megadrivebr/marquee/Aladdin%20(USA).png",
+    "pack": "pack_standard"
+  }
+]

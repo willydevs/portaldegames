@@ -1,0 +1,247 @@
+[
+  {
+    "Nome": "Pokemon Snap (USA)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Pokemon%20Snap%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Pokemon%20Snap%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rayman 2 : The Great Escape",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Rayman%202%20-%20The%20Great%20Escape%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Rayman%202%20-%20The%20Great%20Escape%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Banjo-Kazooie",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Banjo-Kazooie%20(Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Banjo-Kazooie%20(Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bomberman 64",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Bomberman%2064%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Bomberman%2064%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mega Man 64",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Mega%20Man%2064%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Mega%20Man%2064%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Paper Mario",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Paper%20Mario%20(E)%20(M4)%20(VC)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Paper%20Mario%20(E)%20(M4)%20(VC)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kirby 64 : The Crystal Shards",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Kirby%2064%20-%20The%20Crystal%20Shards%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Kirby%2064%20-%20The%20Crystal%20Shards%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mario Party",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Mario%20Party%20(Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Mario%20Party%20(Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pokémon Stadium",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Pokemon%20Stadium%20(Europe)%20(Rev%20A)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Pokemon%20Stadium%20(Europe)%20(Rev%20A)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gex 3 : Deep Cover Gecko",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Gex%203%20-%20Deep%20Cover%20Gecko%20(Europe)%20(Fr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Gex%203%20-%20Deep%20Cover%20Gecko%20(Europe)%20(Fr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Duke Nukem : Zero Hour",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Duke%20Nukem%20-%20Zero%20Hour%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Duke%20Nukem%20-%20Zero%20Hour%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Donald Duck : Goin' Qu@ckers*!",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Donald%20Duck%20-%20Goin'%20Quackers%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Donald%20Duck%20-%20Goin'%20Quackers%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spider-Man",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Spider-Man%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Spider-Man%20(USA)-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Scooby-Doo! : Classic Creep Capers",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Scooby-Doo!%20-%20Classic%20Creep%20Capers%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Scooby-Doo!%20-%20Classic%20Creep%20Capers%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "007: The World Is Not Enough",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/007%20-%20The%20World%20Is%20Not%20Enough%20(Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/007%20-%20The%20World%20Is%20Not%20Enough%20(Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Mario 64",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Super%20Mario%2064%20(Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Super%20Mario%2064%20(Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Donkey Kong 64",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Donkey%20Kong%2064%20(Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Donkey%20Kong%2064%20(Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aidyn Chronicles : The First Mage",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Aidyn%20Chronicles%20-%20The%20First%20Mage%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Aidyn%20Chronicles%20-%20The%20First%20Mage%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Legend of Zelda : Majora's Mask, The",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(Europe)%20(En%2CFr%2CDe%2CEs)%20(Rev%20A)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(Europe)%20(En%2CFr%2CDe%2CEs)%20(Rev%20A)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Off Road Challenge (Europe)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Off%20Road%20Challenge%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Off%20Road%20Challenge%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "RR64 - Ridge Racer 64 (Europe)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/RR64%20-%20Ridge%20Racer%2064%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/RR64%20-%20Ridge%20Racer%2064%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mario Tennis (Europe)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Mario%20Tennis%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Mario%20Tennis%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Rush%202%20-%20Extreme%20Racing%20USA%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Rush%202%20-%20Extreme%20Racing%20USA%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Monaco%20Grand%20Prix%20-%20Racing%20Simulation%202%20(Europe)%20(En%2CFr%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Monaco%20Grand%20Prix%20-%20Racing%20Simulation%202%20(Europe)%20(En%2CFr%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Turok - Rage Wars (Europe) (En,Fr,It)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Turok%20-%20Rage%20Wars%20(Europe)%20(En%2CFr%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Turok%20-%20Rage%20Wars%20(Europe)%20(En%2CFr%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tony Hawk's Pro Skater (USA) (Rev A)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Tony%20Hawk's%20Pro%20Skater%20(USA)%20(Rev%20A)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Tony%20Hawk's%20Pro%20Skater%20(USA)%20(Rev%20A)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tony Hawk's Pro Skater 2 (Europe)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Tony%20Hawk's%20Pro%20Skater%202%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Tony%20Hawk's%20Pro%20Skater%202%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Worms%20Armageddon%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Worms%20Armageddon%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wipeout 64 (Europe)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Wipeout%2064%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Wipeout%2064%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Yoshi's Story (Europe) (En,Fr,De)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Yoshi's%20Story%20(Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Yoshi's%20Story%20(Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/San%20Francisco%20Rush%20-%20Extreme%20Racing%20(Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/San%20Francisco%20Rush%20-%20Extreme%20Racing%20(Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/San%20Francisco%20Rush%202049%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/San%20Francisco%20Rush%202049%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cruis'n World (Europe)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Cruis'n%20World%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Cruis'n%20World%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mario Kart 64",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Mario%20Kart%2064%20(Europe)%20(Rev%20A)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Mario%20Kart%2064%20(Europe)%20(Rev%20A)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cruis'n (USA)",
+    "console": "n64",
+    "video": "https://ggbox.com.br/jogos/n64/videos/Cruis'n%20Exotica%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/n64/images/Cruis'n%20Exotica%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  }
+]

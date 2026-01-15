@@ -1,0 +1,72 @@
+[
+  {
+    "Nome": "Cuphead",
+    "console": "windows",
+    "video": "https://ggbox.com.br/jogos/windows/media/videos/Cuphead.mp4",
+    "imagem": "https://images.launchbox-app.com/daacd1bd-654d-4c43-a8ba-c8f669a17786.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "DoubleDragonNeon",
+    "console": "windows",
+    "video": "https://ggbox.com.br/jogos/windows/media/videos/Double%20Dragon%20-%20Neon.mp4",
+    "imagem": "https://images.launchbox-app.com/c658375f-ee61-4086-9b40-769f37fc7e7e.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "DragonBallFighterZ",
+    "console": "windows",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/9fb00a11-0778-4f0a-b01a-70726b53bf71.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "DuckTalesRemastered",
+    "console": "windows",
+    "video": "https://ggbox.com.br/jogos/windows/media/videos/DuckTales%20-%20Remastered.mp4",
+    "imagem": "https://images.launchbox-app.com/e3d6d0e5-5b20-4e63-978c-1f303bb57be5.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "HorizonChaseTurbo",
+    "console": "windows",
+    "video": "https://ggbox.com.br/jogos/windows/media/videos/Horizon%20Chase%20Turbo.mp4",
+    "imagem": "https://images.launchbox-app.com/d0d4b19a-89d9-4774-bfec-270a6c3b0310.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "PACMANChampionshipEditionDX",
+    "console": "windows",
+    "video": "https://ggbox.com.br/jogos/windows/media/videos/PAC-MAN%20Championship%20Edition%20DX+.mp4",
+    "imagem": "https://images.launchbox-app.com/d9e6c1bd-67bf-48f4-82ac-b455b8e90889.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "SonicMania",
+    "console": "windows",
+    "video": "https://ggbox.com.br/jogos/windows/media/videos/Sonic%20Mania.mp4",
+    "imagem": "https://images.launchbox-app.com/6d0a2f8c-4a76-49fe-af98-abe40febab1d.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "StreetsOfRage4",
+    "console": "windows",
+    "video": "https://ggbox.com.br/jogos/windows/media/videos/Streets%20of%20Rage%204.mp4",
+    "imagem": "https://images.launchbox-app.com/4d355962-250f-4139-bf77-01c24db95708.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "TMNTShredderSRevenge",
+    "console": "windows",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/bfd5e104-eaea-4b37-8d53-c2ca85a1b399.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "UltraStreetFighterIV",
+    "console": "windows",
+    "video": "https://ggbox.com.br/jogos/windows/media/videos/Ultra%20Street%20Fighter%20IV.mp4",
+    "imagem": "https://images.launchbox-app.com/e382d3fb-7092-4376-9bd6-c91b76baf22b.jpg",
+    "pack": "pack_adicional"
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "Nome": "1941: Counter Attack",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/1941.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/1941-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "1943: The Battle of Midway",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/1943.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/1943-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aso - Armored Scrum Object",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/aso.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/aso-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Carrier Air Wing",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/cawing.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/cawing-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "E.D.F. : Earth Defense Force",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/edf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/edf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Galaga",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/galaga.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/galaga-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Prehistoric Isle In 1930",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/prehisle.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/prehisle-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Samurai Aces",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/samuraia.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/samuraia-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sonic Wings",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/aerofgt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/aerofgt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "sonicwi2",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/sonicwi2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/sonicwi2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Truxton / Tatsujin",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/truxton.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/truxton-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "truxton2",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/truxton2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/truxton2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "unsquad",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/unsquad.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/unsquad-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Varth: Operation Thunderstorm",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/varth.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/varth-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "1942",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/1942.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/1942-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sonic Wings 3",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/sonicwi3.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/sonicwi3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aso - Armored Scrum Object",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/aso.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/aso-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Us Aaf Mustang",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/mustang.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/mustang-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Xevious",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/xevious.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/xevious-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "E.D.F. : Earth Defense Force",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/edf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/edf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "In The Hunt",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/inthunt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/inthunt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Samurai Aces",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/samuraia.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/samuraia-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Slap Fight",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/alcon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/alcon-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Galaga",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/galaga.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/galaga-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Truxton II",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/truxton2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/truxton2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Varth: Operation Thunderstorm",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/varth.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/varth-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Carrier Air Wing",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/cawing.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/cawing-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Insector X",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/insectx.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/insectx-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Truxton / Tatsujin",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/truxton.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/truxton-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Three Wonders",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/3wonders.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/3wonders-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "U.N. Squadron",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/unsquad.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/unsquad-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "1942",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/1942.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/1942-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Prehistoric Isle In 1930",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/prehisle.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/prehisle-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "1945k III",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/1945kiii.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/1945kiii-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "1943: The Battle of Midway",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/1943.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/1943-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aero Fighters",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/aerofgt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/aerofgt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aero Fighters 2 / Sonic Wings 2",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/sonicwi2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/sonicwi2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aero Fighters 3 / Sonic Wings 3",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/sonicwi3.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/sonicwi3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "1941: Counter Attack",
+    "console": "arcade",
+    "video": "https://ggbox.com.br/jogos/arcade/videos/1941.mp4",
+    "imagem": "https://ggbox.com.br/jogos/arcade/images/1941-marquee.png",
+    "pack": "pack_standard"
+  }
+]

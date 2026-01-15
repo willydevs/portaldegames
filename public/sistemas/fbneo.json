@@ -1,0 +1,534 @@
+[
+  {
+    "Nome": "Three Wonders",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/3wonders-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/3wonders-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Puzz Loop 2",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/pzloop2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/pzloop2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Magic Sword: Heroic Fantasy",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/msword-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/msword-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Muscle Bomber Duo : Ultimate Team Battle",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/mbombrd-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/mbombrd-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mega Man: The Power Battle",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/megaman-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/megaman-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vampire Savior: The Lord of Vampire",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/vsav-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/vsav-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pnickies",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/pnickj-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/pnickj-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Warriors of Fate",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/wof-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/wof-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Willow",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/willow-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/willow-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ring of Destruction: Slam Masters II",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/ringdest-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/ringdest-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dungeons &amp; Dragons : Shadow over Mystara",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/ddsom-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/ddsom-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Carrier Air Wing",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/cawing-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/cawing-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Night Warriors: Darkstalkers' Revenge",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/nwarr-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/nwarr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Street Fighter II: The New Challengers",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/ssf2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/ssf2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mighty! Pang",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/mpang-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/mpang-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vampire Savior 2 : The Lord of Vampire",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/vsav2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/vsav2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dimahoo",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/dimahoo-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/dimahoo-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "U.N. Squadron",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/unsquad-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/unsquad-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pang! 3",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/pang3-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/pang3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Marvel vs. Capcom : Clash of Super Heroes",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/mvsc-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/mvsc-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Strider",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/strider-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/strider-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Ghouls'n Ghosts",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/ghouls-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/ghouls-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mega Twins",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/mtwins-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/mtwins-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Quiz &amp; Dragons: Capcom Quiz Game",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/qad-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/qad-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Knights of the Round",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/knights-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/knights-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mars Matrix: Hyper Solid Shooting",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/mmatrix-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/mmatrix-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battle Circuit",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/batcir-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/batcir-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vampire Hunter 2: Darkstalkers' Revenge",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/vhunt2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/vhunt2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Capcom Sports Club",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/csclub-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/csclub-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mega Man 2: The Power Fighters",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/megaman2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/megaman2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Gem Fighter: Mini Mix",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/sgemf-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/sgemf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The King Of Dragons",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/kod-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/kod-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mercs",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/mercs-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/mercs-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Nemo",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/nemo-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/nemo-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Marvel Super Heroes",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/msh-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/msh-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Varth: Operation Thunderstorm",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/varth-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/varth-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Forgotten Worlds",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/forgottn-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/forgottn-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Saturday Night Slam Masters",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/slammast-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/slammast-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dungeons &amp; Dragons : Tower of Doom",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/ddtod-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/ddtod-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Puzzle Fighter II Turbo",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/spf2t-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/spf2t-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Punisher",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/punisher-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/punisher-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Marvel Super Heroes vs. Street Fighter",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/mshvsf-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/mshvsf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Marvel Super Heroes vs. Street Fighter",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/mshvsfj-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/mshvsfj-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Darkstalkers: The Night Warriors",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/dstlk-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/dstlk-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Street Fighter II Turbo",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/ssf2t-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/ssf2t-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter III: New Generation",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/sfiii-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/sfiii-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dynasty Wars",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/dynwar-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/dynwar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter III 2nd Impact: Giant Attack",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/sfiii2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/sfiii2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter III 3rd Strike: Fight for the Futur",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/sfiii3-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/sfiii3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cyberbots : Fullmetal Madness",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/cybots-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/cybots-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hyper Street Fighter II: The Anniversary Edition",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/hsf2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/hsf2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Red Earth",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/redearth-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/redearth-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter II: The World Warrior",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/sf2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/sf2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter Alpha 3",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/sfa3-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/sfa3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Giga Wing",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/gigawing-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/gigawing-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "JoJo's Bizarre Adventure",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/jojoba-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/jojoba-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Street Fighter II Turbo",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/ssf2xj-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/ssf2xj-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter II' : Champion Edition",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/sf2koryu-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/sf2koryu-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter II' : Champion Edition",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/sf2ce-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/sf2ce-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter II' : Hyper Fighting",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/sf2hf-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/sf2hf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Armored Warriors",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/armwar-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/armwar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter Zero",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/sfzch-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/sfzch-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Captain Commando",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/captcomm-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/captcomm-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Final Fight",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/ffight-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/ffight-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "X-Men: Children of the Atom",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/xmcota-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/xmcota-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "X-Men vs. Street Fighter",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/xmvsf-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/xmvsf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "1941: Counter Attack",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/1941-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/1941-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "1944 : The Loop Master",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/1944-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/1944-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Eco Fighters",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/ecofghtr-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/ecofghtr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Progear",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/progear-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/progear-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alien VS Predator",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/avsp-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/avsp-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter Zero 2 Alpha",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/sfz2al-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/sfz2al-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cadillacs and Dinosaurs",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/dino-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/dino-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter II' : Champion Edition",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/sf2ceub-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/sf2ceub-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter Zero",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/sfa-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/sfa-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter Zero 2",
+    "console": "fbneo",
+    "video": "https://ggbox.com.br/jogos/fbneo/videos/sfa2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/fbneo/images/sfa2-marquee.png",
+    "pack": "pack_standard"
+  }
+]

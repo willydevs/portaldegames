@@ -1,0 +1,366 @@
+[
+  {
+    "Nome": "Mega Man Zero 4",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Mega%20Man%20Zero%204%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Mega%20Man%20Zero%204%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Yu-Gi-Oh! GX : Duel Academy",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Yu-Gi-Oh!%20GX%20-%20Duel%20Academy%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Yu-Gi-Oh!%20GX%20-%20Duel%20Academy%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Castlevania : Circle of the Moon",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Castlevania%20-%20Circle%20of%20the%20Moon%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Castlevania%20-%20Circle%20of%20the%20Moon%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Justice League Chronicles",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Justice%20League%20Chronicles%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Justice%20League%20Chronicles%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Yu-Gi-Oh! Reshef of Destruction",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Yu-Gi-Oh!%20-%20Reshef%20of%20Destruction%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Yu-Gi-Oh!%20-%20Reshef%20of%20Destruction%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spider-Man : Mysterio's Menace",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Spider-Man%20-%20Mysterio's%20Menace%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Spider-Man%20-%20Mysterio's%20Menace%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Metal Slug Advance",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Metal%20Slug%20Advance%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Metal%20Slug%20Advance%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crash Bandicoot : The Huge Adventure",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chaoji Maliou Shijie",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Super%20Mario%20Advance%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Super%20Mario%20Advance%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Ball : Advanced Adventure",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Dragon%20Ball%20-%20Advanced%20Adventure%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Dragon%20Ball%20-%20Advanced%20Adventure%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lara Croft Tomb Raider : Legend",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Lara%20Croft%20Tomb%20Raider%20-%20Legend%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Lara%20Croft%20Tomb%20Raider%20-%20Legend%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Legend of Zelda : The Minish Cap",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Legend%20of%20Zelda%2C%20The%20-%20The%20Minish%20Cap%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Legend%20of%20Zelda%2C%20The%20-%20The%20Minish%20Cap%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "xXx",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/xXx%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/xXx%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Incredible Hulk",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Incredible%20Hulk%2C%20The%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Incredible%20Hulk%2C%20The%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Worms World Party",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Worms%20World%20Party%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Worms%20World%20Party%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Wars : Episode II, Attack of the Clones",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20the%20Clones%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20the%20Clones%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tom and Jerry in Infurnal Escape",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Tom%20and%20Jerry%20in%20Infurnal%20Escape%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Tom%20and%20Jerry%20in%20Infurnal%20Escape%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Naruto : Ninja Council",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Naruto%20-%20Ninja%20Council%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Naruto%20-%20Ninja%20Council%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Justice League : Injustice for All",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Justice%20League%20-%20Injustice%20for%20All%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Justice%20League%20-%20Injustice%20for%20All%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kirby : Nightmare in Dream Land",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Kirby%20-%20Nightmare%20in%20Dream%20Land%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Kirby%20-%20Nightmare%20in%20Dream%20Land%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Power Rangers : Wild Force",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Power%20Rangers%20-%20Wild%20Force%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Power%20Rangers%20-%20Wild%20Force%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mortal Kombat : Deadly Alliance",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Mortal%20Kombat%20-%20Deadly%20Alliance%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Mortal%20Kombat%20-%20Deadly%20Alliance%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "LEGO Star Wars II : The Original Trilogy",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mortal Kombat : Tournament Edition",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Mortal%20Kombat%20-%20Tournament%20Edition%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Mortal%20Kombat%20-%20Tournament%20Edition%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "SpongeBob SquarePants : Battle for Bikini Bottom",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/SpongeBob%20SquarePants%20-%20Battle%20for%20Bikini%20Bottom%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/SpongeBob%20SquarePants%20-%20Battle%20for%20Bikini%20Bottom%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Polar Express",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Polar%20Express%2C%20The%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Polar%20Express%2C%20The%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rayman : Hoodlum's Revenge",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Rayman%20-%20Hoodlum's%20Revenge%20(USA)%20(En%2CFr%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Rayman%20-%20Hoodlum's%20Revenge%20(USA)%20(En%2CFr%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Batman : Rise of Sin Tzu",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Batman%20-%20Rise%20of%20Sin%20Tzu%20(USA)%20(En%2CFr%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Batman%20-%20Rise%20of%20Sin%20Tzu%20(USA)%20(En%2CFr%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Ball GT : Transformation",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Dragon%20Ball%20GT%20-%20Transformation%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Dragon%20Ball%20GT%20-%20Transformation%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mario Party Advance",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Mario%20Party%20Advance%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Mario%20Party%20Advance%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Need for Speed Carbon : Own the City",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Need%20for%20Speed%20Carbon%20-%20Own%20the%20City%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Need%20for%20Speed%20Carbon%20-%20Own%20the%20City%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spider-Man 3",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Spider-Man%203%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Spider-Man%203%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spider-Man : Battle for New York",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Spider-Man%20-%20Battle%20for%20New%20York%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Spider-Man%20-%20Battle%20for%20New%20York%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Ball Z : Taiketsu",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Dragon%20Ball%20Z%20-%20Taiketsu%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Dragon%20Ball%20Z%20-%20Taiketsu%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Teenage Mutant Ninja Turtles 2 : Battle Nexus",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Teenage%20Mutant%20Ninja%20Turtles%202%20-%20Battle%20Nexus%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Teenage%20Mutant%20Ninja%20Turtles%202%20-%20Battle%20Nexus%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Madagascar",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Madagascar%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Madagascar%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Popeye : Rush for Spinach",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Popeye%20-%20Rush%20for%20Spinach%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Popeye%20-%20Rush%20for%20Spinach%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shrek 2",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Shrek%202%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Shrek%202%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Looney Tunes Double Pack",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Looney%20Tunes%20Double%20Pack%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Looney%20Tunes%20Double%20Pack%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jurassic Park III : The DNA Factor",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Jurassic%20Park%20III%20-%20The%20DNA%20Factor%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Jurassic%20Park%20III%20-%20The%20DNA%20Factor%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dexter's Laboratory : Chess Challenge",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Dexter's%20Laboratory%20-%20Chess%20Challenge%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Dexter's%20Laboratory%20-%20Chess%20Challenge%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "LEGO Racers 2",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/LEGO%20Racers%202%20(USA)%20(En%2CFr)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/LEGO%20Racers%202%20(USA)%20(En%2CFr)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cars",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Cars%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Cars%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sonic Battle",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Sonic%20Battle%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Sonic%20Battle%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rayman : Raving Rabbids",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Rayman%20-%20Raving%20Rabbids%20(USA)%20(En%2CFr%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Rayman%20-%20Raving%20Rabbids%20(USA)%20(En%2CFr%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "E.T. The Extra-Terrestrial",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/E.T.%20-%20The%20Extra-Terrestrial%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/E.T.%20-%20The%20Extra-Terrestrial%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bruce Lee : Return of the Legend",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Bruce%20Lee%20-%20Return%20of%20the%20Legend%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Bruce%20Lee%20-%20Return%20of%20the%20Legend%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bomberman Max 2 : Blue Advance",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Bomberman%20Max%202%20-%20Blue%20Advance%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Bomberman%20Max%202%20-%20Blue%20Advance%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Donkey Kong Country 3",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Donkey%20Kong%20Country%203%20(USA%2C%20Australia)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Donkey%20Kong%20Country%203%20(USA%2C%20Australia)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Avatar : The Last Airbender",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Avatar%20-%20The%20Last%20Airbender%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Avatar%20-%20The%20Last%20Airbender%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Ball Z : Supersonic Warriors",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Dragon%20Ball%20Z%20-%20Supersonic%20Warriors%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Dragon%20Ball%20Z%20-%20Supersonic%20Warriors%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sonic Advance 3",
+    "console": "gba",
+    "video": "https://ggbox.com.br/jogos/gba/videos/Sonic%20Advance%203%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gba/images/Sonic%20Advance%203%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  }
+]

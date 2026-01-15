@@ -1,0 +1,3257 @@
+[
+  {
+    "Nome": "32 in 1 Game Cartridge",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/32-in-1%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/32-in-1%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "3-D Tic-Tac-Toe",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/3-D%20Tic-Tac-Toe%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/3-D%20Tic-Tac-Toe%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Acid Drop",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Acid%20Drop%20(1992)%20(Salu)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Acid%20Drop%20(1992)%20(Salu)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Action Force",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/G.I.%20Joe%20-%20Cobra%20Strike%20(1983)%20(Parker%20Bros)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/G.I.%20Joe%20-%20Cobra%20Strike%20(1983)%20(Parker%20Bros)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Action Force",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/G.I.%20Joe%20-%20Cobra%20Strike%20(1983)%20(Parker%20Bros)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/G.I.%20Joe%20-%20Cobra%20Strike%20(1983)%20(Parker%20Bros)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Adventure",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Adventure%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Adventure%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Adventures on GX-12",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Adventures%20on%20GX-12%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Adventures%20on%20GX-12%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Airlock",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Airlock%20(1982)%20(Data%20Age)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Airlock%20(1982)%20(Data%20Age)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Air-Sea Battle",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Air-Sea%20Battle%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Air-Sea%20Battle%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alice's Abenteuer",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Alice's%20Abenteuer%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Alice's%20Abenteuer%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alligator People, The",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Alligator%20People%20(20th%20Century%20Fox)%20(Prototype)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Alligator%20People%20(20th%20Century%20Fox)%20(Prototype)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alpha Beam with Ernie",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Alpha%20Beam%20with%20Ernie%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Alpha%20Beam%20with%20Ernie%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Amidar",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Amidar%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Amidar%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Amidar",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Amidar%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Im%20Reich%20der%20Spinne%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Angeln I",
+    "console": "atari2600",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Angling%20(Ariola)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Armor Ambush",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Armor%20Ambush%20(1982)%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Armor%20Ambush%20(1982)%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Artillery Duel",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Artillery%20Duel%20(1983)%20(Xonox)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Artillery%20Duel%20(1983)%20(Xonox)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Asterix",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Asterix%20(1988)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Asterix%20(1988)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Asteroids",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Asteroids%20(1979)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Asteroids%20(1979)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Astro Attack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Astro%20Attack%20(Goliath)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Astro%20Attack%20(Goliath)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Astro Attack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Astro%20Attack%20(Goliath)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Time%20Race%202%20(Funvision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Astroblast",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Astroblast%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Astroblast%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Astrowar",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Meteor%20Defense%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Meteor%20Defense%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Astrowar",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Meteor%20Defense%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Meteor%20Defense%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Atari Video Cube",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Atari%20Video%20Cube%20(1982)%20(Atari)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Atari%20Video%20Cube%20(1982)%20(Atari)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "A-Team",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/A-Team%2C%20The%20(Atari)%20(Prototype)%20(PAL-60)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/A-Team%2C%20The%20(Atari)%20(Prototype)%20(PAL-60)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Atlantis 2",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Atlantis%20II%20(1982)%20(Imagic)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Atlantis%20II%20(1982)%20(Imagic)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Atlantis",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Atlantis%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Atlantis%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Atlantis",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Atlantis%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Krieg%20Der%20Sterne%20(Atlantis-Ariola)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Backgammon",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Backgammon%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Backgammon%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bank Heist",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Bank%20Heist%20(1983)%20(20th%20Century%20Fox)%20(w-Skull%20Island%20Label)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Bank%20Heist%20(1983)%20(20th%20Century%20Fox)%20(w-Skull%20Island%20Label)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Barnstorming",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Barnstorming%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Barnstorming%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Base Attack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Base%20Attack%20(AKA%20Z-Tack%2CLaser-Loop%2CSky%20Scrapper)%20(HomeVision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Base%20Attack%20(AKA%20Z-Tack%2CLaser-Loop%2CSky%20Scrapper)%20(HomeVision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Base Attack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Base%20Attack%20(AKA%20Z-Tack%2CLaser-Loop%2CSky%20Scrapper)%20(HomeVision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Cosmic%20Town%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Basic Math",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Fun%20with%20Numbers%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Fun%20with%20Numbers%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Basic Programming",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Basic%20Programming%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Basic%20Programming%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Basketball",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Basketball%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Basketball%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battlezone",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Battlezone%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Battlezone%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Beamrider",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Beamrider%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Beamrider%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Beany Bopper",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Beany%20Bopper%20(1982)%20(20th%20Century%20Fox)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Beany%20Bopper%20(1982)%20(20th%20Century%20Fox)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Beat 'Em and Eat 'Em",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Beat%20'Em%20and%20Eat%20'Em%20(1982)%20(Mystique)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Beat%20'Em%20and%20Eat%20'Em%20(1982)%20(Mystique)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bermuda Triangle",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Bermuda%20Triangle%20(1982)%20(Data%20Age)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Bermuda%20Triangle%20(1982)%20(Data%20Age)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bermuda",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Bermuda%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Bermuda%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Berzerk",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Berzerk%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Berzerk%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bi! Bi!",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Bi!%20Bi!%20(AKA%20Ungeheuer%20der%20Tiefe)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Bi!%20Bi!%20(AKA%20Ungeheuer%20der%20Tiefe)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Big Bird's Egg Catch",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Big%20Bird's%20Egg%20Catch%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Big%20Bird's%20Egg%20Catch%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Billard",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Billard%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Billard%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blackjack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Blackjack%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Blackjack%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blueprint",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Blueprint%20(1983)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Blueprint%20(1983)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "BMX Air Master",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/BMX%20Air%20Master%20(1989)%20(TNT%20Games)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/BMX%20Air%20Master%20(1989)%20(TNT%20Games)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bobby geht Heim ",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Felix%20Return%20(Goliath)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Bobby%20geht%20nach%20Hause%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bobby geht Heim ",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Felix%20Return%20(Goliath)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Felix%20Return%20(Goliath)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bobby geht Heim ",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Felix%20Return%20(Goliath)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Jumping%20Jack%20(Dynamics)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bobby Is Going Home",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Felix%20Return%20(Goliath)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Bobby%20is%20Going%20Home%20(Rentacom)%20(Brazil)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bogey Blaster",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Bogey%20Blaster%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Air%20Raiders%20(1982)%20(Mattel)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bogey Blaster",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Bogey%20Blaster%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Bogey%20Blaster%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bogey Blaster",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Bogey%20Blaster%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Top%20Gun%20(AKA%20Air%20Patrol)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Boing!",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Boing!%20(1983)%20(First%20Star%20Software)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Boing!%20(1983)%20(First%20Star%20Software)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Boom Bang",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Boom%20Bang%20(AKA%20Kampf%20dem%20Steinfresser)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Boom%20Bang%20(AKA%20Kampf%20dem%20Steinfresser)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bowling",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Bowling%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Bowling%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Boxing",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Boxen%20(Ariola)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Boxen%20(Ariola)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Boxing",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Boxen%20(Ariola)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Boxen%20(Ariola)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Brain Games",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Brain%20Games%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Brain%20Games%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Breakout - Breakaway IV",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Breakout%20-%20Breakaway%20IV%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Breakout%20-%20Breakaway%20IV%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bridge",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Bridge%20(1981)%20(Activision)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Bridge%20(1981)%20(Activision)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Buck Rogers - Planet of Zoom",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Buck%20Rogers%20-%20Planet%20of%20Zoom%20(1983)%20(Sega)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Buck%20Rogers%20-%20Planet%20of%20Zoom%20(1983)%20(Sega)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bugs Bunny",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Bugs%20Bunny%20(Atari)%20(Prototype)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Bugs%20Bunny%20(Atari)%20(Prototype)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bugs",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Bugs%20(1983)%20(Gameworld)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Bugs%20(1983)%20(Gameworld)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bump 'N' Jump",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Bump%20'N'%20Jump%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Bump%20'N'%20Jump%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bumper Bash",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Bumper%20Bash%20(1983)%20(Spectravideo)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Bumper%20Bash%20(1983)%20(Spectravideo)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "California Games",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/California%20Games%20(1988)%20(Epyx)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/California%20Games%20(1988)%20(Epyx)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Canyon Bomber",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Canyon%20Bomber%20(1978)%20(Atari)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Canyon%20Bomber%20(1978)%20(Atari)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Carnival",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Carnival%20(1983)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Carnival%20(1983)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Carnival",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Carnival%20(1983)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Carnival%20(1983)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Casino",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Casino%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Casino%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Casino",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Casino%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Casino%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Centipede",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Centipede%20(1982)%20(Atari)%20(Prototype)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Centipede%20(1982)%20(Atari)%20(Prototype)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Challenge",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Challenge%20(Zellers)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Challenge%20(Zellers)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Challenge",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Challenge%20(Zellers)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Challenge%20(Zellers)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Championship Soccer",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Championship%20Soccer%20(AKA%20Pele's%20Soccer)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Championship%20Soccer%20(AKA%20Pele's%20Soccer)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Checkers",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Checkers%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Checkers%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "China Syndrome",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/China%20Syndrome%20(1982)%20(Spectravideo)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/China%20Syndrome%20(1982)%20(Spectravideo)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chopper Command",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Chopper%20Command%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Chopper%20Command%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chuck Norris Superkicks",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Kung%20Fu%20Superkicks%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Kung%20Fu%20Superkicks%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chuck Norris Superkicks",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Kung%20Fu%20Superkicks%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Kung%20Fu%20Superkicks%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Circus Atari",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Circus%20Atari%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Circus%20Atari%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Circus Atari",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Circus%20Atari%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Circus%20Atari%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Code Breaker",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Code%20Breaker%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Code%20Breaker%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Combat Two",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Combat%20II%20(1982)%20(Atari)%20(Prototype)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Combat%20II%20(1982)%20(Atari)%20(Prototype)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Combat",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Combat%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Combat%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Commando",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Commando%20(1988)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Commando%20(1988)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Condor Attack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Year%201999%2C%20The%20(Rainbow%20Vision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Year%201999%2C%20The%20(Rainbow%20Vision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Condor Attack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Year%201999%2C%20The%20(Rainbow%20Vision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Year%201999%2C%20The%20(Rainbow%20Vision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cookie Monster Munch",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Cookie%20Monster%20Munch%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Cookie%20Monster%20Munch%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cosmic Ark",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Cosmic%20Ark%20(1982)%20(Imagic)%20(White%20Label)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Cosmic%20Ark%20(1982)%20(Imagic)%20(White%20Label)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cosmic Commuter",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Cosmic%20Commuter%20(1984)%20(Activision)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Cosmic%20Commuter%20(1984)%20(Activision)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cosmic Creeps",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Cosmic%20Creeps%20(1982)%20(Telesys)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Cosmic%20Creeps%20(1982)%20(Telesys)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cosmic Swarm",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Cosmic%20Swarm%20(1982)%20(CommaVid)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Cosmic%20Swarm%20(1982)%20(CommaVid)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crackpots",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Crackpots%20(1983)%20(Activision)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Crackpots%20(1983)%20(Activision)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crash Dive",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Crash%20Dive%20(1983)%20(20th%20Century%20Fox)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Crash%20Dive%20(1983)%20(20th%20Century%20Fox)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cross Force",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Cross%20Force%20(1982)%20(Spectravision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Cross%20Force%20(1982)%20(Spectravision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crossbow",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Crossbow%20(1987)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Crossbow%20(1987)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crystal Castles",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Crystal%20Castles%20(1984)%20(Atari)%20(NTSC)%20(Prototype)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Crystal%20Castles%20(1984)%20(Atari)%20(NTSC)%20(Prototype)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dan Kitchen's Tomcat - The F-14 Fighter Simulator",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Tomcat%20-%20The%20F-14%20Flight%20Simulator%20(2002)%20(Skyworks)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Tomcat%20-%20The%20F-14%20Flight%20Simulator%20(2002)%20(Skyworks)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dancing Plate",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Teller-Jonglieren!%20(AKA%20Tanzende%20Teller)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Teller-Jonglieren!%20(AKA%20Tanzende%20Teller)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dancing Plate",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Teller-Jonglieren!%20(AKA%20Tanzende%20Teller)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Teller-Jonglieren!%20(AKA%20Tanzende%20Teller)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dark Cavern",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Dark%20Cavern%20(1982)%20(Mattel)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Dark%20Cavern%20(1982)%20(Mattel)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dark Chambers",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Dark%20Chambers%20(1988)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Dark%20Chambers%20(1988)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Deadly Duck",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Deadly%20Duck%20(1982)%20(20th%20Century%20Fox)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Deadly%20Duck%20(1982)%20(20th%20Century%20Fox)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Defender II",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Defender%20II%20(1984)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Defender%20II%20(1984)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Defender",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Defender%20(1981)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Defender%20(1981)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Defender",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Defender%20(1981)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Defender%20(1981)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Demon Attack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Demon%20Attack%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Demon%20Attack%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Demons to Diamonds",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Demons%20to%20Diamonds%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Demons%20to%20Diamonds%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Desert Falcon",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Desert%20Falcon%20(1987)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Desert%20Falcon%20(1987)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dice Puzzle",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Dice%20Puzzle%20(Sancho)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Dice%20Puzzle%20(Sancho)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Die hungrigen Frösche",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Die%20Hungrigen%20Froesche%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Die%20Hungrigen%20Froesche%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dig Dug",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Dig%20Dug%20(V2)%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Dig%20Dug%20(V2)%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dodge 'Em",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Dodge%20'em%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Dodge%20'em%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dolphin",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Dolphin%20(1983)%20(Activision)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Dolphin%20(1983)%20(Activision)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dolphin",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Dolphin%20(1983)%20(Activision)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Dolphin%20(1983)%20(Activision)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Donkey Kong Jr",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Donkey%20Kong%20Junior%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Donkey%20Kong%20Junior%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Donkey Kong",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Donkey%20Kong%20(1983)%20(Pet%20Boat)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Donkey%20Kong%20(1983)%20(Pet%20Boat)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Double Dragon",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Double%20Dragon%20(1989)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Double%20Dragon%20(1989)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Double Dunk",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Double%20Dunk%20(1989)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Double%20Dunk%20(1989)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragonfire",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/King%20Arthur%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/King%20Arthur%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragonfire",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/King%20Arthur%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/King%20Arthur%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragster",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Dragster%20(1980)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Dragster%20(1980)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dukes of Hazzard",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Dukes%20of%20Hazzard%20V2%20(Atari)%20(Prototype)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Dukes%20of%20Hazzard%20V2%20(Atari)%20(Prototype)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "E.T. - Pits Hack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/E.T.%20The%20Extra-Terrestrial%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/E.T.%20The%20Extra-Terrestrial%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Eddy Langfinger, der Museumsdieb",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Eddy%20Langfinger%2C%20der%20Museumsdieb%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Eddy%20Langfinger%2C%20der%20Museumsdieb%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Eishockey-Fieber",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Ice%20Hockey%20(1981)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Ice%20Hockey%20(1981)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Eishockey-Fieber",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Ice%20Hockey%20(1981)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Ice%20Hockey%20(1981)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Enduro",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Enduro%20(1983)%20(Activision-Dactar)%20(PAL-M)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Enduro%20(1983)%20(Activision-Dactar)%20(PAL-M)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Entombed",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Entombed%20(1982)%20(US%20Games)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Entombed%20(1982)%20(US%20Games)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Exocet",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Exocet%20(AKA%20Space%20Eagle)%20(Sancho-Goliath)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Exocet%20(AKA%20Space%20Eagle)%20(Sancho-Goliath)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fantastic Voyage",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Fantastic%20Voyage%20(1982)%20(20th%20Century%20Fox)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Fantastic%20Voyage%20(1982)%20(20th%20Century%20Fox)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Farmyard Fun",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Tom's%20Eierjagd%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Tom's%20Eierjagd%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fast Eddie",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Mr.%20T%20(AKA%20Fast%20Eddie)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mr.%20T%20(AKA%20Fast%20Eddie)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fast Eddie",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Mr.%20T%20(AKA%20Fast%20Eddie)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mr.%20T%20(AKA%20Fast%20Eddie)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fast Food",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Fast%20Food%20(Zirok)%20(Brazil)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Fast%20Food%20(Zirok)%20(Brazil)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fast Food",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Fast%20Food%20(Zirok)%20(Brazil)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Fast%20Food%20(Zirok)%20(Brazil)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fatal Run",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Fatal%20Run%20(1990)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Fatal%20Run%20(1990)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fathom",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Fathom%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Fathom%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fire Birds",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Fire%20Birds%20(AKA%20Scorpion)%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Fire%20Birds%20(AKA%20Scorpion)%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fire Fighter",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Fire%20Fighter%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Fire%20Fighter%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fire Fighter",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Fire%20Fighter%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Fire%20Fighter%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fire Fly",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Fire%20Fly%20(1983)%20(Mythicon)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Fire%20Fly%20(1983)%20(Mythicon)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fishing Derby",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Fishing%20Derby%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Fishing%20Derby%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Flag Capture",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Flag%20Capture%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Flag%20Capture%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Flash Gordon",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Flash%20Gordon%20(1983)%20(20th%20Century%20Fox)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Flash%20Gordon%20(1983)%20(20th%20Century%20Fox)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Football",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Football%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Football%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Forest",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Forest%20(Sancho)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Forest%20(Sancho)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Frankenstein's Monster",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Frankenstein's%20Monster%20(1983)%20(Data%20Age)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Frankenstein's%20Monster%20(1983)%20(Data%20Age)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Freeway",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Freeway%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Freeway%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Frogger II - Threedeep!",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Frogger%20II%20-%20Threedeep!%20(1984)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Frogger%20II%20-%20Threedeep!%20(1984)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Frogger",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Frogger%20(1982)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Frogger%20(1982)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Frogs and Flies",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Die%20Hungrigen%20Froesche%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Die%20Hungrigen%20Froesche%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Frostbite",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Der%20kleine%20Baer%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Der%20kleine%20Baer%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Frostbite",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Der%20kleine%20Baer%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Der%20kleine%20Baer%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Galactic",
+    "console": "atari2600",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Galactic%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Galaxian",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Galaxian%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Galaxian%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gangster Alley",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Gangster%20Alley%20(1983)%20(Spectravideo)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Gangster%20Alley%20(1983)%20(Spectravideo)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gangster Alley",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Gangster%20Alley%20(1983)%20(Spectravideo)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Gangster%20Alley%20(1983)%20(Spectravideo)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gangster Alley",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Gangster%20Alley%20(1983)%20(Spectravideo)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Gangster%20Alley%20(1983)%20(Spectravideo)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gas Hog",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Gas%20Hog%20(AKA%20Marspatrouille)%20(1983)%20(Spectravideo)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Gas%20Hog%20(AKA%20Marspatrouille)%20(1983)%20(Spectravideo)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ghost Manor",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Ghost%20Manor%20(1983)%20(Xonox)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Ghost%20Manor%20(1983)%20(Xonox)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ghostbusters II",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Ghostbusters%20II%20(1992)%20(Salu)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Ghostbusters%20II%20(1992)%20(Salu)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ghostbusters",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Ghostbusters%20(1985)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Ghostbusters%20(1985)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Glorb",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Pac-Man%20(CCE)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Pac-Man%20(CCE)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Go Go Home",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Alien's%20Return%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Alien's%20Return%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Golf",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Golf%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Golf%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gopher",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Gopher%20(1982)%20(Carrere%20Video)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Gopher%20(1982)%20(Carrere%20Video)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gopher",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Gopher%20(1982)%20(Carrere%20Video)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Gopher%20(1982)%20(Carrere%20Video)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gorf",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Gorf%20(1982)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Gorf%20(1982)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Grand Prix",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Grand%20Prix%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Grand%20Prix%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Grand Prix",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Grand%20Prix%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Grand%20Prix%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gravitar",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Gravitar%20(1988)%20(Atari)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Gravitar%20(1988)%20(Atari)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Great Escape",
+    "console": "atari2600",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Time%20Machine%20(AKA%20Great%20Escape%2CAsteroid%20Belt)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gyruss",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Gyruss%20(1984)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Gyruss%20(1984)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "H.e.r.o.",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/H.E.R.O.%20(1984)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/H.E.R.O.%20(1984)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Halloween",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Halloween%20(AKA%20Sexta%20Fiera%2013)%20(Wizard%20Video)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Halloween%20(AKA%20Sexta%20Fiera%2013)%20(Wizard%20Video)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hangman",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Hangman%20(1978)%20(Atari)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Hangman%20(1978)%20(Atari)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Haunted House",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Haunted%20House%20(1981)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Haunted%20House%20(1981)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hell Driver",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Hell%20Driver%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Hell%20Driver%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Home Run",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Home%20Run%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Home%20Run%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Human Cannonball",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Human%20Cannonball%20(AKA%20Cannon%20Man)%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Human%20Cannonball%20(AKA%20Cannon%20Man)%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "I Robot",
+    "console": "atari2600",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/I%20Robot%20(1984)%20(Atari)%20(Prototype)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ikari Warriors",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Ikari%20Warriors%20(1990)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Ikari%20Warriors%20(1990)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Indy 500",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Indy%20500%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Indy%20500%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Infiltrate",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Die%20Springteufel%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Die%20Springteufel%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Infiltrate",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Die%20Springteufel%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Die%20Springteufel%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "International Soccer",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/International%20Soccer%20(1982)%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/International%20Soccer%20(1982)%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jawbreaker",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Jawbreaker%20(1982)%20(Tigervision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Jawbreaker%20(1982)%20(Tigervision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Journey Escape",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Journey%20-%20Escape%20(1982)%20(Data%20Age)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Journey%20-%20Escape%20(1982)%20(Data%20Age)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Joust",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Joust%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Joust%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jr. Pac-man",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Jr.%20Pac-Man%20(1984)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Jr.%20Pac-Man%20(1984)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jungle Hunt",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Jungle%20Hunt%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Jungle%20Hunt%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kabobber",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Kabobber%20(Activision)%20(Prototype)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Kabobber%20(Activision)%20(Prototype)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kaboom!",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Kaboom!%20(1981)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Kaboom!%20(1981)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kangaroo",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Kangaroo%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Kangaroo%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kangaroo",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Kangaroo%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Kangaroo%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Karate",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Spider%20Kong%20(AKA%20Karate)%20(Goliath-Funvision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Spider%20Kong%20(AKA%20Karate)%20(Goliath-Funvision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Karate",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Spider%20Kong%20(AKA%20Karate)%20(Goliath-Funvision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Spider%20Kong%20(AKA%20Karate)%20(Goliath-Funvision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Keystone Kapers",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Keystone%20Kapers%20(Shock%20Vision)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Keystone%20Kapers%20(Shock%20Vision)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Keystone Kapers",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Keystone%20Kapers%20(Shock%20Vision)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Keystone%20Kapers%20(Shock%20Vision)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "King Kong",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/King%20Kong%20(1982)%20(Tigervision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/King%20Kong%20(1982)%20(Tigervision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Klax",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Klax%20(1990)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Klax%20(1990)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Krull",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Krull%20(1983)%20(Atari)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Krull%20(1983)%20(Atari)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kung-fu Master",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Kung%20Fu%20Master%20(1984)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Kung%20Fu%20Master%20(1984)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Laser Blast",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Laser%20Blast%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Laser%20Blast%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Laser Gates",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Laser%20Gates%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Laser%20Gates%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Laser Gates",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Laser%20Gates%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Laser%20Gates%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Laser Volley",
+    "console": "atari2600",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Laser%20Volley%20(1983)%20(Zellers)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lilly Adventure",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Lilly%20Adventure%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Lilly%20Adventure%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lock 'n' Chase",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Lock%20'N'%20Chase%20(1982)%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Lock%20'N'%20Chase%20(1982)%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lock 'n' Chase",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Lock%20'N'%20Chase%20(1982)%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Lock%20'N'%20Chase%20(1982)%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lost Luggage",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Lost%20Luggage%20(1981)%20(Apollo)%20(NTSC)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Lost%20Luggage%20(1981)%20(Apollo)%20(NTSC)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "M*a*s*h",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/M.A.S.H.%20(CCE)%20(no%20logo)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/M.A.S.H.%20(CCE)%20(no%20logo)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mangia'",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Mangia'%20(1983)%20(Spectravideo)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mangia'%20(1983)%20(Spectravideo)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Marauder",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Marauder%20(1982)%20(Tigervision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Marauder%20(1982)%20(Tigervision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Marine Wars",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Marine%20Wars%20(1983)%20(Konami)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Marine%20Wars%20(1983)%20(Konami)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mario Bros.",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Mario%20Bros%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mario%20Bros%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Master Builder",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Master%20Builder%20(1983)%20(Spectravideo)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Master%20Builder%20(1983)%20(Spectravideo)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Math Gran Prix",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Math%20Gran%20Prix%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Math%20Gran%20Prix%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Maze Craze",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Maze%20Craze%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Maze%20Craze%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Maze Craze",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Maze%20Craze%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Maze%20Craze%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mcdonald's - Golden Arches Adventure",
+    "console": "atari2600",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/McDonald's%20(1983)%20(Parker%20Bros)%20(Prototype)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mega Force",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Mega%20Force%20(1982)%20(20th%20Century%20Fox)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mega%20Force%20(1982)%20(20th%20Century%20Fox)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mega Funpak - Pac-man, Planet Patrol, Skeet Shoot, Battles Of Gorf",
+    "console": "atari2600",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mega%20Funpak%20-%20Pac-Man%2C%20Planet%20Patrol%2C%20Skeet%20Shoot%2C%20Battles%20of%20Gorf%20(HES)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Megaboy",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Megaboy%20(Brazil)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Megaboy%20(Brazil)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Merlin's Walls",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Merlin's%20Walls%20-%20Standard%20Edition%20(1999)%20(Ebivision)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Merlin's%20Walls%20-%20Standard%20Edition%20(1999)%20(Ebivision)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Midnight Magic",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Midnight%20Magic%20(1984)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Midnight%20Magic%20(1984)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Millipede",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Millipede%20(1984)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Millipede%20(1984)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mines Of Minos",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Mines%20of%20Minos%20(1982)%20(CommaVid)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mines%20of%20Minos%20(1982)%20(CommaVid)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Miniature Golf",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Miniature%20Golf%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Miniature%20Golf%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Miss Piggy's Wedding",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Miss%20Piggy's%20Wedding%20(Prototype%202)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Miss%20Piggy's%20Wedding%20(Prototype%202)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Missile Command",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Missile%20Command%20(1981)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Missile%20Command%20(1981)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Missile Control",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Missile%20Control%20(AKA%20Raketen-Angriff)%20(Ariola)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Missile%20Control%20(AKA%20Raketen-Angriff)%20(Ariola)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mission 3,000 A.D.",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Mission%203000%20A.D.%20(Bitcorp)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mission%203000%20A.D.%20(Bitcorp)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mogul Maniac",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Mogul%20Maniac%20(1983)%20(Amiga)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mogul%20Maniac%20(1983)%20(Amiga)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Moon Patrol",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Moon%20Patrol%20(1982)%20(Shock%20Vision-Brazil)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Moon%20Patrol%20(1982)%20(Shock%20Vision-Brazil)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Moonsweeper",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Moonsweeper%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Moonsweeper%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Motocross",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Motocross%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Motocross%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Motorodeo",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Motorodeo%20(1990)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Motorodeo%20(1990)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mountain King",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Mountain%20King%20(1983)%20(CBS%20Electronics)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mountain%20King%20(1983)%20(CBS%20Electronics)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mouse Trap",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Mouse%20Trap%20(1982)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mouse%20Trap%20(1982)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mr. Do!",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Mr.%20Do!%20(1983)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mr.%20Do!%20(1983)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mr. Postman",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Mr.%20Postman%20(1983)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mr.%20Postman%20(1983)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mr. Postman",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Mr.%20Postman%20(1983)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mr.%20Postman%20(1983)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ms. Pac-man",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Ms.%20Pac-Man%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Ms.%20Pac-Man%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "My Golf",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/My%20Golf%20(1990)%20(HES)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/My%20Golf%20(1990)%20(HES)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Name This Game",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Name%20This%20Game%20(AKA%20Octopus)%20(1982)%20(US%20Games)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Name%20This%20Game%20(AKA%20Octopus)%20(1982)%20(US%20Games)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Name This Game",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Name%20This%20Game%20(AKA%20Octopus)%20(1982)%20(US%20Games)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Name%20This%20Game%20(AKA%20Octopus)%20(1982)%20(US%20Games)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Night Driver",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Night%20Driver%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Night%20Driver%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Night Stalker",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Night%20Stalker%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Night%20Stalker%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Nightmare",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Nightmare%20(Sancho)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Nightmare%20(Sancho)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "No Escape!",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/No%20Escape!%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/No%20Escape!%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Nuts",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Nuts%20(Technovision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Nuts%20(Technovision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "O Monstro Marinho",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Sea%20Monster%20(Bitcorp)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Sea%20Monster%20(Bitcorp)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Obelix",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Obelix%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Obelix%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Off the Wall",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Off%20the%20Wall%20(1989)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Off%20the%20Wall%20(1989)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Oink!",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Oink!%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Oink!%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Open Sesame",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Sesam%2C%20Oeffne%20Dich%20(AKA%20Open%20Sesame)%20(Bitcorp)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Sesam%2C%20Oeffne%20Dich%20(AKA%20Open%20Sesame)%20(Bitcorp)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Open Sesame",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Sesam%2C%20Oeffne%20Dich%20(AKA%20Open%20Sesame)%20(Bitcorp)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Sesam%2C%20Oeffne%20Dich%20(AKA%20Open%20Sesame)%20(Bitcorp)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Open Sesame",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Sesam%2C%20Oeffne%20Dich%20(AKA%20Open%20Sesame)%20(Bitcorp)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Teddy%20Apple%20(HomeVision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Oscar's Trash Race",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Oscar's%20Trash%20Race%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Oscar's%20Trash%20Race%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Othello",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Othello%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Othello%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Outlaw",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Outlaw%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Outlaw%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Outlaw",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Outlaw%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Outlaw%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pac-kong",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Pac%20Kong%20(AKA%20Inca%20Gold)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Pac%20Kong%20(AKA%20Inca%20Gold)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Panda Chase",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Der%20hungrige%20Panda%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Der%20hungrige%20Panda%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Parachute",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Vom%20Himmel%20durch%20die%20Hoelle%20(Rainbow%20Vision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Vom%20Himmel%20durch%20die%20Hoelle%20(Rainbow%20Vision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Paris Attack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Angriff%20der%20Luftflotten%20(AKA%20Paris%20Attack)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Angriff%20der%20Luftflotten%20(AKA%20Paris%20Attack)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Paris Attack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Angriff%20der%20Luftflotten%20(AKA%20Paris%20Attack)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Angriff%20der%20Luftflotten%20(AKA%20Paris%20Attack)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pete Rose Baseball",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Baseball%20(2002)%20(Skyworks)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Baseball%20(2002)%20(Skyworks)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Peter Penguin",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Peter%20Penguin%20(Jagt%20auf%20Diamanten-Frisco)%20(ITT)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Peter%20Penguin%20(Jagt%20auf%20Diamanten-Frisco)%20(ITT)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Phantom Tank",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Phantom%20Tank%20(Bitcorp)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Phantom%20Tank%20(Bitcorp)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pharaoh's Curse",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Pharaoh's%20Curse%20(TechnoVision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Pharaoh's%20Curse%20(TechnoVision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Phoenix",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Phoenix%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Phoenix%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Phoenix",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Phoenix%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Phoenix%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pick 'n' Pile",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Pick%20'n%20Pile%20(1990)%20(Salu)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Pick%20'n%20Pile%20(1990)%20(Salu)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pick Up",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Pickup%20(2002)%20(20th%20Century%20Fox)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Pickup%20(2002)%20(20th%20Century%20Fox)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Picnic",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Picnic%20(1982)%20(US%20Games)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Picnic%20(1982)%20(US%20Games)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Piece O' Cake",
+    "console": "atari2600",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Piece%20o'%20Cake%20(1982)%20(US%20Games)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pigs In Space Starring Miss Piggy",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Pigs%20in%20Space%20starring%20Miss%20Piggy%20(1986)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Pigs%20in%20Space%20starring%20Miss%20Piggy%20(1986)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pitfall 2 - Lost Caverns",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Pitfall%202%20(1984)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Pitfall%202%20(1984)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pitfall 2 - Lost Caverns",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Pitfall%202%20(1984)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Pitfall%202%20(1984)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pitfall! - Pitfall Harry's Jungle Adventure",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Pitfall!%20(CCE)%20(PAL-M)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Pitfall!%20(CCE)%20(PAL-M)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pitfall!",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Pitfall!%20(CCE)%20(PAL-M)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Pitfall!%20(CCE)%20(PAL-M)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Planet Of The Apes",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Planet%20of%20the%20Apes%20(20th%20Century%20Fox)%20(Prototype)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Planet%20of%20the%20Apes%20(20th%20Century%20Fox)%20(Prototype)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Planet Patrol",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Planet%20Patrol%20(Spectravideo)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Planet%20Patrol%20(Spectravideo)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Plaque Attack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Schnapp%20die%20Apfeldiebe%20(AKA%20Catch%20Time)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Schnapp%20die%20Apfeldiebe%20(AKA%20Catch%20Time)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Plaque Attack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Schnapp%20die%20Apfeldiebe%20(AKA%20Catch%20Time)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Schnapp%20die%20Apfeldiebe%20(AKA%20Catch%20Time)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pole Position",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Pole%20Position%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Pole%20Position%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Polo",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Polo%20(Atari)%20(Prototype)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Polo%20(Atari)%20(Prototype)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pooyan",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Die%20Ente%20und%20der%20Wolf%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Die%20Ente%20und%20der%20Wolf%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pooyan",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Die%20Ente%20und%20der%20Wolf%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Die%20Ente%20und%20der%20Wolf%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Popeye",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Popeye%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Popeye%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pressure Cooker",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Pressure%20Cooker%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Pressure%20Cooker%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Private Eye",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Private%20Eye%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Private%20Eye%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pyramid War",
+    "console": "atari2600",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Pyramid%20War%20(AKA%20Wuestenschlacht)%20(Rainbow%20Vision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Q-bert",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Q-bert%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Q-bert%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Quest For Quintana Roo",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Quest%20for%20Quintana%20Roo%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Quest%20for%20Quintana%20Roo%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Quick Step!",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Quick%20Step!%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Quick%20Step!%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Racquetball",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Hili%20Ball%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Hili%20Ball%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Racquetball",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Hili%20Ball%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Hili%20Ball%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rad Action Pak - Kung-fu Master / Frostbite / Freeway",
+    "console": "atari2600",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Rad%20Action%20Pak%20-%20Kung-Fu%2CFrostb%2CFreeway%20(1990)%20(HES)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Radar Lock",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Radar%20Lock%20(1989)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Radar%20Lock%20(1989)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Radar",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Radar%20(CCE)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Radar%20(CCE)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Raiders Of The Lost Ark",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Raiders%20of%20the%20Lost%20Ark%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Raiders%20of%20the%20Lost%20Ark%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ram It",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Ram%20It%20(1982)%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Ram%20It%20(1982)%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ram It",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Ram%20It%20(1982)%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Ram%20It%20(1982)%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rampage!",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Rampage!%20(1989)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Rampage!%20(1989)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Reactor",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Reactor%20(1982)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Reactor%20(1982)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "RealSports Basketball",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/RealSports%20Basketball%20(Atari)%20(Prototype)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/RealSports%20Basketball%20(Atari)%20(Prototype)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Realsports Boxing",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/RealSports%20Boxing%20(1987)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/RealSports%20Boxing%20(1987)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Realsports Soccer",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/RealSports%20Soccer%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/RealSports%20Soccer%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Realsports Tennis",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/RealSports%20Tennis%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/RealSports%20Tennis%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Realsports Volleyball",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Volleyball%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Volleyball%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Realsports Volleyball",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Volleyball%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Volleyball%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rescue Bira Bira",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Rescue%20Bira%20Bira%20(Chris%20Cracknell)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Rescue%20Bira%20Bira%20(Chris%20Cracknell)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Revenge Of The Beefsteak Tomatoes",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Revenge%20of%20the%20Beefsteak%20Tomatoes%20(1983)%20(20th%20Century%20Fox)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Revenge%20of%20the%20Beefsteak%20Tomatoes%20(1983)%20(20th%20Century%20Fox)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Riddle Of The Sphinx",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Riddle%20of%20the%20Sphinx%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Riddle%20of%20the%20Sphinx%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "River Raid 2",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/River%20Raid%20II%20(AKA%20Katastrophen-Einsatz)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/River%20Raid%20II%20(AKA%20Katastrophen-Einsatz)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "River Raid",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/River%20Raid%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Ground%20Zero%20(Rainbow%20Vision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "River Raid",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/River%20Raid%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/River%20Raid%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "River Raid",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/River%20Raid%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/River%20Raid%20III%20(1985)%20(Digitel-Brazil)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Road Runner",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Road%20Runner%20(1989)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Road%20Runner%20(1989)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Robin Hood",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Robin%20Hood%20(1983)%20(Xonox)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Robin%20Hood%20(1983)%20(Xonox)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Robot Tank",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Robot%20Tank%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Robot%20Tank%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Roc 'n Rope",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Roc%20n'%20Rope%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Roc%20n'%20Rope%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Room Of Doom",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Room%20of%20Doom%20(CommaVid)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Room%20of%20Doom%20(CommaVid)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Save Mary!",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Save%20Mary%20(1990)%20(Atari)%20(Prototype)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Save%20Mary%20(1990)%20(Atari)%20(Prototype)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Save Our Ship",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Save%20Our%20Ship%20(TechnoVision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Save%20Our%20Ship%20(TechnoVision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Save The Whales",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Save%20the%20Whales%20(2002)%20(20th%20Century%20Fox)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Save%20the%20Whales%20(2002)%20(20th%20Century%20Fox)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Seahawk",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Marineflieger%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Marineflieger%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Seahawk",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Marineflieger%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Marineflieger%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Seaquest",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Seaquest%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Seaquest%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Seaquest",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Seaquest%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Seaquest%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Secret Quest",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Secret%20Quest%20(1989)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Secret%20Quest%20(1989)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "See Saw",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/See%20Saw%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/See%20Saw%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sir Lancelot",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Sir%20Lancelot%20(1983)%20(Xonox)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Sir%20Lancelot%20(1983)%20(Xonox)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Skate Boardin'",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Skate%20Boardin'%20(2002)%20(Skyworks)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Skate%20Boardin'%20(2002)%20(Skyworks)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ski Hunt",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Mountain%20Man%20(AKA%20Winterjagt)%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Mountain%20Man%20(AKA%20Winterjagt)%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ski Run",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Ski%20Run%20(Funvision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Ski%20Run%20(Funvision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Skiing",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Skiing%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Skiing%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Skindiver",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Skindiver%20(AKA%20Aquatak)%20(Sancho)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Skindiver%20(AKA%20Aquatak)%20(Sancho)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Skindiver",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Skindiver%20(AKA%20Aquatak)%20(Sancho)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Skindiver%20(AKA%20Aquatak)%20(Sancho)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sky Alien",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Monster%20aus%20dem%20All%20(1983)%20(Rainbow%20Vision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Monster%20aus%20dem%20All%20(1983)%20(Rainbow%20Vision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sky Diver",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Sky%20Diver%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Sky%20Diver%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sky Jinks",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Sky%20Jinks%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Sky%20Jinks%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sky Skipper",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Sky%20Skipper%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Sky%20Skipper%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Slot Machine",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Slot%20Machine%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Slot%20Machine%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Slot Racers",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Slot%20Racers%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Slot%20Racers%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Slot Racers",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Slot%20Racers%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Slot%20Racers%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Smash Hit Pak - Frogger / Stampede / Seaquest / Boxing / Skiing",
+    "console": "atari2600",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Smash%20Hit%20Pak%20-%20Frogr%2CStampede%2CSeaqst%2CBoxng%2CSki%20(HES)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Smurf - Rescue In Gargamel's Castle",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Smurfs%20-%20Rescue%20in%20Gargamel's%20Castle%20(1983)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Smurfs%20-%20Rescue%20in%20Gargamel's%20Castle%20(1983)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Snail Against Squirrel",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Schnecke%20und%20Eichhoernchen%20(1983)%20(Bitcorp)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Schnecke%20und%20Eichhoernchen%20(1983)%20(Bitcorp)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Snoopy And The Red Baron",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Snoopy%20(1983)%20(Century)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Snoopy%20(1983)%20(Century)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Snoopy And The Red Baron",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Snoopy%20(1983)%20(Century)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Snoopy%20(1983)%20(Century)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Solar Fox",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Solar%20Fox%20(1983)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Solar%20Fox%20(1983)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Solar Storm",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Solar%20Storm%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Solar%20Storm%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Solaris",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Solaris%20(1986)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Solaris%20(1986)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sorcerer",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Sorcerer%20(1983)%20(Mythicon)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Sorcerer%20(1983)%20(Mythicon)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sorcerer's Apprentice",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Sorcerer's%20Apprentice%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Sorcerer's%20Apprentice%20(1983)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Attack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Space%20Attack%20(1982)%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Space%20Attack%20(1982)%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Cavern",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Space%20Cavern%20(1981)%20(Apollo)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Space%20Cavern%20(1981)%20(Apollo)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Invaders",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Better%20Space%20Invaders%20(1999)%20(Rob%20Kudla)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Better%20Space%20Invaders%20(1999)%20(Rob%20Kudla)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Jockey",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Space%20Jockey%20(1982)%20(US%20Games)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Gefecht%20im%20All%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Jockey",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Space%20Jockey%20(1982)%20(US%20Games)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Space%20Jockey%20(1982)%20(US%20Games)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Jockey",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Space%20Jockey%20(1982)%20(US%20Games)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Time%20Race%20(Rainbow%20Vision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Shuttle - A Journey Into Space",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Space%20Shuttle%20-%20Journey%20Into%20Space%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Space%20Shuttle%20-%20Journey%20Into%20Space%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space War",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Space%20War%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Space%20War%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spacechase",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Spacechase%20(1981)%20(Apollo)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Spacechase%20(1981)%20(Apollo)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Speedway II",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Street%20Racer%20-%20Speedway%20II%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Street%20Racer%20-%20Speedway%20II%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spider Fighter",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Spider%20Fighter%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Spider%20Fighter%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spider-man",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Spider-Man%20(1982)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Spider-Man%20(1982)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Spike's Peak",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Spike's%20Peak%20(1983)%20(Xonox)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Spike's%20Peak%20(1983)%20(Xonox)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spitfire Attack",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Spitfire%20Attack%20(1983)%20(Milton%20Bradley)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Spitfire%20Attack%20(1983)%20(Milton%20Bradley)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sports Action Pak - Enduro / Ice Hockey / Fishing Derby / Dragster",
+    "console": "atari2600",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Sports%20Action%20Pak%20-%20End%2CHock%2CFish%2CDrag%20(1988)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sprint Master",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Sprint%20Master%20(1988)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Sprint%20Master%20(1988)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spy Hunter",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Spy%20Hunter%20(1983)%20(Sega)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Spy%20Hunter%20(1983)%20(Sega)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Squeeze Box",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Squeeze%20Box%20(1982)%20(US%20Games)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Squeeze%20Box%20(1982)%20(US%20Games)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sssnake",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Sssnake%20(1982)%20(Data%20Age)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Sssnake%20(1982)%20(Data%20Age)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Stampede",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Stampede%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Stampede%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Stampede",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Stampede%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Super-Cowboy%20beim%20Rodeo%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Fox",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Star%20Fox%20(1982)%20(Mythicon)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Star%20Fox%20(1982)%20(Mythicon)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Raiders",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Star%20Raiders%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Star%20Raiders%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Strike",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Star%20Strike%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Star%20Strike%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Trek - Strategic Operations Simulator",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Star%20Trek%20-%20Strategic%20Operations%20Simulator%20(1983)%20(Sega)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Star%20Trek%20-%20Strategic%20Operations%20Simulator%20(1983)%20(Sega)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Voyager",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Star%20Voyager%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Star%20Voyager%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Wars - Jedi Arena",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Star%20Wars%20-%20Jedi%20Arena%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Star%20Wars%20-%20Jedi%20Arena%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Wars - Return Of The Jedi - Death Star Battle",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Star%20Wars%20-%20Death%20Star%20Battle%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Star%20Wars%20-%20Death%20Star%20Battle%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Wars - The Arcade Game",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Star%20Wars%20-%20The%20Arcade%20Game%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Star%20Wars%20-%20The%20Arcade%20Game%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Wars - The Empire Strikes Back",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20(1982)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20(1982)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Stargate",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Stargate%20(1984)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Stargate%20(1984)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Starmaster",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Starmaster%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Starmaster%20(1982)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Strategy X",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Landungskommando%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Landungskommando%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Strategy X",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Landungskommando%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Landungskommando%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Strawberry Shortcake - Musical Match-ups",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Strawberry%20Shortcake%20-%20Musical%20Match-Ups%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Strawberry%20Shortcake%20-%20Musical%20Match-Ups%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sub-scan",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Sub%20Scan%20(1983)%20(Sega)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Sub%20Scan%20(1983)%20(Sega)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Subterranea",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Subterrenea%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Subterrenea%20(1983)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Summer Games",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Summer%20Games%20(1987)%20(Epyx)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Summer%20Games%20(1987)%20(Epyx)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Baseball",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Super%20Baseball%20(1988)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Super%20Baseball%20(1988)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Breakout",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Super%20Breakout%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Super%20Breakout%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Challenge Baseball",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Super%20Challenge%20Baseball%20(1982)%20(Mattel)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Super%20Challenge%20Baseball%20(1982)%20(Mattel)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Cobra",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Super%20Cobra%20(1982)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Super%20Cobra%20(1982)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Ferrari",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Super%20Ferrari%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Super%20Ferrari%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Football",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Super%20Football%20(1988)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Super%20Football%20(1988)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Superman",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Superman%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Superman%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Surround",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Surround%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Surround%20(32-in-1)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Swordquest - Earthworld",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/SwordQuest%20-%20Earthworld%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/SwordQuest%20-%20Earthworld%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Swordquest - Fireworld",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/SwordQuest%20-%20Fireworld%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/SwordQuest%20-%20Fireworld%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Synthcart",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Synthcart%20(2002)%20(Paul%20Slocum)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Synthcart%20(2002)%20(Paul%20Slocum)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tac-scan",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Tac%20Scan%20(1983)%20(Sega)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Tac%20Scan%20(1983)%20(Sega)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tape Worm",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Tape%20Worm%20(1982)%20(Spectravideo)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Tape%20Worm%20(1982)%20(Spectravideo)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tapper",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Tapper%20(1983)%20(Sega)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Tapper%20(1983)%20(Sega)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Taz",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Taz%20(1983)%20(Atari)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Taz%20(1983)%20(Atari)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Telepathy",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Telepathy%20(Prototype)%20(Atari)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Telepathy%20(Prototype)%20(Atari)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tempest",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Tempest%20(Atari)%20(Prototype)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Tempest%20(Atari)%20(Prototype)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tennis",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Tennis%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Tennis%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Activision Decathlon",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Decathlon%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Decathlon%20(1983)%20(Activision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Challenge of Nexar",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Challenge%20of...NEXAR%20(1982)%20(Spectravideo)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Black%20Hole%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Challenge of Nexar",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Challenge%20of...NEXAR%20(1982)%20(Spectravideo)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Challenge%20of...NEXAR%20(1982)%20(Spectravideo)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "This Planet Sucks!",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/This%20Planet%20Sucks%20(Greg%20Troutman)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/This%20Planet%20Sucks%20(Greg%20Troutman)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Threshold",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Threshold%20(1982)%20(Tigervision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Threshold%20(1982)%20(Tigervision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Thunderground",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Phantom%20Panzer%20II%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Phantom%20Panzer%20II%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Thwocker",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Thwocker%20(Activision)%20(Prototype)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Thwocker%20(Activision)%20(Prototype)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Time Warp",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Astro%20Attack%20(Goliath)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Astro%20Attack%20(Goliath)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Title Match Pro Wrestling",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Title%20Match%20Pro%20Wrestling%20(2002)%20(Skyworks)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Title%20Match%20Pro%20Wrestling%20(2002)%20(Skyworks)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Title Match Pro Wrestling",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Title%20Match%20Pro%20Wrestling%20(2002)%20(Skyworks)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Title%20Match%20Pro%20Wrestling%20(2002)%20(Skyworks)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Topy",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Gefaehrliche%20Maeusejagt%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Gefaehrliche%20Maeusejagt%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Towering Inferno",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Towering%20Inferno%20(1982)%20(US%20Games)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Towering%20Inferno%20(1982)%20(US%20Games)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Treasure Island",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Duck%20Shoot%20(Kampf%20um%20die%20Schatzinsel)%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Duck%20Shoot%20(Kampf%20um%20die%20Schatzinsel)%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Trick Shot",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Trick%20Shot%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Trick%20Shot%20(1982)%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tron - Deadly Discs",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/TRON%20-%20Deadly%20Discs%20(1983)%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/TRON%20-%20Deadly%20Discs%20(1983)%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tunnel Runner",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Tunnel%20Runner%20(1983)%20(CBS%20Electronics)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Tunnel%20Runner%20(1983)%20(CBS%20Electronics)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Turmoil",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Turmoil%20(1982)%20(20th%20Century%20Fox)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Turmoil%20(1982)%20(20th%20Century%20Fox)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tutankham",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Tutankham%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Tutankham%20(1983)%20(Parker%20Bros)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Universal Chaos",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Universal%20Chaos%20(Telegames)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Universal%20Chaos%20(Telegames)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vanguard",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Vanguard%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Vanguard%20(1982)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Venture",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Venture%20(1982)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Venture%20(1982)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Video Checkers",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Video%20Checkers%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Video%20Checkers%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Video Chess",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Video%20Chess%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Video%20Chess%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Video Olympics",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Video%20Olympics%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Video%20Olympics%20(1978)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Video Pinball",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Flippern%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Flippern%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Video Pinball",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Flippern%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Video%20Pinball%20(1980)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wabbit",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Wabbit%20(1982)%20(Apollo)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Wabbit%20(1982)%20(Apollo)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Walker",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Schussel%2C%20der%20Polizistenschreck%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Schussel%2C%20der%20Polizistenschreck%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wall Break",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Breakdown%20(AKA%20Capture)%20(Dynamics-Goliath)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Breakdown%20(AKA%20Capture)%20(Dynamics-Goliath)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Warlords",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Warlords%20(1981)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Warlords%20(1981)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wing War",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Wing%20War%20(Imagic)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Wing%20War%20(Imagic)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Winter Games",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Winter%20Games%20(1987)%20(Epyx)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Winter%20Games%20(1987)%20(Epyx)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wizard Of Wor",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Wizard%20of%20Wor%20(1982)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Wizard%20of%20Wor%20(1982)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Word Zapper",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Word%20Zapper%20(1982)%20(US%20Games)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Word%20Zapper%20(1982)%20(US%20Games)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "World End",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Laser%20Base%20(AKA%20World%20End)%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Laser%20Base%20(AKA%20World%20End)%20(ITT%20Family%20Games)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Worm War I",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Worm%20War%20I%20(1982)%20(20th%20Century%20Fox)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Worm%20War%20I%20(1982)%20(20th%20Century%20Fox)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Xenophobe",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Xenophobe%20(1990)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Xenophobe%20(1990)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "X'mission",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Raumpatrouille%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Raumpatrouille%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Yars' Revenge",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Yar's%20Revenge%20(1981)%20(Atari)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Yar's%20Revenge%20(1981)%20(Atari)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zaxxon",
+    "console": "atari2600",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Zaxxon%20(1983)%20(CBS%20Electronics)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zoo Fun",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Aufruhr%20im%20Zoo%20(Starsoft)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Aufruhr%20im%20Zoo%20(Starsoft)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Robot",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Robot%20Fight%20(AKA%20Space%20Robot)%20(HomeVision)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Robot%20Fight%20(AKA%20Space%20Robot)%20(HomeVision)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Invaders",
+    "console": "atari2600",
+    "video": "https://ggbox.com.br/jogos/atari2600/media/videos/Better%20Space%20Invaders%20(1999)%20(Rob%20Kudla)%20(PAL)%20%5B!%5D.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari2600/media/wheel/Better%20Space%20Invaders%20(1999)%20(Rob%20Kudla)%20(PAL)%20%5B!%5D.png",
+    "pack": "pack_standard"
+  }
+]

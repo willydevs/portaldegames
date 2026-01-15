@@ -1,0 +1,198 @@
+[
+  {
+    "Nome": "Over Rev (Model 2C, Revision A)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/overrev.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/overrev.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sega Ski Super G",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/skisuprg.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/skisuprg.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sega Water Ski (Japan, Revision A)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/segawski.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/segawski.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Virtua Cop (Revision B)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/vcop.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/vcop.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Top Skater (Export, Revision A)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/topskatr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/topskatr.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dead or Alive (Model 2B, Revision B)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/doa.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/doa.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Desert Tank",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/desert.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/desert.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Indianapolis 500 (Revision A, Newer)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/indy500.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/indy500.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gunblade NY (Revision A)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/gunblade.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/gunblade.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "House of the Dead",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/hotd.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/hotd.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "ManxTT Superbike (revision D)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/manxtt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/manxtt.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Motor Raid",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/motoraid.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/motoraid.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rail Chase 2 (Revision A)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/rchase2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/rchase2.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zero Gunner (Export, Model 2B)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/zerogun.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/zeroguna.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wave Runner (Japan, Revision A)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/waverunr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/waverunr.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super GT 24h",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/sgt24h.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/sgt24h.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Virtua Cop 2",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/vcop2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/vcop2.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sonic Championship (USA)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/schamp.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/schamp.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sky Target",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/skytargt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/skytargt.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Last Bronx (Export, Revision A)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/lastbrnx.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/lastbrnx.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fighting Vipers (revision D)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/fvipers.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/fvipers.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Virtua Striker (Revision A)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/vstriker.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/vstriker.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pilot Kids (Model 2B, Revision A)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/pltkids.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/pltkidsa.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "ZZZ(notgame):Model2",
+    "console": "model2",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/model2.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sega Rally Championship (Revision C)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/srallyc.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/srallyc.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cyber Troopers Virtual-On (USA, Revision B)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/von.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/von.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Daytona USA (Japan, Revision A)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/daytona.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/daytona.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Virtua Fighter 2 (Version 2.1)",
+    "console": "model2",
+    "video": "https://ggbox.com.br/jogos/model2/media/videos/vf2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model2/media/wheel/vf2.png",
+    "pack": "pack_standard"
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "Nome": "Bank Panic",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Bank%20Panic%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Bank%20Panic%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bomb Jack",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Bomb%20Jack%20(Taiwan)%20(English%20Logo).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Bomb%20Jack%20(Taiwan)%20(English%20Logo).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bomberman Special",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Bomberman%20Special%20(Taiwan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Bomberman%20Special%20(Taiwan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Borderline",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Borderline%20(Japan%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Borderline%20(Japan%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chack'n Pop",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Chack'n%20Pop%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Chack'n%20Pop%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Challenge Derby",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Challenge%20Derby%20(Japan)%20(vA)%20(40kB)%20(Othello%20Multivision).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Challenge%20Derby%20(Japan)%20(vA)%20(40kB)%20(Othello%20Multivision).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Champion Baseball",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Champion%20Baseball%20(Japan)%20(40kB).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Champion%20Baseball%20(Japan)%20(40kB).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Champion Billiards",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Champion%20Billiards%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Champion%20Billiards%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Champion Boxing",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Champion%20Boxing%20(Japan)%20(MyCard).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Champion%20Boxing%20(Japan)%20(MyCard).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Champion Golf",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Champion%20Golf%20(Japan)%20(MyCard).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Champion%20Golf%20(Japan)%20(MyCard).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Champion Ice Hockey",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Champion%20Ice%20Hockey%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Champion%20Ice%20Hockey%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Champion Kendou",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Champion%20Kendou%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Champion%20Kendou%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Champion Tennis",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Champion%20Tennis%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Champion%20Tennis%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Championship Lode Runner",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Championship%20Lode%20Runner%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Championship%20Lode%20Runner%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Choplifter",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Choplifter%20(Taiwan)%20(English%20Logo).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Choplifter%20(Taiwan)%20(English%20Logo).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Congo Bongo",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Congo%20Bongo%20(Japan%2C%20Europe)%20(Rev%201).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Congo%20Bongo%20(Japan%2C%20Europe)%20(Rev%201).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dokidoki Penguin Land",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Dokidoki%20Penguin%20Land%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Dokidoki%20Penguin%20Land%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Wang",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Dragon%20Wang%20(Taiwan)%20(English%20Logo).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Dragon%20Wang%20(Taiwan)%20(English%20Logo).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Drol",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Drol%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Drol%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Elevator Action",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Elevator%20Action%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Elevator%20Action%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Exerion",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Exerion%20(Japan%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Exerion%20(Japan%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Flicky",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Flicky%20(Japan)%20(Rev%201).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Flicky%20(Japan)%20(Rev%201).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Flipper",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Sega%20Flipper%20(Japan%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Sega%20Flipper%20(Japan%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Galaga",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Galaga%20(Taiwan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Galaga%20(Taiwan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Girl's Garden",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Girl's%20Garden%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Girl's%20Garden%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Golgo 13",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Golgo%2013%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Golgo%2013%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "GP World",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/GP%20World%20(Japan)%20(Rev%201).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/GP%20World%20(Japan)%20(Rev%201).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gulkave",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Gulkave%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Gulkave%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Guzzler",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Guzzler%20(Japan)%20(Othello%20Multivision).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Guzzler%20(Japan)%20(Othello%20Multivision).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "H.E.R.O.",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/H.E.R.O.%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/H.E.R.O.%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hang-On II",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Hang-On%20II%20(Taiwan)%20(English%20Logo).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Hang-On%20II%20(Taiwan)%20(English%20Logo).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Home Mahjong",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Home%20Mahjong%20(Japan)%20(Rev%201).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Home%20Mahjong%20(Japan)%20(Rev%201).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hustle Chumy",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Hustle%20Chumy%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Hustle%20Chumy%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hyper Sports",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Hyper%20Sports%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Hyper%20Sports%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "King's Valley",
+    "console": "sg1000",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/King's%20Valley%20(Taiwan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Knightmare",
+    "console": "sg1000",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Knightmare%20(Taiwan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lode Runner",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Lode%20Runner%20(Japan%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Lode%20Runner%20(Japan%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Magical Kid Wiz",
+    "console": "sg1000",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Magical%20Kid%20Wiz%20(Taiwan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Monaco GP",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Monaco%20GP%20(Japan)%20(Rev%202).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Monaco%20GP%20(Japan)%20(Rev%202).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "N-Sub",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/N-Sub%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/N-Sub%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Orguss",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Orguss%20(Japan%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Orguss%20(Japan%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Othello",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Othello%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Othello%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pacar",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Pacar%20(Japan%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Pacar%20(Japan%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pachinko II",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Pachinko%20II%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Pachinko%20II%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pachinko",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Pachinko%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Pachinko%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pitfall II - The Lost Caverns",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Pitfall%20II%20(Taiwan)%20(English%20Logo).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Pitfall%20II%20(Taiwan)%20(English%20Logo).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pop Flamer",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Pop%20Flamer%20(Japan%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Pop%20Flamer%20(Japan%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Q*bert",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Q-bert%20(Japan)%20(Othello%20Multivision).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Q-bert%20(Japan)%20(Othello%20Multivision).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rock n' Bolt",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Rock%20n'%20Bolt%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Rock%20n'%20Bolt%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Safari Hunting",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Safari%20Hunting%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Safari%20Hunting%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Safari Race",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Safari%20Race%20(Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Safari%20Race%20(Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sega Flipper",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Sega%20Flipper%20(Japan%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Sega%20Flipper%20(Japan%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sega Mahjong",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Mahjong%20(Japan)%20(English%20Title).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Mahjong%20(Japan)%20(English%20Title).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sega-Galaga",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Galaga%20(Taiwan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Galaga%20(Taiwan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Serizawa Hachidan no Tsumeshougi",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Serizawa%20Hachidan%20no%20Tsumeshougi%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Serizawa%20Hachidan%20no%20Tsumeshougi%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shinnyushain Tooru Kun",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Shinnyushain%20Tooru%20Kun%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Shinnyushain%20Tooru%20Kun%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sindbad Mystery",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Sindbad%20Mystery%20(Japan%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Sindbad%20Mystery%20(Japan%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Soukoban",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Soukoban%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Soukoban%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Armor",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Space%20Armor%20(Japan)%20(v2.0)%20(Othello%20Multivision).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Space%20Armor%20(Japan)%20(v2.0)%20(Othello%20Multivision).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Invaders",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Space%20Invaders%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Space%20Invaders%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Mountain",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Space%20Mountain%20(Japan)%20(Othello%20Multivision).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Space%20Mountain%20(Japan)%20(Othello%20Multivision).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Slalom",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Space%20Slalom%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Space%20Slalom%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Force",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Star%20Force%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Star%20Force%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Jacker",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Star%20Jacker%20(Japan%2C%20Europe)%20(Rev%202).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Star%20Jacker%20(Japan%2C%20Europe)%20(Rev%202).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Tank",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Super%20Tank%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Super%20Tank%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tank Battalion",
+    "console": "sg1000",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Tank%20Battalion%20(Taiwan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Terebi Oekaki",
+    "console": "sg1000",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Terebi%20Oekaki%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Black Onyx",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Black%20Onyx%2C%20The%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Black%20Onyx%2C%20The%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Castle",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Castle%2C%20The%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Castle%2C%20The%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Legend of Kage",
+    "console": "sg1000",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Legend%20of%20Kage%2C%20The%20(Taiwan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "TwinBee",
+    "console": "sg1000",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/TwinBee%20(Taiwan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wonder Boy",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Wonder%20Boy%20(Japan)%20(Rev%201).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Wonder%20Boy%20(Japan)%20(Rev%201).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Yamato",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Yamato%20(Japan%2C%20Europe).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Yamato%20(Japan%2C%20Europe).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Yie Ar Kung-Fu II",
+    "console": "sg1000",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Yie%20Ar%20Kung-Fu%20II%20(Taiwan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zaxxon",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Zaxxon%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Zaxxon%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zippy Race",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Zippy%20Race%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Zippy%20Race%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zoom 909",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Zoom%20909%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Zoom%20909%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Champion Pro Wrestling",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Champion%20Pro%20Wrestling%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Champion%20Pro%20Wrestling%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Champion Soccer",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/Champion%20Soccer%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/Champion%20Soccer%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "ZZZ(notgame):Sg-1000 M2 Test Cartridge",
+    "console": "sg1000",
+    "video": "",
+    "imagem": "",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "007 James Bond",
+    "console": "sg1000",
+    "video": "https://ggbox.com.br/jogos/sg1000/media/videos/007%20James%20Bond%20(Japan)%20(v2.7)%20(Othello%20Multivision).mp4",
+    "imagem": "https://ggbox.com.br/jogos/sg1000/media/wheel/007%20James%20Bond%20(Japan)%20(v2.7)%20(Othello%20Multivision).png",
+    "pack": "pack_standard"
+  }
+]

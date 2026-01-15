@@ -1,0 +1,184 @@
+[
+  {
+    "Nome": "Resident Evil 2",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Resident Evil 2 Dual Shock - Leon (BR)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Resident%20Evil%202%20Dual%20Shock%20-%20Claire%20(BR)-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Resident Evil 2",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Resident Evil 2 Dual Shock - Leon (BR)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Resident%20Evil%202%20Dual%20Shock%20-%20Leon%20(BR)-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Spyro the Dragon",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Spyro the Dragon-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Spyro%20the%20Dragon-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Vigilante 8",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Vigilante 8-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Vigilante%208-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Grand Theft Auto 2",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Grand Theft Auto 2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Grand%20Theft%20Auto%202-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Silent Hill",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Silent Hill (USA) [T-BR]l-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Silent%20Hill%20(USA)%20%5BT-BR%5Dl-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Grand Theft Auto",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Grand Theft Auto-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Grand%20Theft%20Auto-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Twisted Metal 2",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Twisted Metal - World Tour (Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Twisted%20Metal%20-%20World%20Tour%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vigilante 8 : 2nd Offense",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Vigilante 8 - 2nd Offense (USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Vigilante%208%20-%202nd%20Offense%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crash Team Racing",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Crash Team Racing-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Crash%20Team%20Racing-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "007 : Tomorrow Never Dies",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/007 Tomorrow Never Dies-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/007%20Tomorrow%20Never%20Dies-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "2002 FIFA World Cup",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/2002 FIFA World Cup (USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/2002%20FIFA%20World%20Cup%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crash Bandicoot : Warped",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Crash Bandicoot 3 - Warped-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Crash%20Bandicoot%203%20-%20Warped-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crash Team Racing",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Crash Team Racing-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Crash%20Team%20Racing-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Guilty Gear",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Guilty Gear-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Guilty%20Gear-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Kamen Rider",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Kamen Rider-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Kamen%20Rider-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crash Bandicoot",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Crash Bandicoot-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Crash%20Bandicoot-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Looney Tunes Racing",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Looney Tunes Racing-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Looney%20Tunes%20Racing-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mortal Kombat Trilogy",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Mortal Kombat Trilogy-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Mortal%20Kombat%20Trilogy-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Medal of Honor",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Medal of Honor-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Medal%20of%20Honor-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "World Soccer Winning Eleven 2002",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Pro Evolution Soccer 2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Pro%20Evolution%20Soccer%202-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Resident Evil 3 : Nemesis",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Resident Evil 3 - Nemesis (USA) [T-BR]-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Resident%20Evil%203%20-%20Nemesis%20(USA)%20%5BT-BR%5D-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Resident Evil : Director's Cut",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Resident Evil 1.5-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Resident%20Evil%201.5-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spider-Man",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Spider-Man (USA) [T-BR] 1-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Spider-Man%20(USA)%20%5BT-BR%5D%201-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Castlevania : Symphony of the Night",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/Castlevania - Symphony of the Night-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/Castlevania%20-%20Symphony%20of%20the%20Night-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Tekken 3",
+    "console": "psx",
+    "video": "https://ggbox.com.br/jogos/psx/videos/TEKKEN 3 By UsagiRu-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/psx/images/TEKKEN%203%20By%20UsagiRu-marquee.png",
+    "pack": "pack_adicional"
+  }
+]

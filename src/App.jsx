@@ -12,6 +12,7 @@ import SobrePage from './components/pages/SobrePage';
 import AjudaPage from './components/pages/AjudaPage';
 import AbrirChamadoPage from './components/pages/AbrirChamadoPage';
 import DenunciaPage from './components/pages/DenunciaPage';
+import ProductsPage from './components/pages/ProductsPage';
 
 function App() {
   const [theme, setTheme] = React.useState(() => {
@@ -53,6 +54,7 @@ function App() {
         <main>
           <Routes>
             <Route path="/" element={<HomePage />} />
+            <Route path="/jogos" element={<ProductsPage />} />
             <Route path="/lojas" element={<LojasPage />} />
             <Route path="/termos" element={<TermosPage />} />
             <Route path="/privacidade" element={<PrivacidadePage />} />

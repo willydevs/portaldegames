@@ -1,0 +1,37 @@
+[
+  {
+    "Nome": "BatmanTMArkhamOrigins",
+    "console": "wiiu",
+    "video": "",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/4/4d/Batman-Arkham-Origins-Box-Art.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Bayonetta",
+    "console": "wiiu",
+    "video": "",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/8/81/Bayonetta_box_artwork.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "MarioKart8",
+    "console": "wiiu",
+    "video": "",
+    "imagem": "https://mario.wiki.gallery/images/thumb/4/46/Mario_Kart_8_-_NA_cover.png/1200px-Mario_Kart_8_-_NA_cover.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "MarioTennisUltraSmash",
+    "console": "wiiu",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/be2148f0-d771-466b-b509-656a2beaed3d.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "NinjaGaiden3USA",
+    "console": "wiiu",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/94eb6292-d7a5-491e-9d77-f5fc6281bdbf.png",
+    "pack": "pack_adicional"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "Nome": "BloodyRoarPrimalFury",
+    "console": "gamecube",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/b1398f57-b7a3-452e-b4ca-fbfdf2a5484d.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "TheLegendOfZeldaTheWindWaker",
+    "console": "gamecube",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/8d018e6c-9754-49bb-859a-749ef63ddc09.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "TheLegendOfZeldaTwilightPrincess",
+    "console": "gamecube",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/74c9cf0e-f788-49e0-90a3-b67f9ad28b6d.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "LuigiSMansion",
+    "console": "gamecube",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/06fbb90c-cb64-4d1f-8c48-c5e117c7fe67.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "MarioKartDoubleDash",
+    "console": "gamecube",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/0db38719-5ccc-4710-b416-ddc25eb4332b.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "MarioParty7",
+    "console": "gamecube",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/37ca65fe-f0b3-4247-9183-766442809340.jpg",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "SuperSmashBrosMelee",
+    "console": "gamecube",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/r2_4290f0f3-0cb6-4139-8bc5-567d1db131b6.png",
+    "pack": "pack_adicional"
+  }
+]

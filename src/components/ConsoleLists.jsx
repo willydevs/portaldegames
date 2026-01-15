@@ -1,19 +1,34 @@
-import React, { useRef, useEffect, useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
+import { useLocation, Link } from 'react-router-dom';
 import Button from './ui/Button';
 
-// Local images
-const nfsImage = '/games/nfsmw.webp';
-
-const GameCard = ({ title, image, oldPrice, price }) => (
-    <div className="bg-white dark:bg-slate-900 rounded-2xl p-4 shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 dark:border-slate-800 flex flex-col min-w-[240px] md:min-w-[280px] snap-center group">
-        <div className="relative aspect-[3/4] mb-4 overflow-hidden rounded-xl bg-gray-100 dark:bg-slate-800">
+const GameCard = ({ title, image, oldPrice, price, video, onPlay }) => (
+    <div className="bg-white dark:bg-slate-900 rounded-2xl p-4 shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 dark:border-slate-800 flex flex-col w-[240px] md:w-[280px] flex-shrink-0 snap-center group">
+        <div className="relative aspect-[3/4] mb-4 overflow-hidden rounded-xl bg-gray-100 dark:bg-slate-800 group/image">
             <img
                 src={image}
                 alt={title}
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                 loading="lazy"
+                onError={(e) => {
+                    e.target.onerror = null;
+                    e.target.src = 'https://placehold.co/400x530/e2e8f0/1e293b?text=No+Image';
+                }}
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
+            <div className={`absolute inset-0 bg-gradient-to-t from-black/20 to-transparent transition-opacity ${video ? 'opacity-100' : 'opacity-0 group-hover:opacity-100'}`} />
+
+            {video && (
+                <button
+                    onClick={() => onPlay(video)}
+                    className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 group-hover/image:opacity-100 transition-all duration-300 bg-black/40 hover:bg-black/50"
+                >
+                    <div className="w-16 h-16 rounded-full bg-white/20 backdrop-blur-sm flex items-center justify-center border-2 border-white/50 hover:scale-110 transition-transform">
+                        <svg className="w-8 h-8 text-white ml-1" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M8 5v14l11-7z" />
+                        </svg>
+                    </div>
+                </button>
+            )}
         </div>
 
         <h3 className="text-gray-900 dark:text-white font-bold text-center mb-1 text-base line-clamp-2 min-h-[3rem] flex items-center justify-center">
@@ -42,7 +57,7 @@ const GameCard = ({ title, image, oldPrice, price }) => (
     </div>
 );
 
-const GameRow = ({ title, games }) => {
+const GameRow = ({ title, games, onPlayVideo }) => {
     const scrollRef = useRef(null);
     const [isHovered, setIsHovered] = useState(false);
     const [isPaused, setIsPaused] = useState(false);
@@ -112,6 +127,8 @@ const GameRow = ({ title, games }) => {
         slider.scrollLeft = scrollLeftState - walk;
     };
 
+    if (!games || games.length === 0) return null;
+
     return (
         <div
             className="mb-12 last:mb-0 relative group/row"
@@ -166,61 +183,296 @@ const GameRow = ({ title, games }) => {
                 onMouseMove={handleMouseMove}
             >
                 {games.map((game, idx) => (
-                    <GameCard key={idx} {...game} />
+                    <GameCard key={idx} {...game} onPlay={onPlayVideo} />
                 ))}
             </div>
         </div>
     );
 };
 
-const ConsoleLists = () => {
-    // Configured data from user request
-    const ps4Games = [
-        { title: "Dark Souls Remastered", image: "https://m.media-amazon.com/images/I/716RNd1mPML._AC_UF1000,1000_QL80_.jpg", oldPrice: "179,90", price: "9,90" },
-        { title: "Dark Souls 2", image: "https://m.media-amazon.com/images/I/71hIZMtJfWL._AC_UF1000,1000_QL80_.jpg", oldPrice: "149,90", price: "9,90" },
-        { title: "Dark Souls 3", image: "https://m.media-amazon.com/images/I/81kHY1Irw0L._AC_UF1000,1000_QL80_.jpg", oldPrice: "249,90", price: "9,90" },
-        { title: "Elden Ring", image: "https://m.media-amazon.com/images/I/71lS5rBEFmL._AC_UF1000,1000_QL80_.jpg", oldPrice: "299,90", price: "19,90" },
-        { title: "Need for Speed MW", image: nfsImage, oldPrice: "89,90", price: "9,90" },
-        { title: "Red Dead Redemption 2", image: "https://m.media-amazon.com/images/I/71XrxGqPosL._AC_UF1000,1000_QL80_.jpg", oldPrice: "248,90", price: "9,90" },
-        { title: "Sekiro: Shadows Die Twice", image: "https://www.sekirothegame.com/content/dam/atvi/sekiro/buy/box-art/PS4_2D_MX.jpg", oldPrice: "274,50", price: "19,90" },
-        { title: "Spider-Man Remastered", image: "https://m.media-amazon.com/images/I/815TEngwF7L.jpg", oldPrice: "249,50", price: "19,90" },
-        { title: "The Last of Us Part I", image: "https://m.media-amazon.com/images/I/91zSahIYtIL.jpg", oldPrice: "349,90", price: "19,90" },
-        { title: "Uncharted L.T. Collection", image: "https://m.media-amazon.com/images/I/813QeeXqZwL._AC_UF1000,1000_QL80_.jpg", oldPrice: "199,50", price: "9,90" },
-        { title: "God of War", image: "https://m.media-amazon.com/images/I/913r59lGp-L.jpg", oldPrice: "99,50", price: "9,90" }
+const ConsoleLists = ({ showViewAllLink = false }) => {
+    const [searchTerm, setSearchTerm] = useState('');
+    const [selectedCategory, setSelectedCategory] = useState('all');
+    const [videoModal, setVideoModal] = useState({ isOpen: false, videoUrl: '' });
+    const [gamesData, setGamesData] = useState({});
+    const [isLoading, setIsLoading] = useState(true);
+    const [visibleRows, setVisibleRows] = useState(3);
+
+    const openVideo = (url) => setVideoModal({ isOpen: true, videoUrl: url });
+    const closeVideo = () => setVideoModal({ isOpen: false, videoUrl: '' });
+
+    // Full system configuration
+    const systemsConfig = [
+        // Modern Gen
+        { id: 'ps5', title: 'PlayStation 5', file: 'ps5.json' },
+        { id: 'ps4', title: 'PlayStation 4', file: 'ps4.json' },
+        { id: 'xboxone', title: 'Xbox One / Series', file: 'xboxone.json' },
+        { id: 'switch', title: 'Nintendo Switch', file: 'switch.json' },
+        { id: 'windows', title: 'PC Windows', file: 'windows.json' },
+
+        // Previous Gen
+        { id: 'wiiu', title: 'Nintendo Wii U', file: 'wiiu.json' },
+        { id: 'ps3', title: 'PlayStation 3', file: 'ps3.json' },
+        { id: 'xbox360', title: 'Xbox 360', file: 'xbox360.json' },
+        { id: 'wii', title: 'Nintendo Wii', file: 'wii.json' },
+
+        // Classics 3D
+        { id: 'ps2', title: 'PlayStation 2', file: 'ps2.json' },
+        { id: 'xbox', title: 'Xbox Clássico', file: 'xbox.json' },
+        { id: 'gamecube', title: 'Nintendo GameCube', file: 'gamecube.json' },
+        { id: 'dreamcast', title: 'Sega Dreamcast', file: 'dreamcast.json' },
+        { id: 'ps1', title: 'PlayStation 1', file: 'ps1.json' },
+        { id: 'n64', title: 'Nintendo 64', file: 'n64.json' },
+        { id: '3do', title: '3DO Interactive Multiplayer', file: '3do.json' },
+        { id: 'saturn', title: 'Sega Saturn', file: 'saturn.json' },
+        { id: 'jaguar', title: 'Atari Jaguar', file: 'jaguar.json' },
+
+        // Handhelds
+        { id: '3ds', title: 'Nintendo 3DS', file: '3ds.json' },
+        { id: 'nds', title: 'Nintendo DS', file: 'nds.json' },
+        { id: 'psp', title: 'PSP', file: 'psp.json' },
+        { id: 'gba', title: 'Game Boy Advance', file: 'gba.json' },
+        { id: 'gbc', title: 'Game Boy Color', file: 'gbc.json' },
+        { id: 'gb', title: 'Game Boy', file: 'gb.json' },
+        { id: 'gamegear', title: 'Game Gear', file: 'gamegear.json' },
+        { id: 'lynx', title: 'Atari Lynx', file: 'lynx.json' },
+        { id: 'ngpc', title: 'Neo Geo Pocket Color', file: 'ngpc.json' },
+        { id: 'wswanc', title: 'WonderSwan Color', file: 'wswanc.json' },
+
+        // 16-bit / 32-bit 2D
+        { id: 'sega32x', title: 'Sega 32X', file: 'sega32x.json' },
+        { id: 'segacd', title: 'Sega CD', file: 'segacd.json' },
+        { id: 'megadrive', title: 'Mega Drive / Genesis', file: 'megadrive.json' },
+        { id: 'snes', title: 'Super Nintendo', file: 'snes.json' },
+        { id: 'neogeo', title: 'Neo Geo', file: 'neogeo.json' },
+        { id: 'neogeocd', title: 'Neo Geo CD', file: 'neogeocd.json' },
+        { id: 'pcengine', title: 'PC Engine', file: 'pcengine.json' },
+        { id: 'pcenginecd', title: 'PC Engine CD', file: 'pcenginecd.json' },
+        { id: 'supergrafx', title: 'SuperGrafx', file: 'supergrafx.json' },
+
+        // 8-bit Era
+        { id: 'mastersystem', title: 'Master System', file: 'mastersystem.json' },
+        { id: 'nes', title: 'NES (Nintendinho)', file: 'nes.json' },
+
+        // Classics / Atari
+        { id: 'atari7800', title: 'Atari 7800', file: 'atari7800.json' },
+        { id: 'atari5200', title: 'Atari 5200', file: 'atari5200.json' },
+        { id: 'atari2600', title: 'Atari 2600', file: 'atari2600.json' },
+        { id: 'coleovision', title: 'ColecoVision', file: 'colecovision.json' },
+        { id: 'vectrex', title: 'Vectrex', file: 'vectrex.json' },
+        { id: 'sg1000', title: 'SG-1000', file: 'sg1000.json' },
+        { id: 'virtualboy', title: 'Virtual Boy', file: 'virtualboy.json' },
+
+        // Arcade & Others
+        { id: 'arcade', title: 'Arcade Classics', file: 'arcade.json' },
+        { id: 'mame', title: 'MAME', file: 'mame.json' },
+        { id: 'fbneo', title: 'Final Burn Neo', file: 'fbneo.json' },
+        { id: 'atomiswave', title: 'Atomiswave', file: 'atomiswave.json' },
+        { id: 'naomi', title: 'Sega Naomi', file: 'naomi.json' },
+        { id: 'naomi2', title: 'Sega Naomi 2', file: 'naomi2.json' },
+        { id: 'model2', title: 'Sega Model 2', file: 'model2.json' },
+        { id: 'model3', title: 'Sega Model 3', file: 'model3.json' },
+        { id: 'triforce', title: 'Triforce', file: 'triforce.json' },
+        { id: 'lightgun', title: 'Lightgun Games', file: 'lightgun.json' },
+        { id: 'pinballfx3', title: 'Pinball FX3', file: 'pinballfx3.json' },
+
+        // Regional / Mods / Misc
+        { id: 'mastersystembr', title: 'Master System (PT-BR)', file: 'mastersystembr.json' },
+        { id: 'megadrivebr', title: 'Mega Drive (PT-BR)', file: 'megadrivebr.json' },
+        { id: 'n64br', title: 'Nintendo 64 (PT-BR)', file: 'n64br.json' },
+        { id: 'snesbr', title: 'Super Nintendo (PT-BR)', file: 'snesbr.json' },
+        { id: 'msx2', title: 'MSX 2', file: 'msx2.json' },
+        { id: 'lutro', title: 'Lutro', file: 'lutro.json' },
+        { id: 'sufami', title: 'Sufami Turbo', file: 'sufami.json' },
+        { id: 'psx', title: 'PSX (Classics)', file: 'psx.json' }
     ];
 
-    const ps5Games = [
-        { title: "Assassin's Creed Mirage", image: "https://m.media-amazon.com/images/I/81tSC34DQFL.jpg", oldPrice: "239,90", price: "19,90" },
-        { title: "Dynasty Warriors Origins", image: "https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/dynasty-warriors-origins-ps5-sony/bluewavesgame/22012026/cacae64af9e69afc1790f2c9841fd697.jpeg", oldPrice: "349,90", price: "19,90" },
-        { title: "God of War Ragnarök", image: "https://m.media-amazon.com/images/I/8136lnf0n2L.jpg", oldPrice: "349,90", price: "19,90" },
-        { title: "Silent Hill 2", image: "https://m.media-amazon.com/images/I/71E3B-85r1L.jpg", oldPrice: "349,50", price: "19,90" },
-        { title: "The Witcher 3: Complete Edition", image: "https://m.media-amazon.com/images/I/81BHn3JO3ML._AC_UF1000,1000_QL80_.jpg", oldPrice: "199,90", price: "9,90" }
-    ];
+    useEffect(() => {
+        const fetchAllSystems = async () => {
+            setIsLoading(true);
+            const newData = {};
 
-    const xboxGames = [
-        { title: "Call of Duty: Black Ops 3", image: "https://m.media-amazon.com/images/I/81T23W11n6L.jpg", oldPrice: "299,00", price: "19,90" },
-        { title: "Crysis 3 Remastered", image: "https://m.media-amazon.com/images/I/71E4xtlcajL._AC_UF1000,1000_QL80_.jpg", oldPrice: "149,50", price: "9,90" },
-        { title: "Cyberpunk 2077", image: "https://m.media-amazon.com/images/I/819bg+506sL.jpg", oldPrice: "249,90", price: "19,90" },
-        { title: "Dragon Ball: Sparking! Zero", image: "https://m.media-amazon.com/images/I/817bPOXbpqL._AC_UF1000,1000_QL80_.jpg", oldPrice: "349,90", price: "19,90" },
-        { title: "Forza Horizon 5", image: "https://m.media-amazon.com/images/I/61RvJphIh0L._AC_UF1000,1000_QL80_.jpg", oldPrice: "249,00", price: "9,90" },
-        { title: "GTA V", image: "https://m.media-amazon.com/images/I/71EyQaVZq0L._AC_UF1000,1000_QL80_.jpg", oldPrice: "149,90", price: "9,90" }
-    ];
+            const fetchSystem = async (sys) => {
+                try {
+                    let response = await fetch(`/sistemas/${sys.file}`);
+                    if (!response.ok) {
+                        throw new Error(`Failed to load ${sys.file}`);
+                    }
+                    const data = await response.json();
+                    return data;
+                } catch (error) {
+                    try {
+                        const res2 = await fetch(`sistemas/${sys.file}`);
+                        if (res2.ok) return await res2.json();
+                    } catch (e) { }
+
+                    console.warn(`Could not load data for ${sys.id}`, error);
+                    return [];
+                }
+            };
+
+            await Promise.all(systemsConfig.map(async (sys) => {
+                const data = await fetchSystem(sys);
+                newData[sys.id] = data;
+            }));
+
+            const processedData = {};
+            Object.keys(newData).forEach(key => {
+                const list = Array.isArray(newData[key]) ? newData[key] : [];
+                processedData[key] = list.map(item => ({
+                    title: item.Nome || item.title,
+                    image: item.imagem || item.image || item.Image,
+                    video: item.video || item.Video,
+                    oldPrice: item.oldPrice || "49,90",
+                    price: item.price || "14,90"
+                }));
+            });
+
+            setGamesData(processedData);
+            setIsLoading(false);
+        };
+
+        fetchAllSystems();
+    }, []);
+
+    const getFilteredGames = (games) => {
+        if (!searchTerm) return games;
+        return games.filter(game =>
+            game.title && game.title.toLowerCase().includes(searchTerm.toLowerCase())
+        );
+    };
+
+    const categoriesToRender = systemsConfig
+        .map(sys => ({
+            id: sys.id,
+            title: sys.title,
+            games: getFilteredGames(gamesData[sys.id] || [])
+        }))
+        .filter(cat => cat.games.length > 0)
+        .filter(cat => selectedCategory === 'all' || cat.id === selectedCategory);
+
+    // Pagination logic
+    const visibleCategories = categoriesToRender.slice(0, visibleRows);
+    const hasMoreRows = categoriesToRender.length > visibleRows;
+
+    const handleLoadMore = () => {
+        setVisibleRows(prev => prev + 3);
+    };
 
     return (
-        <section className="py-20 bg-white dark:bg-slate-950 border-t border-gray-100 dark:border-slate-800 transition-colors duration-300" id="games">
+        <section className="py-12 bg-white dark:bg-slate-950 transition-colors duration-300" id="games-list">
             <div className="container mx-auto px-4 md:px-6">
-                <div className="text-center mb-16">
-                    <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-4">Catálogo de Jogos</h2>
-                    <p className="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-                        Explore nossa biblioteca organizada por plataforma. Milhares de títulos à sua disposição.
-                    </p>
+
+                {/* Header & Filter */}
+                <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-8">
+                    <div>
+                        <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">Catálogo de Jogos</h2>
+                        <p className="text-gray-600 dark:text-gray-400">Explore nossa biblioteca completa por console.</p>
+                    </div>
+
+                    <div className="flex flex-col sm:flex-row gap-3">
+                        <div className="relative">
+                            <input
+                                type="text"
+                                placeholder="Buscar jogo..."
+                                value={searchTerm}
+                                onChange={(e) => setSearchTerm(e.target.value)}
+                                className="w-full sm:w-64 pl-10 pr-4 py-2 rounded-full border border-gray-200 dark:border-slate-700 bg-gray-50 dark:bg-slate-900 text-gray-900 dark:text-white focus:ring-2 focus:ring-primary focus:border-transparent outline-none transition-all"
+                            />
+                            <svg className="w-5 h-5 text-gray-400 absolute left-3 top-1/2 -translate-y-1/2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                            </svg>
+                        </div>
+
+                        <select
+                            value={selectedCategory}
+                            onChange={(e) => {
+                                setSelectedCategory(e.target.value);
+                                setVisibleRows(3); // Reset pagination on filter change
+                            }}
+                            className="px-4 py-2 rounded-full border border-gray-200 dark:border-slate-700 bg-gray-50 dark:bg-slate-900 text-gray-900 dark:text-white focus:ring-2 focus:ring-primary outline-none cursor-pointer"
+                        >
+                            <option value="all">Todos os Consoles</option>
+                            {systemsConfig.map(sys => (
+                                <option key={sys.id} value={sys.id}>{sys.title}</option>
+                            ))}
+                        </select>
+                    </div>
                 </div>
 
-                <div className="space-y-4">
-                    <GameRow title="PlayStation 4" games={ps4Games} />
-                    <GameRow title="PlayStation 5" games={ps5Games} />
-                    <GameRow title="Xbox One / Series" games={xboxGames} />
-                </div>
+                {/* Content */}
+                {isLoading ? (
+                    <div className="flex justify-center items-center py-20">
+                        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary"></div>
+                    </div>
+                ) : visibleCategories.length > 0 ? (
+                    <>
+                        {visibleCategories.map((category) => (
+                            <GameRow
+                                key={category.id}
+                                title={category.title}
+                                games={category.games}
+                                onPlayVideo={openVideo}
+                            />
+                        ))}
+
+                        {/* Load More Button */}
+                        {hasMoreRows && (
+                            <div className="mt-12 text-center">
+                                <Button
+                                    onClick={handleLoadMore}
+                                    className="rounded-full px-8 py-3 text-sm font-bold shadow-lg shadow-primary/20 hover:shadow-primary/40 transition-all transform hover:scale-105"
+                                >
+                                    Carregar Mais Consoles
+                                    <svg className="w-4 h-4 ml-2 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </Button>
+                            </div>
+                        )}
+                    </>
+                ) : (
+                    <div className="text-center py-20">
+                        <p className="text-gray-500 dark:text-gray-400 text-lg">Nenhum jogo encontrado para sua busca.</p>
+                    </div>
+                )}
+
+
+
+                {/* Video Modal */}
+                {videoModal.isOpen && (
+                    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm" onClick={closeVideo}>
+                        <div className="relative w-full max-w-4xl aspect-video bg-black rounded-2xl overflow-hidden shadow-2xl" onClick={e => e.stopPropagation()}>
+                            <button
+                                onClick={closeVideo}
+                                className="absolute top-4 right-4 z-10 p-2 bg-black/50 hover:bg-black/70 rounded-full text-white transition-colors"
+                            >
+                                <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
+                                </svg>
+                            </button>
+                            <video
+                                src={videoModal.videoUrl}
+                                controls
+                                autoPlay
+                                className="w-full h-full"
+                            >
+                                Seu navegador não suporta a reprodução de vídeo.
+                            </video>
+                        </div>
+                    </div>
+                )}
+
+                {showViewAllLink && (
+                    <div className="mt-12 text-center">
+                        <Link to="/jogos" className="inline-flex items-center gap-2 text-blue-600 dark:text-blue-400 font-bold text-lg hover:underline underline-offset-4 group transition-all">
+                            Ver todos os jogos
+                            <svg className="w-5 h-5 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                            </svg>
+                        </Link>
+                    </div>
+                )}
             </div>
         </section>
     );

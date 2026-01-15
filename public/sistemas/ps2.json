@@ -1,0 +1,576 @@
+[
+  {
+    "Nome": "Black",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Black",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Burnout3Takedown",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Burnout%203%20-%20Takedown",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "ClockTower3USA",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Clock%20Tower%203%20%28USA%29",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "CrashBandicootTheWrathOfCortex",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Crash%20Bandicoot%20-%20The%20Wrath%20of%20Cortex",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "DevilMayCry",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Devil%20May%20Cry",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "DigimonRumbleArena2",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Digimon%20Rumble%20Arena%202",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "FatalFrame",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Fatal%20Frame",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "FatalFrameII",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Fatal%20Frame%20II",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "GodOfWar",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=God%20of%20War",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "GodOfWarII",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=God%20of%20War%20II",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "GranTurismo4",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Gran%20Turismo%204",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "GrandTheftAutoSanAndreas",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Grand%20Theft%20Auto%20-%20San%20Andreas",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "KingOfFighters2002TheUnlimitedMatch",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=King%20of%20Fighters%202002%20The%20-%20Unlimited%20Match",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "MaxPayne",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Max%20Payne",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "MaxPayne2TheFallOfMaxPayne",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Max%20Payne%202%20-%20The%20Fall%20of%20Max%20Payne",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "MegaManX8",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Mega%20Man%20X8",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "MidnightClub3DUBEditionRemix",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Midnight%20Club%203%20-%20DUB%20Edition%20Remix",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "NarutoShippudenUltimateNinja5",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Naruto%20Shippuden%20-%20Ultimate%20Ninja%205",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "NeedForSpeedUnderground",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Need%20for%20Speed%20-%20Underground",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "NeedForSpeedUnderground2",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Need%20for%20Speed%20-%20Underground%202",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Onimusha3DemonSiege",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Onimusha%203%20-%20Demon%20Siege",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "PES2013BOMBAPATCHProEvolutionSoccer",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=PES%202013%20%28BOMBA%20PATCH%29%20-%20Pro%20Evolution%20Soccer",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "ResidentEvilCodeVeronicaX",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Resident%20Evil%20-%20Code%20-%20Veronica%20X",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "ResidentEvil4",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Resident%20Evil%204",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "ShadowOfTheColossus",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Shadow%20of%20the%20Colossus",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "SilentHillShatteredMemories",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Silent%20Hill%20-%20Shattered%20Memories",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "StreetFighter",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Street%20Fighter",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "VirtuaFighter4",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Virtua%20Fighter%204",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "BladeII",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/3b1cd8f2-889d-4587-9ed7-a0b09638bf1a.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "ChroniclesOfNarniaTheLionTheWitchAndTheWardrobe",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/4b83cfd2-377c-4d6c-a858-e2ec5d7af051.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "DestroyAllHumans",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/65a8842f-6b87-4af8-8d90-09209dd716e9.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "DirgeOfCerberusFinalFantasyVII",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/8ae9f24b-7a65-4ada-a3b8-0b8ff7e7bdc7.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "DisneyPixarUp",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/10511a1d-6135-4513-a6df-4b91003f1a23.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "FIFAStreet",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/50336b5c-61fa-49dc-8bf2-d1311690b697.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "FIFAStreet2",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/f5699956-25f7-4478-824c-41ca6ca69144.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "ForgottenRealmsDemonStone",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/54f83285-9598-41ff-a548-db7eaf63e4ff.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "GuitarHero2Brasil",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/425b0843-5d71-42b6-82ee-ca567e1da850.png",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "Killzone",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/e61cc2c-d8d5-4181-9196-0a2348d44b5e.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "TheLegendOfSpyroDawnOfTheDragon",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://static.wikia.nocookie.net/spyro/images/1/14/Spyro_Dawn_of_the_DragonCover.webp",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "ManaKhemiaAlchemistsOfAlRevis",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://static.wikia.nocookie.net/jimmyneutron/images/c/cd/Jimmy_Neutron_Boy_Genius_Game_cover.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "NickelodeonJimmyNeutronBoyGenius",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=Nickelodeon%20Jimmy%20Neutron%20-%20Boy%20Genius",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "TheSims",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://static.wikia.nocookie.net/sims/images/8/8c/TheSims_PS2_cover.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "Bully",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/3f280260-28ed-4108-9110-c0e46325b520.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "DefJamFightForNY",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/093aedcd-bc6c-4670-86dc-85a81f56af83.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "DragonBallZBudokaiTenkaichi3",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/d764b840-eab1-4605-9fc8-f1dfdf166700.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "FIFASoccer14",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/e19e1aeb-0c0d-4d3e-910d-ca44bb13671d.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "FightClub",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/96e1b3eb-33d9-4e81-b000-71185645b54d.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "FinalFantasyX",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/fcfebecd-d30e-4a4b-92d8-6f2efe9bc8f9.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "GuitarHeroRocksThe80s",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/eb6b8bda-0e17-4ad7-bc11-6b916241e235.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "GuitarHero",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/ef875a99-4e14-47e5-8331-49fd9c76f753.png",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "GuitarHeroII",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/ac64a5b1-5d1a-4531-bcad-53b62efb6e84.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "GuitarHeroIIILegendsOfRock",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/eeb2d4fc-0eef-4138-8714-0e236e317052.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "KingdomHearts",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/a981b583-c226-4d4e-9658-9981c97a4dc1.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "LegacyOfKainSoulReaver2",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/951da46b-474d-44e6-aa90-bae90c73c616.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "MedalOfHonorVanguard",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/6ffa71f8-5c4a-47fc-a08f-5a27db7b58ac.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "MegaManXCommandMission",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/68e4348f-4764-46bd-a062-60ce259fd5e4.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "MortalKombatArmageddon",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/013924b1-3641-4720-85ca-97493a897a13.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "MortalKombatShaolinMonks",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/d8cac608-e719-4e35-ac0a-7a914e3b14fa.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "NeedForSpeedMostWanted",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/1ca80c9b-5ade-4655-93c4-3dab49b0e0e7.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "RatchetClankSizeMatters",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/f860e430-e375-4e7b-a4fb-aa6cb175dbbe.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "ResidentEvilOutbreak",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/9bcd3917-ee47-4c25-a66b-5123855416bc.png",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "ResidentEvilOutbreakFile2",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/f99b8df0-2424-4643-8cf3-8a9108fb44a9.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "SecondSight",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/494454d0-30c2-4092-9aec-f00fcc21c1d9.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "Shinobi",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/2677ec22-f248-44e2-adbb-89cc829891d1.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "SilentHill2",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/c4007fff-9166-4389-83b6-e338c2278a29.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "SilentHill3",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/a8aab3eb-1b9b-4dcc-9d5e-f0445374fc71.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "SilentHill4TheRoom",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/5be4a87a-0bea-4870-a933-43a5f0bd0e26.png",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "Tekken4",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/41ee11a4-0e82-4d37-b0da-06e8fea1c96d.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "Tekken5",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/93a31f37-6b1e-4c40-a3a9-c1018ca9ced3.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "TekkenTagTournament",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/0af270f9-0c2f-49b2-9bd6-03b53a262556.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "TombRaiderUnderworld",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/a030ae86-b781-47dd-8969-5e2035ec1bf0.png",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "TonyHawkSProSkater4",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/a280ff8b-a53f-436f-acb1-70d94d0116fb.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "YuGiOhTheDuelistsOfTheRoses",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/0999a825-fac2-4909-ab83-378ca93b1070.png",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "BombaPach2025",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://ia903201.us.archive.org/10/items/slpm_663.74.super-bomba-patch-2025/PS2-Super%20Bomba%20Patch%202025.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "Constantine",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/b828dd76-899c-4e1e-91bf-cb5df86451e0.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "DownhillDomination",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/f03b294c-76e5-4ebe-94a8-211b005b2fa7.png",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "EFutbol2025",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://romsfun.com/wp-content/uploads/2024/12/eFootball-2025.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "GodHand",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/d7b23878-152e-4f2a-9cee-8199ab9578bc.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "GTA6",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://placehold.co/400x530/e2e8f0/1e293b?text=GTA%206",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "Ratatouille",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://cdn.mobygames.com/covers/4139370-disneypixar-ratatouille-playstation-2-front-cover.jpg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "GuitarHeroBrazucas4",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://dubsgamer.com/wp-content/uploads/2025/05/Guitar-Hero-Brazucas-4-ISO-PS2.jpeg",
+    "pack": "pack_atualizacao"
+  },
+  {
+    "Nome": "TheGodfather",
+    "console": "ps2",
+    "video": "",
+    "imagem": "https://images.launchbox-app.com/008a24be-f595-487f-bb49-a19dfd7afaa9.jpg",
+    "pack": "pack_atualizacao"
+  }
+]

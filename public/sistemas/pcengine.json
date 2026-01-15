@@ -1,0 +1,422 @@
+[
+  {
+    "Nome": "Metal Stoker",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Metal%20Stoker.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Metal%20Stoker.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dungeon Explorer",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Dungeon%20Explorer.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Dungeon%20Explorer.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cyber Core",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Cyber%20Core.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Cyber%20Core.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Turrican",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Turrican.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Turrican.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Valkyrie No Densetsu",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Valkyrie%20no%20Densetsu.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Valkyrie%20no%20Densetsu.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jackie Chan's Action Kung Fu",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Jackie%20Chan's%20Action%20Kung%20Fu.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Jackie%20Chan's%20Action%20Kung%20Fu.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fushigi No Yume No Alice",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Fushigi%20ni%20Yumi%20no%20Alice.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Fushigi%20ni%20Yumi%20no%20Alice.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ninja Ryuuken Den",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Ninja%20Ryuuken%20Den%20(Japan)%20(En%2CJa%2CZh).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Ninja%20Ryuuken%20Den%20(Japan)%20(En%2CJa%2CZh).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Darkwing Duck",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Darkwing%20Duck.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Darkwing%20Duck.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Neutopia",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Neutopia%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Neutopia%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cross Wiber - Cyber Combat Police",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Cross%20Wiber%20Cyber%20Combat%20Police.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Cross%20Wiber%20Cyber%20Combat%20Police.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ordyne",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Ordyne.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Ordyne.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Makai Prince Dorabocchan",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Makai%20Prince%20Dorabo%20Chan.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Makai%20Prince%20Dorabo%20Chan.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Power Gate",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Power%20Gate.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Power%20Gate.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Don Doko Don!",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Don%20Doko%20Don!%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Don%20Doko%20Don!%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Legend of Hero Tonma",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Legend%20of%20Hero%20Tonma.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Legend%20of%20Hero%20Tonma.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "R-Type",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/R-Type%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/R-Type%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Darius Plus",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Darius%20Plus.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Darius%20Plus.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Legendary Axe",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Legendary%20Axe%2C%20The%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Legendary%20Axe%2C%20The%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mr. Heli",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Mr.%20Heli%20no%20Dai%20Bouken.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Mr.%20Heli%20no%20Dai%20Bouken.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Double Dungeons",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Double%20Dungeons%20-%20W%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Double%20Dungeons%20-%20W%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon's Curse",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Dragon's%20Curse.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Dragon's%20Curse.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Juuouki",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Juuouki%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Juuouki%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Devil's Crush",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Devil's%20Crush%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Devil's%20Crush%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Galaga '90",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Galaga%20'88.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Galaga%20'88.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Spirit",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Dragon%20Spirit.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Dragon%20Spirit.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "New Adventure Island",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/New%20Adventure%20Island%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/New%20Adventure%20Island%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Darius Alpha",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Darius%20Alpha.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Darius%20Alpha.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "R-type Part-2",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/R%20Type%20II.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/R%20Type%20II.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ghost Manor",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Ghost%20Manor.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Ghost%20Manor.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Soldier Blade",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Soldier%20Blade%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Soldier%20Blade%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Final Blaster",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Final%20Blaster.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Final%20Blaster.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Santatlantean",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Santatlantean%20(aetherbyte).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Santatlantean%20(aetherbyte).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tenseiryuu - Saint Dragon",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Tenseiryu%20Saint%20Dragon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Tenseiryu%20Saint%20Dragon.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gokuraku! Chuuka Taisen",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Gokuraku!%20Chuuka%20Taisen%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Gokuraku!%20Chuuka%20Taisen%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cratermaze",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Cratermaze.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Cratermaze.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Die Hard",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Die%20Hard.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Die%20Hard.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Burning Angels",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Burning%20Angels.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Burning%20Angels.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ninja Spirit",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Ninja%20Spirit.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Ninja%20Spirit.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Psycho Chaser",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Psycho%20Chaser.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Psycho%20Chaser.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Reflectron",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Reflectron%20(aetherbyte).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Reflectron%20(aetherbyte).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vigilante",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Vigilante.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Vigilante.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sinistron",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Sinistron.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Sinistron.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Final Soldier",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Final%20Soldier%20Special%20Version.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Final%20Soldier%20Special%20Version.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "1943 Kai",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/1943%20Kai.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/1943%20Kai.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "1941: Counter Attack",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/1941%20Counter%20Attack.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/1941%20Counter%20Attack.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bonk's Revenge",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Bonk's%20Revenge.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Bonk's%20Revenge.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Strip Fighter II",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Strip%20Fighter%20II.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Strip%20Fighter%20II.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alien Crush",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Alien%20Crush.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Alien%20Crush.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Coryoon - Child Of Dragon",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Coryoon%20Child%20of%20Dragon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Coryoon%20Child%20of%20Dragon.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Magical Chase",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Magical%20Chase.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Magical%20Chase.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Terra Cresta II - Mandoraa no Gyakushuu",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Terra%20Cresta%20II.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Terra%20Cresta%20II.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter II' - Champion Edition",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Street%20Fighter%20II%20Champion%20Edition.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Street%20Fighter%20II%20Champion%20Edition.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Batman",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Batman.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Batman.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bonk's Adventure",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Bonk's%20Adventure%20(USA).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Bonk's%20Adventure%20(USA).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bomberman - Users Battle",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Bomberman%20Users%20Battle.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Bomberman%20Users%20Battle.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bomberman '93 Special",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Bomberman%20'93.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Bomberman%20'93.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Son Son II",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Son%20Son%20II%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Son%20Son%20II%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Atomic Robo-kid Special",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Atomic%20Robokid%20Special.mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Atomic%20Robokid%20Special.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aldynes : The Misson Code for Rage Crisis",
+    "console": "pcengine",
+    "video": "https://ggbox.com.br/jogos/pcengine/videos/Aldynes_(SGX)_(J).mp4",
+    "imagem": "https://ggbox.com.br/jogos/pcengine/marquee/Aldynes_(SGX)_(J).png",
+    "pack": "pack_standard"
+  }
+]

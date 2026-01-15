@@ -1,0 +1,23 @@
+[
+  {
+    "Nome": "vf3tb",
+    "console": "model3",
+    "video": "https://ggbox.com.br/jogos/model3/media/videos/vf3.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model3/media/wheel/vf3tb.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "fvipers2",
+    "console": "model3",
+    "video": "https://ggbox.com.br/jogos/model3/media/videos/fvipers2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model3/media/wheel/fvipers2.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "daytona2",
+    "console": "model3",
+    "video": "https://ggbox.com.br/jogos/model3/media/videos/daytona2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/model3/media/wheel/daytona2.png",
+    "pack": "pack_standard"
+  }
+]

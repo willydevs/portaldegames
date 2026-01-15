@@ -1,0 +1,30 @@
+[
+  {
+    "Nome": "Crash 'n Burn",
+    "console": "3do",
+    "video": "https://ggbox.com.br/jogos/3do/media/videos/Crash%20'n%20Burn%20(1993)(Crystal%20Dynamics)(US)[!][3DRM-1239120%201].mp4",
+    "imagem": "https://ggbox.com.br/jogos/3do/images/Crash%20'n%20Burn%20(1993)(Crystal%20Dynamics)(US)[!][3DRM-1239120%201]-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Flopon World",
+    "console": "3do",
+    "video": "https://ggbox.com.br/jogos/3do/media/videos/Flopon%20World%20(Kashou)%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/3do/images/Flopon%20World%20(Kashou)%20(Japan)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Goal FH",
+    "console": "3do",
+    "video": "https://ggbox.com.br/jogos/3do/media/videos/Goal%20FH%20(Field%20Hunter)%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/3do/images/Goal%20FH%20(Field%20Hunter)%20(Japan)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Taiketsu Rumiizu!",
+    "console": "3do",
+    "video": "https://ggbox.com.br/jogos/3do/media/videos/Taiketsu%20Rumiizu!%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/3do/images/Taiketsu%20Rumiizu!%20(Japan)-marquee.png",
+    "pack": "pack_standard"
+  }
+]

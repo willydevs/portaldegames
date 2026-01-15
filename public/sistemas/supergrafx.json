@@ -1,0 +1,37 @@
+[
+  {
+    "Nome": "Aldynes : The Misson Code for Rage Crisis",
+    "console": "supergrafx",
+    "video": "https://ggbox.com.br/jogos/supergrafx/media/videos/Aldynes%20-%20The%20Misson%20Code%20for%20Rage%20Crisis%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/supergrafx/media/wheel/Aldynes%20-%20The%20Misson%20Code%20for%20Rage%20Crisis%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battle Ace",
+    "console": "supergrafx",
+    "video": "https://ggbox.com.br/jogos/supergrafx/media/videos/Battle%20Ace%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/supergrafx/media/wheel/Battle%20Ace%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dai-Makaimura",
+    "console": "supergrafx",
+    "video": "https://ggbox.com.br/jogos/supergrafx/media/videos/Daimakai%20Mura%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/supergrafx/media/wheel/Daimakai%20Mura%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Madou King Granzort",
+    "console": "supergrafx",
+    "video": "https://ggbox.com.br/jogos/supergrafx/media/videos/Madou%20King%20Granzort%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/supergrafx/media/wheel/Madou%20King%20Granzort%20(Japan).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "1941 : Counter Attack",
+    "console": "supergrafx",
+    "video": "https://ggbox.com.br/jogos/supergrafx/media/videos/1941%20-%20Counter%20Attack%20(Japan).mp4",
+    "imagem": "https://ggbox.com.br/jogos/supergrafx/media/wheel/1941%20-%20Counter%20Attack%20(Japan).png",
+    "pack": "pack_standard"
+  }
+]

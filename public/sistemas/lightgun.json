@@ -1,0 +1,331 @@
+[
+  {
+    "Nome": "Hit 'n Miss (version 3.0)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/hitnmiss.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/hitnmiss.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vs. Duck Hunt (set DH3 E)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/duckhunt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/duckhunt.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vs. Freedom Force",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/vsfdf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/vsfdf.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vs. Gumshoe (set GM5)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/vsgshoe.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/vsgshoe.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vs. Hogan's Alley (set HA4-1 E-1)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/hogalley.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/hogalley.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Who Dunit (version 9.0)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/whodunit.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/whodunit.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wild Gunman (playchoice-10) (PlayChoice-10)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/pc_wgnmn.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/pc_wgnmn.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zero Point (set 1)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/zeropnt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/zeropnt.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zero Point 2",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/zeropnt2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/zeropnt2.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bang!",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/bang.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/bang.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cheyenne (version 1.0)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/cheyenne.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/cheyenne.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crackshot (Version 2.0)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/cracksht.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/cracksht.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crossbow (Version 2.0)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/crossbow.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/crossbow.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Desert Gun",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/desertgu.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/desertgu.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Gun (US)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/dragngun.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/dragngun.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Egg Venture (Release 10)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/eggventr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/eggventr.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Golly! Ghost!",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/gollygho.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/gollygho.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gunbuster (World)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/gunbustr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/gunbustr.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jurassic Park (World)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/jpark.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/jpark.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lethal Enforcers 2 - Gun Fighters (ver EAA)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/le2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/le2.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lethal Enforcers (ver UAE, 11/19/92 15:04)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/lethalen.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/lethalen.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lethal Justice (Version 2.3)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/lethalj.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/lethalj.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lucky And Wild",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/luckywld.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/luckywld.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mechanized Attack (World)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/mechatt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/mechatt.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Night Stocker (10/6/86)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/nstocker.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/nstocker.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "N.y. Captor",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/nycaptor.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/nycaptor.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "One Shot One Kill",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/oneshot.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/oneshot.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Operation Wolf (World, set 1)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/opwolf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/opwolf.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Operation Thunderbolt (World, rev 1)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/othunder.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/othunder.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Duck Hunt (playchoice-10) (PlayChoice-10)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/pc_duckh.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/pc_duckh.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hogan's Alley (playchoice-10) (PlayChoice-10)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/pc_hgaly.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/pc_hgaly.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Police Trainer (rev 1.3)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/policetr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/policetr.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Point Blank (World, GN2 Rev B, set 1)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/ptblank.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/ptblank.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Revolution X (rev 1.0 6/16/94)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/revx.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/revx.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Steel Gunner (rev B)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/sgunner.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/sgunner.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Steel Gunner 2 (US)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/sgunner2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/sgunner2.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shooting Gallery",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/shootgal.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/shootgal.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Gun (World)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/spacegun.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/spacegun.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sharpshooter (rev 1.9)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/sshooter.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/sshooter.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Target Hits (Ver 1.1)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/targeth.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/targeth.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Terminator 2 - Judgment Day (rev LA4 08/03/92)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/term2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/term2.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tickee Tickats",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/tickee.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/tickee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Triple Hunt",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/triplhnt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/triplhnt.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Turkey Shoot (Prototype)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/tshoot.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/tshoot.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Under Fire (World)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/undrfire.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/undrfire.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zombie Raid (9/28/95, US)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/zombraid.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/zombraid.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alien3 - The Gun (World)",
+    "console": "lightgun",
+    "video": "https://ggbox.com.br/jogos/lightgun/media/videos/alien3.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lightgun/media/wheel/alien3.png",
+    "pack": "pack_standard"
+  }
+]

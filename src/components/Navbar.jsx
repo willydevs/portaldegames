@@ -19,7 +19,7 @@ const Navbar = ({ theme, toggleTheme }) => {
     }, []);
 
     const navLinks = [
-        { name: 'Jogos', href: '/#games' },
+        { name: 'Jogos', href: '/jogos', isRoute: true },
         { name: 'Destaque', href: '/#products' },
         { name: 'Lojas', href: '/lojas', isRoute: true },
         { name: 'Depoimentos', href: '/#testimonials' },

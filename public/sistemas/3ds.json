@@ -1,0 +1,37 @@
+[
+  {
+    "Nome": "Super Mario 3D Land",
+    "console": "3ds",
+    "video": "https://ggbox.com.br/jogos/3ds/media/videos/Super%20Mario%203D%20Land%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu).mp4",
+    "imagem": "https://ggbox.com.br/jogos/3ds/media/wheel/Super%20Mario%203D%20Land%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Asphalt 3d",
+    "console": "3ds",
+    "video": "https://ggbox.com.br/jogos/3ds/media/videos/Asphalt%203D%20(EUR)%20(En%2CFr%2CGe%2CIt%2CEs)%20Decrypted.mp4",
+    "imagem": "https://ggbox.com.br/jogos/3ds/media/wheel/Asphalt%203D%20(EUR)%20(En%2CFr%2CGe%2CIt%2CEs)%20Decrypted.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rayman 3D",
+    "console": "3ds",
+    "video": "https://ggbox.com.br/jogos/3ds/media/videos/Rayman%203D%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).mp4",
+    "imagem": "https://ggbox.com.br/jogos/3ds/media/wheel/Rayman%203D%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Yoshi's New Island",
+    "console": "3ds",
+    "video": "https://ggbox.com.br/jogos/3ds/media/videos/Yoshi's%20New%20Island%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu)%20Decrypted.mp4",
+    "imagem": "https://ggbox.com.br/jogos/3ds/media/wheel/Yoshi's%20New%20Island%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu)%20Decrypted.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alien Chaos 3D",
+    "console": "3ds",
+    "video": "https://ggbox.com.br/jogos/3ds/media/videos/Alien%20Chaos%203D%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(eShop)%20Decrypted.mp4",
+    "imagem": "https://ggbox.com.br/jogos/3ds/media/wheel/Alien%20Chaos%203D%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(eShop)%20Decrypted.png",
+    "pack": "pack_standard"
+  }
+]

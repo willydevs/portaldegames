@@ -1,0 +1,982 @@
+[
+  {
+    "Nome": "The Last Blade",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/lastblad-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/lastblad-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "2020 Super Baseball",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/2020bb-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/2020bb-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The King of Fighters '97",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/kof97-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/kof97-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Thrash Rally",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/trally-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/trally-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ninja Commando",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/ncommand-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/ncommand-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Robo Army",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/roboarmy-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/roboarmy-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zupapa",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/zupapa-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/zupapa-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Savage Reign",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/savagere-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/savagere-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Prehistoric Isle 2",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/preisle2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/preisle2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Magical Drop II",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/magdrop2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/magdrop2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Windjammers",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/wjammers-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/wjammers-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Puzzle De Pon!",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/puzzledp-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/puzzledp-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The King of Fighters 2000",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/kof2000-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/kof2000-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Metal Slug 4",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/mslug4-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/mslug4-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Legend of Success Joe",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/legendos-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/legendos-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pulstar",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/pulstar-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/pulstar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The King of Fighters '95",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/kof95-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/kof95-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fight Fever",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/fightfev-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/fightfev-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Puzzled",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/joyjoy-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/joyjoy-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "King of the Monsters",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/kotm-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/kotm-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Baseball Stars 2",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/bstars2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/bstars2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Samurai Shodown V",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/samsho5-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/samsho5-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sengoku 3",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/sengoku3-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/sengoku3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Dodge Ball",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/sdodgeb-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/sdodgeb-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Power Instinct Matrimelee",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/matrim-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/matrim-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fighter's History Dynamite",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/karnovr-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/karnovr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Money Puzzle Exchanger",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/miexchng-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/miexchng-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Stakes Winner 2",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/stakwin2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/stakwin2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Breakers",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/breakers-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/breakers-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Neo Bomberman",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/neobombe-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/neobombe-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Panic Bomber",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/panicbom-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/panicbom-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kizuna Encounter - Super Tag Battle",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/kizuna-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/kizuna-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aggressors of Dark Kombat",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/aodk-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/aodk-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Puzzle Bobble 2",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/pbobbl2n-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/pbobbl2n-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ghost Pilots",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/gpilots-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/gpilots-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Samurai Shodown",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/samsho-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/samsho-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Magical Drop III",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/magdrop3-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/magdrop3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sengoku",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/sengoku-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/sengoku-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The King of Fighters '94",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/kof94-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/kof94-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "World Heroes Perfect",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/whp-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/whp-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The King of Fighters '99 : Millennium Battle",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/kof99-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/kof99-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battle Flip Shot",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/flipshot-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/flipshot-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ninja Combat",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/ncombat-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/ncombat-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sengoku 2",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/sengoku2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/sengoku2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Art of Fighting",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/aof-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/aof-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Neo-Geo Cup '98 - The Road to the Victory",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/neocup98-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/neocup98-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "King of the Monsters 2 - The Next Thing",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/kotm2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/kotm2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Power Spikes II",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/pspikes2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/pspikes2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Samurai Shodown IV - Amakusa's Revenge",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/samsho4-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/samsho4-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Samurai Shodown V Special",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/samsh5sp-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/samsh5sp-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Captain Tomaday",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/ctomaday-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/ctomaday-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tecmo World Soccer '96",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/tws96-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/tws96-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Top Player's Golf",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/tpgolf-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/tpgolf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Sidekicks",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/ssideki-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/ssideki-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The King of Fighters '96",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/kof96-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/kof96-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Goal! Goal! Goal!",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/goalx3-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/goalx3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Soccer Brawl",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/socbrawl-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/socbrawl-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Sidekicks 2 - The World Championship",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/ssideki2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/ssideki2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blazing Star",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/blazstar-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/blazstar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Stakes Winner",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/stakwin-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/stakwin-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Magician Lord",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/maglord-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/maglord-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "World Heroes",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/wh1-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/wh1-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shock Troopers - 2nd Squad",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/shocktr2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/shocktr2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Breakers Revenge",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/breakrev-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/breakrev-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Last Blade 2",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/lastbld2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/lastbld2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Super Spy",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/superspy-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/superspy-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Andro Dunos",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/androdun-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/androdun-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Art of Fighting 2",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/aof2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/aof2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pochi and Nyaa",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/pnyaa-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/pnyaa-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spin Master",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/spinmast-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/spinmast-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pleasure Goal",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/pgoal-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/pgoal-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Neo Drift Out - New Technology",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/neodrift-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/neodrift-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Waku Waku 7",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/wakuwak7-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/wakuwak7-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Galaxy Fight - Universal Warriors",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/galaxyfg-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/galaxyfg-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zed Blade",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/zedblade-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/zedblade-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Nightmare in the Dark",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/nitd-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/nitd-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blue's Journey",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/bjourney-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/bjourney-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Neo Turf Masters",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/turfmast-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/turfmast-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Baseball Stars Professional",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/bstars-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/bstars-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Football Frenzy",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/fbfrenzy-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/fbfrenzy-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Metal Slug 2 - Super Vehicle-001/II",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/mslug2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/mslug2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fatal Fury Special",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/fatfursp-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/fatfursp-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shock Troopers",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/shocktro-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/shocktro-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Neo Mr. Do!",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/neomrdo-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/neomrdo-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "World Heroes 2",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/wh2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/wh2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fatal Fury 3 - Road to the Final Victory",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/fatfury3-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/fatfury3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Choutetsu Brikin'ger - Iron Clad",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/ironclad-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/ironclad-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Garou - Mark of the Wolves",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/garou-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/garou-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "3 Count Bout",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/3countb-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/3countb-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Puzzle Bobble",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/pbobblen-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/pbobblen-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ganryu",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/ganryu-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/ganryu-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Far East of Eden - Kabuki Klash",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/kabukikl-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/kabukikl-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "NAM-1975",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/nam1975-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/nam1975-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ninja Master's - Haoh-ninpo-cho",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/ninjamas-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/ninjamas-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mutation Nation",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/mutnat-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/mutnat-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bang Bead",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/bangbead-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/bangbead-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Metal Slug X - Super Vehicle-001",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/mslugx-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/mslugx-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Sidekicks 3 - The Next Glory",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/ssideki3-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/ssideki3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Last Resort",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/lresort-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/lresort-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Viewpoint",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/viewpoin-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/viewpoin-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ragnagard",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/ragnagrd-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/ragnagrd-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Eight Man",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/eightman-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/eightman-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Voltage Fighter - Gowcaizer",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/gowcaizr-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/gowcaizr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Strikers 1945 Plus",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/s1945p-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/s1945p-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rage of the Dragons",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/rotd-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/rotd-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pop 'n Bounce",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/popbounc-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/popbounc-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crossed Swords",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/crsword-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/crsword-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Top Hunter",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/tophuntr-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/tophuntr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Burning Fight",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/burningf-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/burningf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Real Bout Fatal Fury Special",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/rbffspec-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/rbffspec-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Over Top",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/overtop-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/overtop-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Samurai Shodown III",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/samsho3-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/samsho3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Art of Fighting 3 - The Path of the Warrior",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/aof3-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/aof3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "League Bowling",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/lbowling-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/lbowling-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Ultimate 11: SNK Football Championship",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/ssideki4-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/ssideki4-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cyber-Lip",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/cyberlip-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/cyberlip-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Samurai Shodown II",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/samsho2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/samsho2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Double Dragon",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/doubledr-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/doubledr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gururin",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/gururin-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/gururin-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Riding Hero",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/ridhero-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/ridhero-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Twinkle Star Sprites",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/twinspri-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/twinspri-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "World Heroes 2 Jet",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/wh2j-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/wh2j-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Hoop",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/strhoop-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/strhoop-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Irritating Maze",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/irrmaze-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/irrmaze-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ghostlop",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/ghostlop-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/ghostlop-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The King of Fighters 2003",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/kof2003-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/kof2003-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The King of Fighters 2001",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/kof2001-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/kof2001-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fatal Fury 2",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/fatfury2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/fatfury2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Metal Slug 5",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/mslug5-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/mslug5-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "SVC Chaos - SNK Vs. Capcom",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/svc-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/svc-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alpha Mission II",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/alpham2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/alpham2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aero Fighters 3",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/sonicwi3-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/sonicwi3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Metal Slug 3",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/mslug3-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/mslug3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The King of Fighters '98 - The Slugfest",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/kof98-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/kof98-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Real Bout Fatal Fury",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/rbff1-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/rbff1-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fatal Fury - King of Fighters",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/fatfury1-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/fatfury1-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Real Bout Fatal Fury 2 - The Newcomers",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/rbff2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/rbff2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aero Fighters 2",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/sonicwi2-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/sonicwi2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Metal Slug - Super Vehicle-001",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/mslug-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/mslug-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The King of Fighters 2002",
+    "console": "neogeo",
+    "video": "https://ggbox.com.br/jogos/neogeo/videos/kof2002-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/neogeo/images/kof2002-marquee.png",
+    "pack": "pack_standard"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "Nome": "Neo-geo Battle Coliseum",
+    "console": "atomiswave",
+    "video": "https://ggbox.com.br/jogos/atomiswave/media/videos/ngbc.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atomiswave/media/wheel/ngbc.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ranger Mission",
+    "console": "atomiswave",
+    "video": "https://ggbox.com.br/jogos/atomiswave/media/videos/rangrmsn.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atomiswave/media/wheel/rangrmsn.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rumble Fish 2, The",
+    "console": "atomiswave",
+    "video": "https://ggbox.com.br/jogos/atomiswave/media/videos/rumblef2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atomiswave/media/wheel/rumblef2.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rumble Fish, The",
+    "console": "atomiswave",
+    "video": "https://ggbox.com.br/jogos/atomiswave/media/videos/rumblef.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atomiswave/media/wheel/rumblef.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sega Clay Challenge",
+    "console": "atomiswave",
+    "video": "https://ggbox.com.br/jogos/atomiswave/media/videos/claychal.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atomiswave/media/wheel/claychal.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sports Shooting Usa",
+    "console": "atomiswave",
+    "video": "https://ggbox.com.br/jogos/atomiswave/media/videos/sprtshot.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atomiswave/media/wheel/sprtshot.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Guilty Gear Isuka",
+    "console": "atomiswave",
+    "video": "https://ggbox.com.br/jogos/atomiswave/media/videos/ggisuka.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atomiswave/media/wheel/ggisuka.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "King Of Fighters Neowave, The",
+    "console": "atomiswave",
+    "video": "https://ggbox.com.br/jogos/atomiswave/media/videos/kofnwj.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atomiswave/media/wheel/kofnwj.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Metal Slug 6 (bootleg)",
+    "console": "atomiswave",
+    "video": "https://ggbox.com.br/jogos/atomiswave/media/videos/mslug6.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atomiswave/media/wheel/mslug6.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "King Of Fighters 11, The",
+    "console": "atomiswave",
+    "video": "https://ggbox.com.br/jogos/atomiswave/media/videos/kofxi.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atomiswave/media/wheel/kofxi.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Maximum Speed",
+    "console": "atomiswave",
+    "video": "https://ggbox.com.br/jogos/atomiswave/media/videos/maxspeed.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atomiswave/media/wheel/maxspeed.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dolphin Blue",
+    "console": "atomiswave",
+    "video": "https://ggbox.com.br/jogos/atomiswave/media/videos/dolphin.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atomiswave/media/wheel/dolphin.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Demolish Fist",
+    "console": "atomiswave",
+    "video": "https://ggbox.com.br/jogos/atomiswave/media/videos/demofist.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atomiswave/media/wheel/demofist.png",
+    "pack": "pack_standard"
+  }
+]

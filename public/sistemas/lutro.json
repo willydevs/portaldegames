@@ -1,0 +1,30 @@
+[
+  {
+    "Nome": "LutroSpaceship",
+    "console": "lutro",
+    "video": "https://ggbox.com.br/jogos/lutro/media/Video/LutroSpaceship.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lutro/media/Wheel/LutroSpaceship.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Platformer",
+    "console": "lutro",
+    "video": "https://ggbox.com.br/jogos/lutro/media/Video/Platformer.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lutro/media/Wheel/Platformer.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Snake",
+    "console": "lutro",
+    "video": "https://ggbox.com.br/jogos/lutro/media/Video/Snake.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lutro/media/Wheel/Snake.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "In Your Face City Trains",
+    "console": "lutro",
+    "video": "https://ggbox.com.br/jogos/lutro/media/Video/In%20Your%20Face%20City%20Trains.mp4",
+    "imagem": "https://ggbox.com.br/jogos/lutro/media/Wheel/In%20Your%20Face%20City%20Trains.png",
+    "pack": "pack_standard"
+  }
+]

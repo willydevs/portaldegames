@@ -1,0 +1,1710 @@
+[
+  {
+    "Nome": "World Grand Prix",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/World%20Grand%20Prix%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/World%20Grand%20Prix%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Off Road",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Super%20Off%20Road%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Super%20Off%20Road%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Asterix and the Great Rescue",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Asterix%20and%20the%20Great%20Rescue%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Asterix%20and%20the%20Great%20Rescue%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fantasy Zone : The Maze",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Fantasy%20Zone%20-%20The%20Maze%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Fantasy%20Zone%20-%20The%20Maze%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lemmings",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Lemmings%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Lemmings%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Incredible Hulk",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Incredible%20Hulk%2C%20The%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Incredible%20Hulk%2C%20The%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ninja Gaiden",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Ninja%20Gaiden%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Ninja%20Gaiden%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Line of Fire",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Line%20of%20Fire%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Line%20of%20Fire%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dick Tracy",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Dick%20Tracy%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Dick%20Tracy%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zillion II : The Tri Formation",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Zillion%20II%20-%20The%20Tri%20Formation%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Zillion%20II%20-%20The%20Tri%20Formation%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dynamite Duke",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Dynamite%20Duke%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Dynamite%20Duke%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cosmic Spacehead",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Cosmic%20Spacehead%20(Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Cosmic%20Spacehead%20(Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Road Rash",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Road%20Rash%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Road%20Rash%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zool",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Zool%20-%20Ninja%20of%20the%20'Nth'%20Dimension%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Zool%20-%20Ninja%20of%20the%20'Nth'%20Dimension%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ghostbusters",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Ghostbusters%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Ghostbusters%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Olympic Gold",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Olympic%20Gold%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Olympic%20Gold%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vigilante",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Vigilante%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Vigilante%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "James Pond II - Codename RoboCod",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/James%20Pond%202%20-%20Codename%20RoboCod%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/James%20Pond%202%20-%20Codename%20RoboCod%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alien Syndrome",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Alien%20Syndrome%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Alien%20Syndrome%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "World Cup USA 94",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/World%20Cup%20USA%2094%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/World%20Cup%20USA%2094%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pac-Mania",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Pac-Mania%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Pac-Mania%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alien Storm",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Alien%20Storm%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Alien%20Storm%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Parlour Games",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Parlour%20Games%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Parlour%20Games%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Smash T.V.",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Super%20Smash%20T.V.%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Super%20Smash%20T.V.%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Terminator 2 - Judgment Day",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Terminator%202%20-%20Judgment%20Day%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Terminator%202%20-%20Judgment%20Day%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zaxxon 3-D",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Zaxxon%203-D%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Zaxxon%203-D%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shooting Gallery",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Shooting%20Gallery%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Shooting%20Gallery%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "World Games",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/World%20Games%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/World%20Games%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ultimate Soccer",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Ultimate%20Soccer%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Ultimate%20Soccer%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Out Run Europa",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Out%20Run%20Europa%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Out%20Run%20Europa%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Black Belt",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Black%20Belt%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Black%20Belt%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Penguin Land",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Penguin%20Land%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Penguin%20Land%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Great Voley",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Great%20Volleyball%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Great%20Volleyball%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sonic Chaos",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Sonic%20Chaos%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Sonic%20Chaos%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Marble Madness",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Marble%20Madness%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Marble%20Madness%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jogos de Verão II",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/California%20Games%20II%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/California%20Games%20II%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The New Zealand Story",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/New%20Zealand%20Story%2C%20The%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/New%20Zealand%20Story%2C%20The%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Incredible Crash Dummies",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Incredible%20Crash%20Dummies%2C%20The%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Incredible%20Crash%20Dummies%2C%20The%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ys : The Vanished Omens",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Ys%20-%20The%20Vanished%20Omens%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Ys%20-%20The%20Vanished%20Omens%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Heavyweight Champ",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/James%20'Buster'%20Douglas%20Knockout%20Boxing%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/James%20'Buster'%20Douglas%20Knockout%20Boxing%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shinobi",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Shinobi%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Shinobi%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Streets of Rage",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Streets%20of%20Rage%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Streets%20of%20Rage%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Dragon%20-%20The%20Bruce%20Lee%20Story%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Dragon%20-%20The%20Bruce%20Lee%20Story%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Micro Machines",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Micro%20Machines%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Micro%20Machines%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Casino Games",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Casino%20Games%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Casino%20Games%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Back to the Future Part III",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Back%20to%20the%20Future%20Part%20III%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Back%20to%20the%20Future%20Part%20III%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pit Fighter",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Pit%20Fighter%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Pit%20Fighter%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Superman",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Superman%20-%20The%20Man%20of%20Steel%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Superman%20-%20The%20Man%20of%20Steel%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rescue Mission",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Rescue%20Mission%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Rescue%20Mission%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Secret Command",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Rambo%20-%20First%20Blood%20Part%20II%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Rambo%20-%20First%20Blood%20Part%20II%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jogos Olímpicos",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Summer%20Games%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Summer%20Games%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Maze Hunter 3-D",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Maze%20Hunter%203-D%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Maze%20Hunter%203-D%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wonder Boy In Monster World",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Wonder%20Boy%20in%20Monster%20World%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Wonder%20Boy%20in%20Monster%20World%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hang-On",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Hang-On%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Hang-On%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Basket Ball Nightmare",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Basket%20Ball%20Nightmare%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Basket%20Ball%20Nightmare%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shadow of the Beast",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Shadow%20of%20the%20Beast%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Shadow%20of%20the%20Beast%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "G-LOC - Air Battle",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/G-LOC%20Air%20Battle%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/G-LOC%20Air%20Battle%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bonanza Bros.",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Bonanza%20Bros.%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Bonanza%20Bros.%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Poseidon Wars 3-D",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Poseidon%20Wars%203-D%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Poseidon%20Wars%203-D%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Double Hawk",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Double%20Hawk%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Double%20Hawk%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sports Pad Football",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Sports%20Pad%20Football%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Sports%20Pad%20Football%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Smurfs",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Smurfs%2C%20The%20(Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Smurfs%2C%20The%20(Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sagaia",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Sagaia%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Sagaia%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wimbledon",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Wimbledon%20II%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Wimbledon%20II%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Harrier 3-D",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Space%20Harrier%203-D%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Space%20Harrier%203-D%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dead Angle",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Dead%20Angle%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Dead%20Angle%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kung Fu Kid",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Kung%20Fu%20Kid%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Kung%20Fu%20Kid%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Nuclear Creature",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/TransBot%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/TransBot%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rocky",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Rocky%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Rocky%20(World)-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Great Soccer",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Great%20Soccer%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Great%20Soccer%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "SpellCaster",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/SpellCaster%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/SpellCaster%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Psycho Fox",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Psycho%20Fox%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Psycho%20Fox%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Where in the World is Carmen Sandiego?",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Where%20in%20the%20World%20is%20Carmen%20Sandiego%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Where%20in%20the%20World%20is%20Carmen%20Sandiego%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Ottifants",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Ottifants%2C%20The%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Ottifants%2C%20The%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "RoboCop Versus The Terminator",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/RoboCop%20versus%20The%20Terminator%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/RoboCop%20versus%20The%20Terminator%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Submarine Attack",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Submarine%20Attack%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Submarine%20Attack%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Global Defense",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Global%20Defense%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Global%20Defense%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sonic Spinball",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Sonic%20Spinball%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Sonic%20Spinball%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sega World Tournament Golf",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Sega%20World%20Tournament%20Golf%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Sega%20World%20Tournament%20Golf%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Gun",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Space%20Gun%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Space%20Gun%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "King's Quest : Quest for the Crown",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/King's%20Quest%20-%20Quest%20for%20the%20Crown%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/King's%20Quest%20-%20Quest%20for%20the%20Crown%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Monaco GP II",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Ayrton%20Senna's%20Super%20Monaco%20GP%20II%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Ayrton%20Senna's%20Super%20Monaco%20GP%20II%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Heroes of the Lance",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Heroes%20of%20the%20Lance%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Heroes%20of%20the%20Lance%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Thunder Blade",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Thunder%20Blade%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Thunder%20Blade%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Cross",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Enduro%20Racer%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Enduro%20Racer%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tom and Jerry - The Movie",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Tom%20and%20Jerry%20-%20The%20Movie%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Tom%20and%20Jerry%20-%20The%20Movie%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "T2 : The Arcade Game",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/T2%20-%20The%20Arcade%20Game%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/T2%20-%20The%20Arcade%20Game%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Time Soldiers",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Time%20Soldiers%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Time%20Soldiers%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cheese Cat-Astrophe Estrelando Speedy Gonzales",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Cheese%20Cat-astrophe%20Starring%20Speedy%20Gonzales%20(Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Cheese%20Cat-astrophe%20Starring%20Speedy%20Gonzales%20(Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wanted",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Wanted%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Wanted%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Streets of Rage II",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Streets%20of%20Rage%20II%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Streets%20of%20Rage%20II%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Double Target",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Quartet%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Quartet%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Predator 2",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Predator%202%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Predator%202%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "World Class Leader Board",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/World%20Class%20Leader%20Board%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/World%20Class%20Leader%20Board%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Addams Family",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Addams%20Family%2C%20The%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Addams%20Family%2C%20The%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spider-Man vs. The Kingpin",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Spider-Man%20vs.%20The%20Kingpin%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Spider-Man%20vs.%20The%20Kingpin%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gang's Fighter",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/My%20Hero%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/My%20Hero%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Strider",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Strider%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Strider%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Populous",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Populous%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Populous%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tecmo World Cup '93",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Tecmo%20World%20Cup%20'93%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Tecmo%20World%20Cup%20'93%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alien 3",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Alien%203%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Alien%203%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Arcade Smash Hits",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Arcade%20Smash%20Hits%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Arcade%20Smash%20Hits%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Asterix and the Secret Mission",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Asterix%20and%20the%20Secret%20Mission%20(Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Asterix%20and%20the%20Secret%20Mission%20(Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Land of Illusion Estrelando Mickey Mouse",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Land%20of%20Illusion%20Starring%20Mickey%20Mouse%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Land%20of%20Illusion%20Starring%20Mickey%20Mouse%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Deep Duck Trouble Starring Donald Duck",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Deep%20Duck%20Trouble%20Starring%20Donald%20Duck%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Deep%20Duck%20Trouble%20Starring%20Donald%20Duck%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Trivial Pursuit",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Trivial%20Pursuit%20-%20Genus%20Edition%20(Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Trivial%20Pursuit%20-%20Genus%20Edition%20(Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Home Alone",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Home%20Alone%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Home%20Alone%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ecco",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Ecco%20the%20Dolphin%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Ecco%20the%20Dolphin%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Simpsons - Bart vs. The Space Mutants",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Simpsons%2C%20The%20-%20Bart%20vs.%20the%20Space%20Mutants%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Simpsons%2C%20The%20-%20Bart%20vs.%20the%20Space%20Mutants%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "GP Rider",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/GP%20Rider%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/GP%20Rider%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "James Bond 007 - The Duel",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/James%20Bond%20007%20-%20The%20Duel%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/James%20Bond%20007%20-%20The%20Duel%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Power Strike II",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Power%20Strike%20II%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Power%20Strike%20II%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Prince of Persia",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Prince%20of%20Persia%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Prince%20of%20Persia%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kenseiden",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Kenseiden%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Kenseiden%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Forgotten Worlds",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Forgotten%20Worlds%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Forgotten%20Worlds%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Galaxy Force",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Galaxy%20Force%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Galaxy%20Force%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mercs",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Mercs%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Mercs%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Operation Wolf",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Operation%20Wolf%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Operation%20Wolf%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Castle of Illusion Starring Mickey Mouse",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Castle%20of%20Illusion%20Starring%20Mickey%20Mouse%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Castle%20of%20Illusion%20Starring%20Mickey%20Mouse%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Power Strike",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Power%20Strike%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Power%20Strike%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mortal Kombat II",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Mortal%20Kombat%20II%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Mortal%20Kombat%20II%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Master of Darkness",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Master%20of%20Darkness%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Master%20of%20Darkness%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Mônaco GP",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Super%20Monaco%20GP%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Super%20Monaco%20GP%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Andre Agassi Tennis",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Andre%20Agassi%20Tennis%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Andre%20Agassi%20Tennis%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bank Panic",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Bank%20Panic%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Bank%20Panic%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Golfamania",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Golfamania%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Golfamania%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Tennis",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Tennis%20Ace%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Tennis%20Ace%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Astro Warrior",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Astro%20Warrior%20(Japan%2C%20USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Astro%20Warrior%20(Japan%2C%20USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spider-Man - Return of the Sinister Six",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Spider-Man%20-%20Return%20of%20the%20Sinister%20Six%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Spider-Man%20-%20Return%20of%20the%20Sinister%20Six%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wonder Boy in Monster Land",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Wonder%20Boy%20in%20Monster%20Land%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Wonder%20Boy%20in%20Monster%20Land%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "F-16 Fighter",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/F-16%20Fighting%20Falcon%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/F-16%20Fighting%20Falcon%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battle Out Run",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Battle%20Out%20Run%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Battle%20Out%20Run%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Champions of Europe",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Champions%20of%20Europe%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Champions%20of%20Europe%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Special Criminal Investigation",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Special%20Criminal%20Investigation%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Special%20Criminal%20Investigation%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Klax",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Klax%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Klax%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Turma da Mônica em O Resgate",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Wonder%20Boy%20III%20-%20The%20Dragon's%20Trap%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Wonder%20Boy%20III%20-%20The%20Dragon's%20Trap%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sega Chess",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Sega%20Chess%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Sega%20Chess%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Secret of Shinobi",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Shadow%20Dancer%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Shadow%20Dancer%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Buggy Run",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Buggy%20Run%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Buggy%20Run%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "RoboCop 3",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/RoboCop%203%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/RoboCop%203%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Golden Axe Warrior",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Golden%20Axe%20Warrior%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Golden%20Axe%20Warrior%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Jungle Book",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Jungle%20Book%2C%20The%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Jungle%20Book%2C%20The%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "R.C. Grand Prix",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/R.C.%20Grand%20Prix%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/R.C.%20Grand%20Prix%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Daffy Duck in Hollywood",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Daffy%20Duck%20in%20Hollywood%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Daffy%20Duck%20in%20Hollywood%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "WWF WrestleMania Steel Cage Challenge",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/WWF%20Wrestlemania%20-%20Steel%20Cage%20Challenge%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/WWF%20Wrestlemania%20-%20Steel%20Cage%20Challenge%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Terminator",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Terminator%2C%20The%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Terminator%2C%20The%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gangster Town",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Gangster%20Town%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Gangster%20Town%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Simpsons - Bart vs. The World",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Simpsons%2C%20The%20-%20Bart%20vs.%20the%20World%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Simpsons%2C%20The%20-%20Bart%20vs.%20the%20World%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chuck Rock",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Chuck%20Rock%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Chuck%20Rock%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Speedball 2",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Speedball%202%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Speedball%202%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "After Burner",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/After%20Burner%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/After%20Burner%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Great Basket",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Great%20Basketball%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Great%20Basketball%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Great Ice Hockey",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Great%20Ice%20Hockey%20(Japan%2C%20USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Great%20Ice%20Hockey%20(Japan%2C%20USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rastan",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Rastan%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Rastan%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wolfchild",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Wolfchild%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Wolfchild%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Masters of Combat",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Masters%20of%20Combat%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Masters%20of%20Combat%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "F1",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/F1%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/F1%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Running Battle",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Running%20Battle%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Running%20Battle%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chase H.Q.",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Taito%20Chase%20H.Q.%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Taito%20Chase%20H.Q.%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Space Invaders",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Super%20Space%20Invaders%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Super%20Space%20Invaders%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ghost House",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Ghost%20House%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Ghost%20House%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Captain Silver",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Captain%20Silver%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Captain%20Silver%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rambo III",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Rambo%20III%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Rambo%20III%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rampart",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Rampart%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Rampart%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Flintstones",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Flintstones%2C%20The%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Flintstones%2C%20The%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Teddy Boy",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Teddy%20Boy%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Teddy%20Boy%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mortal Kombat",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Mortal%20Kombat%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Mortal%20Kombat%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fantasy Zone II",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Fantasy%20Zone%20II%20-%20The%20Tears%20of%20Opa-Opa%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Fantasy%20Zone%20II%20-%20The%20Tears%20of%20Opa-Opa%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "PGA Tour Golf",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/PGA%20Tour%20Golf%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/PGA%20Tour%20Golf%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Golden Axe",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Golden%20Axe%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Golden%20Axe%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gain Ground",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Gain%20Ground%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Gain%20Ground%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ultima IV",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Ultima%20IV%20-%20Quest%20of%20the%20Avatar%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Ultima%20IV%20-%20Quest%20of%20the%20Avatar%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Air Rescue",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Air%20Rescue%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Air%20Rescue%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "American Baseball",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Reggie%20Jackson%20Baseball%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Reggie%20Jackson%20Baseball%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Paperboy",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Paperboy%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Paperboy%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Strider II",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Strider%20II%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Strider%20II%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lord of the Sword",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Lord%20of%20the%20Sword%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Lord%20of%20the%20Sword%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Tennis",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Super%20Tennis%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Super%20Tennis%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Out Run",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Out%20Run%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Out%20Run%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Out Run 3D",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Out%20Run%203-D%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Out%20Run%203-D%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Lucky Dime Caper Starring Donald Duck",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Lucky%20Dime%20Caper%20Starring%20Donald%20Duck%2C%20The%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Lucky%20Dime%20Caper%20Starring%20Donald%20Duck%2C%20The%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Lion King",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Lion%20King%2C%20The%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Lion%20King%2C%20The%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Choplifter",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Choplifter%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Choplifter%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Taz-Mania",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Taz-Mania%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Taz-Mania%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "American Pro Football",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Walter%20Payton%20Football%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Walter%20Payton%20Football%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Psychic World",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Psychic%20World%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Psychic%20World%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Monopoly",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Monopoly%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Monopoly%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Golvellius",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Golvellius%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Golvellius%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Miracle Warriors : Seal of the Dark Lord",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Miracle%20Warriors%20-%20Seal%20of%20the%20Dark%20Lord%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Miracle%20Warriors%20-%20Seal%20of%20the%20Dark%20Lord%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sonic the Hedgehog",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Sonic%20The%20Hedgehog%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Sonic%20The%20Hedgehog%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Laser Ghost",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Laser%20Ghost%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Laser%20Ghost%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Ninja",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Ninja%2C%20The%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Ninja%2C%20The%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sensible Soccer",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Sensible%20Soccer%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Sensible%20Soccer%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gauntlet",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Gauntlet%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Gauntlet%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shapes and Columns",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Columns%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Columns%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Batman Returns",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Batman%20Returns%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Batman%20Returns%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Kick Off",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Super%20Kick%20Off%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Super%20Kick%20Off%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Great Football",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Great%20Football%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Great%20Football%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Cyber Shinobi - Shinobi Part 2",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Cyber%20Shinobi%2C%20The%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Cyber%20Shinobi%2C%20The%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pro Wrestling",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Pro%20Wrestling%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Pro%20Wrestling%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Missile Defense 3-D",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Missile%20Defense%203-D%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Missile%20Defense%203-D%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Indiana Jones and the Last Crusade",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Indiana%20Jones%20and%20the%20Last%20Crusade%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Indiana%20Jones%20and%20the%20Last%20Crusade%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fantastic Dizzy",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Fantastic%20Dizzy%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Fantastic%20Dizzy%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aztec Adventure : The Golden Road to Paradise",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Aztec%20Adventure%20-%20The%20Golden%20Road%20to%20Paradise%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Aztec%20Adventure%20-%20The%20Golden%20Road%20to%20Paradise%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cool Spot",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Cool%20Spot%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Cool%20Spot%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rampage",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Rampage%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Rampage%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aerial Assault",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Aerial%20Assault%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Aerial%20Assault%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Futebol II",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/World%20Cup%20Italia%20'90%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/World%20Cup%20Italia%20'90%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Scramble Spirits",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Scramble%20Spirits%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Scramble%20Spirits%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dynamite Dux",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Dynamite%20Dux%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Dynamite%20Dux%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Joe Montana Football",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Joe%20Montana%20Football%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Joe%20Montana%20Football%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ace of Aces",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Ace%20of%20Aces%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Ace%20of%20Aces%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alex Kidd in Shinobi World",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Alex%20Kidd%20in%20Shinobi%20World%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Alex%20Kidd%20in%20Shinobi%20World%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "R-Type",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/R-Type%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/R-Type%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ms. Pac-Man",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Ms.%20Pac-Man%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Ms.%20Pac-Man%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Renegade",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Renegade%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Renegade%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Krusty's Fun House",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Krusty's%20Fun%20House%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Krusty's%20Fun%20House%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Impossible Mission",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Impossible%20Mission%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Impossible%20Mission%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spy vs. Spy",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Spy%20vs.%20Spy%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Spy%20vs.%20Spy%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Danan - The Jungle Fighter",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Danan%20-%20The%20Jungle%20Fighter%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Danan%20-%20The%20Jungle%20Fighter%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blade Eagle",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Blade%20Eagle%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Blade%20Eagle%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dr. Robotnik's Mean Bean Machine",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Dr.%20Robotnik's%20Mean%20Bean%20Machine%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Dr.%20Robotnik's%20Mean%20Bean%20Machine%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wonder Boy",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Wonder%20Boy%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Wonder%20Boy%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ghouls'n Ghosts",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Ghouls'n%20Ghosts%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Ghouls'n%20Ghosts%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The XVII Olympic Winter Games - Lillehammer 1994",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Winter%20Olympics%20-%20Lillehammer%20'94%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CPt%2CSv%2CNo)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Winter%20Olympics%20-%20Lillehammer%20'94%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CPt%2CSv%2CNo)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dracula",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Bram%20Stoker's%20Dracula%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Bram%20Stoker's%20Dracula%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bomber Raid",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Bomber%20Raid%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Bomber%20Raid%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cloud Master",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Cloud%20Master%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Cloud%20Master%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Crystal",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Dragon%20Crystal%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Dragon%20Crystal%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Desert Strike",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Desert%20Strike%20(Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Desert%20Strike%20(Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alf",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Alf%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Alf%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chuck Rock II : Son of Chuck",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Chuck%20Rock%20II%20-%20Son%20of%20Chuck%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Chuck%20Rock%20II%20-%20Son%20of%20Chuck%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jurassic Park",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Jurassic%20Park%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Jurassic%20Park%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Michael Jackson's Moonwalker",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Michael%20Jackson's%20Moonwalker%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Michael%20Jackson's%20Moonwalker%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jogos de Verão",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/California%20Games%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/California%20Games%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Double Dragon",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Double%20Dragon%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Double%20Dragon%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Championship Hockey",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Championship%20Hockey%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Championship%20Hockey%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Back to the Future Part II",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Back%20to%20the%20Future%20Part%20II%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Back%20to%20the%20Future%20Part%20II%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aladdin",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Aladdin%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Aladdin%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alex Kidd : High-Tech World",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Alex%20Kidd%20-%20High-Tech%20World%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Alex%20Kidd%20-%20High-Tech%20World%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Maze",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Bubble%20Bobble%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Bubble%20Bobble%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cyborg Hunter",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Cyborg%20Hunter%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Cyborg%20Hunter%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Altered Beast",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Altered%20Beast%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Altered%20Beast%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alex Kidd : The Lost Stars",
+    "console": "mastersystem",
+    "video": "https://ggbox.com.br/jogos/mastersystem/videos/Alex%20Kidd%20-%20The%20Lost%20Stars%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mastersystem/images/Alex%20Kidd%20-%20The%20Lost%20Stars%20(World)-marquee.png",
+    "pack": "pack_standard"
+  }
+]

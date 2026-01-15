@@ -1,0 +1,114 @@
+[
+  {
+    "Nome": "Castlevania: Dawn of Sorrow",
+    "console": "nds",
+    "video": "https://ggbox.com.br/jogos/nds/media/videos/Castlevania%20-%20Dawn%20of%20Sorrow.mp4",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Castlevania%20-%20Dawn%20of%20Sorrow.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Contra 4",
+    "console": "nds",
+    "video": "https://ggbox.com.br/jogos/nds/media/videos/Contra%204%20(Europe)%20(Proto).mp4",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Contra%204%20(Europe)%20(Proto).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mario &amp; Luigi - Partners in Time",
+    "console": "nds",
+    "video": "https://ggbox.com.br/jogos/nds/media/videos/Mario%20and%20Luigi%20-%20Partners%20in%20Time%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).mp4",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Mario%20and%20Luigi%20-%20Partners%20in%20Time%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mario Party DS",
+    "console": "nds",
+    "video": "https://ggbox.com.br/jogos/nds/media/videos/Mario%20Party%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Rev%201).mp4",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Mario%20Party%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Rev%201).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mario Slam Basketball",
+    "console": "nds",
+    "video": "https://ggbox.com.br/jogos/nds/media/videos/Mario%20Slam%20Basketball%20ESP.mp4",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Mario%20Slam%20Basketball%20ESP.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mega Man ZX - Advent",
+    "console": "nds",
+    "video": "https://ggbox.com.br/jogos/nds/media/videos/Mega%20Man%20ZX%20-%20Advent%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).mp4",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Mega%20Man%20ZX%20-%20Advent%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mega Man ZX",
+    "console": "nds",
+    "video": "https://ggbox.com.br/jogos/nds/media/videos/Mega%20Man%20ZX%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).mp4",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Mega%20Man%20ZX%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pokemon - Edicion Blanca 2",
+    "console": "nds",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Pokemon%20-%20Edicion%20Blanca%202%20(Spain)%20(NDSi%20Enhanced).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pokemon - Edicion Diamante",
+    "console": "nds",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Pokemon%20-%20Edicion%20Diamante%20(Spain)%20(Rev%205).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pokemon - Edicion Plata SoulSilver",
+    "console": "nds",
+    "video": "https://ggbox.com.br/jogos/nds/media/videos/Pokemon%20-%20Edicion%20Plata%20SoulSilver%20(Spain).mp4",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Pokemon%20-%20Edicion%20Plata%20SoulSilver%20(Spain).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pokemon - Platinum Version",
+    "console": "nds",
+    "video": "https://ggbox.com.br/jogos/nds/media/videos/Pokemon%20-%20Edicion%20Platino%20(Spain).mp4",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Pokemon%20-%20Edicion%20Platino%20(Spain).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Castlevania - Portrait Of Ruin",
+    "console": "nds",
+    "video": "https://ggbox.com.br/jogos/nds/media/videos/Castlevania%20-%20Portrait%20of%20Ruin%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).mp4",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Castlevania%20-%20Portrait%20of%20Ruin%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "New Super Mario Bros",
+    "console": "nds",
+    "video": "https://ggbox.com.br/jogos/nds/media/videos/New%20Super%20Mario%20Bros.%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).mp4",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/New%20Super%20Mario%20Bros.%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Castlevania - Order of Ecclesia",
+    "console": "nds",
+    "video": "https://ggbox.com.br/jogos/nds/media/videos/Castlevania%20-%20Order%20of%20Ecclesia%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).mp4",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Castlevania%20-%20Order%20of%20Ecclesia%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bubble Bobble Double Shot",
+    "console": "nds",
+    "video": "https://ggbox.com.br/jogos/nds/media/videos/Bubble%20Bobble%20-%20Double%20Shot%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).mp4",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Bubble%20Bobble%20-%20Double%20Shot%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bubble Bobble Revolution",
+    "console": "nds",
+    "video": "https://ggbox.com.br/jogos/nds/media/videos/Bubble%20Bobble%20Revolution%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).mp4",
+    "imagem": "https://ggbox.com.br/jogos/nds/media/wheel/Bubble%20Bobble%20Revolution%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "pack": "pack_standard"
+  }
+]

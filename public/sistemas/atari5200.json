@@ -1,0 +1,716 @@
+[
+  {
+    "Nome": "A.E.",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/AE.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/AE.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Adventure 2",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Adventure%20II%20(Easy).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Adventure%20II%20(Easy).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Adventure 2",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Adventure%20II%20(Easy).mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Adventure%20II%20(Easy).png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Asteroids",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Asteroids.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Asteroids.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Asteroids",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Asteroids.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Asteroids.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Astro Chase",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Astro%20Chase.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Astro%20Chase.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ballblazer",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Ballblazer.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Ballblazer.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Barroom Baseball",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Barroom%20Baseball.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Barroom%20Baseball.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battlezone",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/BattleZone.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/BattleZone.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Beamrider",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Beamrider.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Beamrider.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Beef Drop",
+    "console": "atari5200",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Beef%20Drop.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "BerZerk",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Berzerk.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Berzerk.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Black Belt",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Black%20Belt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Black%20Belt.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blaster",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Blaster.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Blaster.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blueprint",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Blue%20Print.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Blue%20Print.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bounty Bob Strikes Back",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Bounty%20Bob%20Strikes%20Back.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Bounty%20Bob%20Strikes%20Back.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Buck Rogers : Planet of Zoom",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Buck%20Rogers%20-%20Planet%20Of%20Zoom.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Buck%20Rogers%20-%20Planet%20Of%20Zoom.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Castle Blast",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Castle%20Blast.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Castle%20Blast.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Castle Crisis",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Castle%20Crisis.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Castle%20Crisis.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Centipede",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Centipede.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Centipede.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Choplifter!",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Choplifter!.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Choplifter!.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Combat 2 Advanced",
+    "console": "atari5200",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Combat%20II%20-%20Advanced.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Congo Bongo",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Congo%20Bongo.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Congo%20Bongo.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Countermeasure",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Countermeasure.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Countermeasure.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Defender",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Defender.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Defender.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dig Dug",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Dig%20Dug.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Dig%20Dug.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Frisky Tom",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Frisky%20Tom.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Frisky%20Tom.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Frogger II - Threeedeep!",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Frogger%20II%20-%20Threeedeep!.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Frogger%20II%20-%20Threeedeep!.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Frogger",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Frogger%20I.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Frogger%20I.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Galaxian",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Galaxian.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Galaxian.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gorf",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Gorf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Gorf.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gremlins",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Gremlins.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Gremlins.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gyruss",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Gyruss.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Gyruss.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "H.E.R.O.",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Hero.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Hero.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "James Bond 007",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/James%20Bond%20007.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/James%20Bond%20007.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Joust",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Joust.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Joust.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jr. Pac-Man",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Jr%20Pac-man.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Jr%20Pac-man.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jungle Hunt",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Jungle%20Hunt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Jungle%20Hunt.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "KABOOM!",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Kaboom!.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Kaboom!.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kangaroo",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Kangaroo.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Kangaroo.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Keystone Kapers",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Keystone%20Kapers.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Keystone%20Kapers.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Koffi : Yellow Kopter",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Koffi%20The%20Yellow%20Kopter.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Koffi%20The%20Yellow%20Kopter.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "K-Razy Shootout",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/K-razy%20Shootout.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/K-razy%20Shootout.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Looney Tunes Hotel",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Looney%20Tunes%20Hotel.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Looney%20Tunes%20Hotel.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mario Bros.",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Mario%20Bros.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Mario%20Bros.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Meebzork",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Meebzork.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Meebzork.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Megamania",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Megamania.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Megamania.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Meteorites",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Meteorites.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Meteorites.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Micro-gammon SB",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Micro-Gammon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Micro-Gammon.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Millipede",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Millipede.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Millipede.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Miner 2049er Starring Bounty Bob",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Miner%202049er.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Miner%202049er.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Missile Command",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Missile%20Command.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Missile%20Command.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Montezuma's Revenge",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Montezumas%20Revenge.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Montezumas%20Revenge.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Moon Patrol",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Moon%20Patrol.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Moon%20Patrol.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mountain King",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Mountain%20King.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Mountain%20King.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mr. Do!'s Castle",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Mr%20Do's%20Castle.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Mr%20Do's%20Castle.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ms. Pac-Man",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Ms%20Pac-man.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Ms%20Pac-man.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pac-Man",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Pac-man.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Pac-man.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pengo",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Pengo.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Pengo.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pitfall II - Lost Caverns",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Pitfall!%20II%20-%20Lost%20Caverns.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Pitfall!%20II%20-%20Lost%20Caverns.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pitfall!",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Pitfall!%20I.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Pitfall!%20I.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pole Position",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Pole%20Position.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Pole%20Position.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Popeye",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Popeye.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Popeye.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Q*bert",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Q-bert.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Q-bert.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "QIX",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Qix.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Qix.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Quest for Quintana Roo",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Quest%20For%20Quintana%20Roo.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Quest%20For%20Quintana%20Roo.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "RealSports Baseball",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Realsports%20Baseball.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Realsports%20Baseball.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Realsports Basketball",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Realsports%20Basketball.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Realsports%20Basketball.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Realsports Football",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Realsports%20Football.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Realsports%20Football.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Realsports Soccer",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Realsports%20Soccer.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Realsports%20Soccer.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "RealSports Tennis",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Realsports%20Tennis.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Realsports%20Tennis.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rescue on Fractalus!",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Rescue%20On%20Fractalus.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Rescue%20On%20Fractalus.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "River Raid",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/River%20Raid.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/River%20Raid.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Road Runner",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Road%20Runner.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Road%20Runner.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Road Runner",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Road%20Runner.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Road%20Runner.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Robotron 2084",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Robotron%202084.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Robotron%202084.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Dungeon",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Space%20Dungeon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Space%20Dungeon.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Invaders",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Space%20Invaders.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Space%20Invaders.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Shuttle - A Journey Into Space",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Space%20Shuttle.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Space%20Shuttle.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spitfire",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Spitfire.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Spitfire.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sport Goofy",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Sport%20Goofy.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Sport%20Goofy.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Raiders",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Star%20Raiders.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Star%20Raiders.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Trek - Strategic Operations Simulator",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Star%20Trek%20Strategic%20Ops%20Simulator.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Star%20Trek%20Strategic%20Ops%20Simulator.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Wars - Return Of The Jedi - Death Star Battle",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Star%20Wars%20-%20Death%20Star%20Battle.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Star%20Wars%20-%20Death%20Star%20Battle.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Wars : The Arcade Game",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Star%20Wars%20-%20The%20Arcade%20Game.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Star%20Wars%20-%20The%20Arcade%20Game.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Stargate",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Stargate.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Stargate.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Breakout",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Super%20Breakout.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Super%20Breakout.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Cobra",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Super%20Cobra.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Super%20Cobra.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Pac-Man",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Super%20Pac-man.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Super%20Pac-man.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tempest",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Tempest.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Tempest.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Activision Decathlon",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Activision%20Decathlon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Activision%20Decathlon.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Dreadnaught Factor",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Dreadnaught%20Factor.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Dreadnaught%20Factor.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Last Starfighter",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Last%20Starfighter.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Last%20Starfighter.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Track and Field",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Track%20And%20Field.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Track%20And%20Field.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vanguard",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Vanguard.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Vanguard.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wizard of Wor",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Wizard%20Of%20Wor.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Wizard%20Of%20Wor.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Xari Arena",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Xari%20Arena.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Xari%20Arena.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Xevious",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Xevious.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Xevious.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zaxxon",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Zaxxon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Zaxxon.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zenji",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Zenji.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Zenji.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zone Ranger",
+    "console": "atari5200",
+    "video": "https://ggbox.com.br/jogos/atari5200/media/videos/Zone%20Ranger.mp4",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Zone%20Ranger.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "ZZZ(notgame):Boogie",
+    "console": "atari5200",
+    "video": "",
+    "imagem": "https://ggbox.com.br/jogos/atari5200/media/wheel/Boogie.png",
+    "pack": "pack_standard"
+  }
+]

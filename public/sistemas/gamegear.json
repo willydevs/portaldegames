@@ -1,0 +1,751 @@
+[
+  {
+    "Nome": "Batter Up",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Batter%20Up%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Batter%20Up%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fred Couples' Golf",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Fred%20Couples'%20Golf%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Fred%20Couples'%20Golf%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "NFL Quarterback Club '96",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/NFL%20Quarterback%20Club%20'96%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/NFL%20Quarterback%20Club%20'96%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Head Buster",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/HeadBuster%20(Japan)%20(T)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/HeadBuster%20(Japan)%20(T)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon : The Bruce Lee Story",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Dragon%20-%20The%20Bruce%20Lee%20Story%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Dragon%20-%20The%20Bruce%20Lee%20Story%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bram Stoker's Dracula",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Bram%20Stoker's%20Dracula%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Bram%20Stoker's%20Dracula%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alien Syndrome",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Alien%20Syndrome%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Alien%20Syndrome%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ayrton Senna's Super Monaco GP II",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Ayrton%20Senna's%20Super%20Monaco%20GP%20II%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Ayrton%20Senna's%20Super%20Monaco%20GP%20II%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Poker Face Paul's Solitaire",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Poker%20Face%20Paul's%20Solitaire%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Poker%20Face%20Paul's%20Solitaire%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pop Breaker",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Pop%20Breaker%20(Japan)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Pop%20Breaker%20(Japan)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zoop",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Zoop%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Zoop%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Addams Family",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Addams%20Family%2C%20The%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Addams%20Family%2C%20The%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dr. Franken",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Dr.%20Franken%20(Unknown)%20(Proto)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Dr.%20Franken%20(Unknown)%20(Proto)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gear Works",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Gear%20Works%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Gear%20Works%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mega Man",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Mega%20Man%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Mega%20Man%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cheese Cat-astrophe Estrelando Speedy Gonzales",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Cheese%20Cat-Astrophe%20Starring%20Speedy%20Gonzales%20(Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Cheese%20Cat-Astrophe%20Starring%20Speedy%20Gonzales%20(Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Berenstain Bears' - Camping Adventure, The",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Berenstain%20Bears'%20Camping%20Adventure%2C%20The%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Berenstain%20Bears'%20Camping%20Adventure%2C%20The%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kinetic Connection",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Kinetic%20Connection%20(Japan)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Kinetic%20Connection%20(Japan)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shinobi",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Shinobi%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Shinobi%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sega Game Pack 4 In 1",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Sega%20Game%20Pack%204%20in%201%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Sega%20Game%20Pack%204%20in%201%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Galaga 2",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Galaga%202%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Galaga%202%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "PGA Tour 96",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/PGA%20Tour%2096%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/PGA%20Tour%2096%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Incredible Crash Dummies",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Incredible%20Crash%20Dummies%2C%20The%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Incredible%20Crash%20Dummies%2C%20The%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cj Elephant Fugitive",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/CJ%20Elephant%20Fugitive%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/CJ%20Elephant%20Fugitive%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "James Pond II : Codename RoboCod",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/James%20Pond%20II%20-%20Codename%20RoboCod%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/James%20Pond%20II%20-%20Codename%20RoboCod%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Krusty's Fun House",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Krusty's%20Fun%20House%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Krusty's%20Fun%20House%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bubble Bobble",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Bubble%20Bobble%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Bubble%20Bobble%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bonkers Wax Up!",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Bonkers%20Wax%20Up!%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Bonkers%20Wax%20Up!%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Les Schtroumpfs",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Smurfs%2C%20The%20(Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Smurfs%2C%20The%20(Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jeopardy! : Sports Edition",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Jeopardy!%20-%20Sports%20Edition%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Jeopardy!%20-%20Sports%20Edition%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Andre Agassi Tennis",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Andre%20Agassi%20Tennis%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Andre%20Agassi%20Tennis%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Batman Forever",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Batman%20Forever%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Batman%20Forever%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "FIFA International Soccer",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/FIFA%20International%20Soccer%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/FIFA%20International%20Soccer%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jurassic Park",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Jurassic%20Park%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Jurassic%20Park%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Taz-Mania : The Search for the Lost Seabirds",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Taz-Mania%20-%20The%20Search%20for%20the%20Lost%20Seabirds%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Taz-Mania%20-%20The%20Search%20for%20the%20Lost%20Seabirds%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Simpsons: Bartman Meets Radioactive Man",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Bartman%20Meets%20Radioactive%20Man%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Bartman%20Meets%20Radioactive%20Man%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Garfield : Caught in the Act",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Garfield%20-%20Caught%20in%20the%20Act%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Garfield%20-%20Caught%20in%20the%20Act%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tails Adventures",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Tails%20Adventures%20(World)%20(En%2CJa)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Tails%20Adventures%20(World)%20(En%2CJa)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Astérix and the Great Rescue",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Asterix%20and%20the%20Great%20Rescue%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Asterix%20and%20the%20Great%20Rescue%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "RoboCop 3",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/RoboCop%203%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/RoboCop%203%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sd Gundam Winner's History",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/SD%20Gundam%20-%20Winner's%20History%20(Japan)%20(T)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/SD%20Gundam%20-%20Winner's%20History%20(Japan)%20(T)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battleship",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Battleship%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Battleship%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Arch Rivals",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Arch%20Rivals%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Arch%20Rivals%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dr. Robotnik's Mean Bean Machine",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Dr.%20Robotnik's%20Mean%20Bean%20Machine%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Dr.%20Robotnik's%20Mean%20Bean%20Machine%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Popeye No Beach Volleyball",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Popeye%20no%20Beach%20Volleyball%20(Japan)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Popeye%20no%20Beach%20Volleyball%20(Japan)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Choplifter III",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Choplifter%20III%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Choplifter%20III%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "F1: World Championship Edition",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/F1%20-%20World%20Championship%20Edition%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/F1%20-%20World%20Championship%20Edition%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Klax",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Klax%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Klax%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mortal Kombat 3",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Mortal%20Kombat%203%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Mortal%20Kombat%203%20(Europe)-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Clutch Hitter",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Clutch%20Hitter%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Clutch%20Hitter%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Monster Truck Wars",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Monster%20Truck%20Wars%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Monster%20Truck%20Wars%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "George Foreman's KO Boxing",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/George%20Foreman's%20KO%20Boxing%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/George%20Foreman's%20KO%20Boxing%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lunar: Sanpo-suru Gakuen",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Lunar%20-%20Sanposuru%20Gakuen%20(Japan)%20(T)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Lunar%20-%20Sanposuru%20Gakuen%20(Japan)%20(T)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Arcade Classics",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Arcade%20Classics%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Arcade%20Classics%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rastan",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Rastan%20Saga%20(Japan)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Rastan%20Saga%20(Japan)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mortal Kombat II",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Mortal%20Kombat%20II%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Mortal%20Kombat%20II%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Marko's Magic Football",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Marko's%20Magic%20Football%20(Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Marko's%20Magic%20Football%20(Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chicago Syndicate",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Chicago%20Syndicate%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Chicago%20Syndicate%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Home Alone",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Home%20Alone%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Home%20Alone%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "FIFA Soccer 96",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/FIFA%20Soccer%2096%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/FIFA%20Soccer%2096%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battletoads",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Battletoads%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Battletoads%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Striker",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Striker%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Striker%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Crystal",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Dragon%20Crystal%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Dragon%20Crystal%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Double Dragon",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Double%20Dragon%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Double%20Dragon%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hurricanes",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Hurricanes%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Hurricanes%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Coca-Cola Kid",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Coca-Cola%20Kid%20(Japan)%20(T)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Coca-Cola%20Kid%20(Japan)%20(T)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Primal Rage",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Primal%20Rage%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Primal%20Rage%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Beavis and Butt-Head",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Beavis%20and%20Butt-Head%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Beavis%20and%20Butt-Head%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mortal Kombat",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Mortal%20Kombat%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Mortal%20Kombat%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hook",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Hook%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Hook%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crazy Company",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Factory%20Panic%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Factory%20Panic%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Road Rash",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Road%20Rash%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Road%20Rash%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Frogger",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Frogger%20(USA)%20(Proto)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Frogger%20(USA)%20(Proto)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Arena",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Arena%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Arena%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Lucky Dime Caper : Estrelando Pato Donald",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Lucky%20Dime%20Caper%20Starring%20Donald%20Duck%2C%20The%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Lucky%20Dime%20Caper%20Starring%20Donald%20Duck%2C%20The%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ms. Pac-Man",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Ms.%20Pac-Man%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Ms.%20Pac-Man%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aerial Assault",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Aerial%20Assault%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Aerial%20Assault%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Excellent Dizzy Collection",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Excellent%20Dizzy%20Collection%2C%20The%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Excellent%20Dizzy%20Collection%2C%20The%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Power Strike II",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/GG%20Aleste%20II%20~%20Power%20Strike%20II%20(Japan%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/GG%20Aleste%20II%20~%20Power%20Strike%20II%20(Japan%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ronald in The Magical World",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Donald%20no%20Magical%20World%20(Japan)%20(En%2CJa)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Donald%20no%20Magical%20World%20(Japan)%20(En%2CJa)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Lost World - Jurassic Park",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Lost%20World%2C%20The%20-%20Jurassic%20Park%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Lost%20World%2C%20The%20-%20Jurassic%20Park%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kawasaki Superbike Challenge",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Kawasaki%20Superbike%20Challenge%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Kawasaki%20Superbike%20Challenge%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sega Chess",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Chessmaster%2C%20The%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Chessmaster%2C%20The%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Evander Holyfield's 'Real Deal' Boxing",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Evander%20Holyfield's%20'Real%20Deal'%20Boxing%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Evander%20Holyfield's%20'Real%20Deal'%20Boxing%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wagan Land",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Wagyan%20Land%20(Japan)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Wagyan%20Land%20(Japan)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "NHL All-Star Hockey",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/NHL%20All-Star%20Hockey%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/NHL%20All-Star%20Hockey%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "F-15 Strike Eagle",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/F-15%20Strike%20Eagle%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/F-15%20Strike%20Eagle%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pete Sampras Tennis",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Pete%20Sampras%20Tennis%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Pete%20Sampras%20Tennis%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alien 3",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Alien%203%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Alien%203%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Out Run",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Out%20Run%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Out%20Run%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chuck Rock II : Son of Chuck",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Chuck%20Rock%20II%20-%20Son%20of%20Chuck%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Chuck%20Rock%20II%20-%20Son%20of%20Chuck%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fatal Fury Special",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Fatal%20Fury%20Special%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Fatal%20Fury%20Special%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aladdin",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Aladdin%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Aladdin%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Phantasy Star Adventure",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Phantasy%20Star%20Adventure%20(Japan)%20(T)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Phantasy%20Star%20Adventure%20(Japan)%20(T)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Batman Returns",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Batman%20Returns%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Batman%20Returns%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Formula One",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/F1%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/F1%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sensible Soccer : European Champions",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Sensible%20Soccer%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Sensible%20Soccer%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pengo",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Pengo%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Pengo%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fantasy Zone",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Fantasy%20Zone%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Fantasy%20Zone%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cliffhanger",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Cliffhanger%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Cliffhanger%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "GG Aleste",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/GG%20Aleste%20(Japan)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/GG%20Aleste%20(Japan)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fantastic Dizzy",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Fantastic%20Dizzy%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Fantastic%20Dizzy%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Soukoban",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Soukoban%20(Japan)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Soukoban%20(Japan)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "T2 : The Arcade Game",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/T2%20-%20The%20Arcade%20Game%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/T2%20-%20The%20Arcade%20Game%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chuck Rock",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Chuck%20Rock%20(World)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Chuck%20Rock%20(World)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Faceball 2000",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/Faceball%202000%20(Japan)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/Faceball%202000%20(Japan)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "VR Troopers",
+    "console": "gamegear",
+    "video": "https://ggbox.com.br/jogos/gamegear/videos/VR%20Troopers%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gamegear/images/VR%20Troopers%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  }
+]

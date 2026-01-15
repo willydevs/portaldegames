@@ -1,0 +1,3740 @@
+[
+  {
+    "Nome": "PGM",
+    "console": "mame",
+    "video": "",
+    "imagem": "",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sunset Riders",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ssrdrebc.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ssrdrebc-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sunset Riders 4 Players",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ssrdrebc.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ssrdrebc-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lode Runner II - The Bungeling Strikes Back",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ldrun2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ldrun2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "R-type",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rtype.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rtype-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sega Ninja",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/seganinj.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/seganinj-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Road Blasters",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/roadblst.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/roadblst-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mr. Do!",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mrdo.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mrdo-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Night Stocker",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/nstocker.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/nstocker-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lode Runner IV - Teikoku Karano Dasshutsu",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ldrun4.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ldrun4-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Metamorphic Force",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/metamrph.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/metamrph-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Roc'n Rope",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rocnrope.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rocnrope-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rampart",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rampart.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rampart-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mirai Ninja",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mirninja.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mirninja-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tecmo World Cup '90",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/wc90.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/wc90-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Klax",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/klax.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/klax-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Puzzle Uo Poko",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/uopoko.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/uopoko-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rolling Thunder",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rthunder.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rthunder-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lasso",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/lasso.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/lasso-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rally Bike / Dash Yarou",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rallybik.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rallybik-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shinobi",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/shinobi.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/shinobi-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "My Hero",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/myhero.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/myhero-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sky Adventure",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/skyadvnt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/skyadvnt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Power Spikes",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pspikes.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pspikes-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rambo III",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rambo3.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rambo3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sprint 1",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/sprint1.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/sprint1-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rally X",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rallyx.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rallyx-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Silent Dragon",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/silentd.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/silentd-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mr. Do's Castle",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/docastle.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/docastle-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Psycho-nics Oscar",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/oscar.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/oscar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rompers",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rompers.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rompers-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mogu Chan",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/moguchan.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/moguchan-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Krull",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/krull.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/krull-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sindbad Mystery",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/sindbadm.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/sindbadm-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lot Lot",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/lotlot.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/lotlot-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lost Tomb",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/losttomb.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/losttomb-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rollergames",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rollerg.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rollerg-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Millipede",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/milliped.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/milliped-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Nibbler",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/nibbler.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/nibbler-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pit Fighter",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pitfight.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pitfight-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lode Runner III - The Golden Labyrinth",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ldrun3.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ldrun3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Renegade",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/renegade.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/renegade-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pinbo",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pinbo.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pinbo-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pac-man",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pacman.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pacman-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Missile Command",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/missile.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/missile-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Psycho Soldier",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/psychos.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/psychos-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Springer",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/springer.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/springer-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Senjyo",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/senjyo.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/senjyo-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Radical Radial",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/radrad.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/radrad-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mappy",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mappy.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mappy-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Major Title 2",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/majtitl2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/majtitl2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shackled",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/shackled.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/shackled-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Smash T.v.",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/smashtv.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/smashtv-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Minefield",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/minefld.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/minefld-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mad Planets",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mplanets.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mplanets-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tazz-mania",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/tazmania.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/tazmania-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bermuda Triangle",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bermudat.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bermudat-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pound For Pound",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/poundfor.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/poundfor-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Metro-cross",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/metrocrs.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/metrocrs-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Superman",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/superman.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/superman-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Q*bert",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/qbert.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/qbert-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Pang",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/spang.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/spang-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shuuz",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/shuuz.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/shuuz-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "S.v.g. - Spectral Vs Generation",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/svg.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/svg-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ninja Emaki",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ninjemak.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ninjemak-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lady Bug",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ladybug.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ladybug-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Stadium Hero",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/stadhero.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/stadhero-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Salamander 2",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/salmndr2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/salmndr2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Phelios",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/phelios.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/phelios-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shadow Dancer",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/shdancer.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/shdancer-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Swat",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/swat.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/swat-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Regulus",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/regulus.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/regulus-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Martial Champion",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mtlchamp.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mtlchamp-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pang",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pang.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pang-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rolling Thunder 2",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rthun2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rthun2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mat Mania",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/matmania.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/matmania-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ms. Pac-man",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mspacman.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mspacman-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sheriff",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/sheriff.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/sheriff-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pac &amp; Pal",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pacnpal.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pacnpal-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Invaders / Space Invaders M",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/invaders.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/invaders-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pioneer Balloon",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pballoon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pballoon-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Basketball",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/sbasketb.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/sbasketb-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Jacker",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/starjack.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/starjack-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Marchen Maze",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mmaze.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mmaze-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Plotting",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/plotting.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/plotting-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Teenage Mutant Ninja Turtles",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/tmnt2po.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/tmnt2po-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Teenage Mutant Ninja Turtles 4 Players",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/tmnt2po.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/tmnt2po-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Operation Wolf",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/opwolf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/opwolf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rod-land",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rodland.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rodland-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "King &amp; Balloon",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/kingball.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/kingball-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spinal Breakers",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/spinlbrk.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/spinlbrk-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Plus Alpha",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/plusalph.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/plusalph-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sar - Search And Rescue",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/searchar.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/searchar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Zap",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/spacezap.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/spacezap-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Robocop",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/robocop.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/robocop-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Polaris",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/polaris.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/polaris-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pac-mania",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pacmania.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pacmania-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kung-fu Master",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/kungfum.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/kungfum-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Smart",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/streetsm.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/streetsm-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Radar Scope",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/radarscp.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/radarscp-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Road Fighter",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/roadf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/roadf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "New Rally X",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/nrallyx.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/nrallyx-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spiker",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/spiker.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/spiker-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Star Force",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/starforc.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/starforc-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Road Runner",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/roadrunn.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/roadrunn-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Side Pocket",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/sidepckt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/sidepckt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Marble Madness",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/marble.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/marble-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rastan",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rastan.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rastan-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spelunker II",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/spelunk2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/spelunk2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Naughty Boy",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/naughtyb.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/naughtyb-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Side Arms - Hyper Dyne",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/sidearms.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/sidearms-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "R-type Leo",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rtypeleo.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rtypeleo-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "R-Type II",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rtype2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rtype2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Paperboy",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/paperboy.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/paperboy-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mars",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mars.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mars-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Peter Pack Rat",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/peterpak.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/peterpak-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pepper II",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pepper2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pepper2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Konami '88",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/88games.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/88games-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Midnight Resistance",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/midres.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/midres-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Macho Mouse",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/machomou.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/machomou-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Palamedes",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/palamed.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/palamed-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Raiden",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/raiden.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/raiden-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Splatter House",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/splatter.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/splatter-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "New Sinbad 7",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/newsin7.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/newsin7-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Konami's Ping-pong",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pingpong.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pingpong-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Round-up",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/roundup.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/roundup-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Nastar",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/nastar.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/nastar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Konami Gt",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/konamigt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/konamigt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Legend Of Makai",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/lomakai.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/lomakai-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mad Crasher",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/madcrash.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/madcrash-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pengo",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pengo.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pengo-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mania Challenge",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/maniach.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/maniach-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Strike Force",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/strkforc.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/strkforc-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rygar",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rygar.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rygar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Firebird",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/spacefb.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/spacefb-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Killer Comet",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/killcom.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/killcom-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mario Bros.",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mario.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mario-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Relief Pitcher",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/relief.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/relief-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Saint Dragon",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/stdragon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/stdragon-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Punch-out!!",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/spnchout.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/spnchout-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Strike Fighter",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/strkfgtr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/strkfgtr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "P.o.w. - Prisoners Of War",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pow.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pow-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mikie",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mikie.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mikie-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Redline Racer",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/redlin2p.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/redlin2p-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Marvin's Maze",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/marvins.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/marvins-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Volleyball",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/svolley.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/svolley-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Moon Cresta",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mooncrst.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mooncrst-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Solomon's Key",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/solomon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/solomon-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wrestle War",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/wrestwar.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/wrestwar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rampage: World Tour",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rmpgwt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rmpgwt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lode Runner",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ldrun.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ldrun-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Teenage Mutant Ninja Turtles - Turtles In Time",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/tmnt2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/tmnt2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Quester",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/quester.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/quester-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Moon Quasar",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/moonqsr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/moonqsr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pooyan",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pooyan.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pooyan-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pandora's Palace",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pandoras.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pandoras-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Return Of The Invaders",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/retofinv.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/retofinv-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "M.i.a. - Missing In Action",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mia.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mia-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Snap Jack",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/snapjack.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/snapjack-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Strength &amp; Skill",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/strnskil.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/strnskil-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mini Golf",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/minigolf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/minigolf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Harrier",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/sharrier.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/sharrier-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Monster Bash",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/videos/monsterb-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/monsterb-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Bagman",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/sbagman.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/sbagman-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "T.N.K III",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/tnk3.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/tnk3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shadowland",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/shadowld.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/shadowld-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Make Trax",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/crush.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/crush-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pop Flamer",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/popflame.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/popflame-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mister Viking",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mrviking.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mrviking-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Invaders Part 2",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/invadpt2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/invadpt2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mr. Do's Wild Ride",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dowild.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dowild-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Snow Bros. - Nick &amp; Tom",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/snowbros.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/snowbros-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Phozon",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/phozon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/phozon-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rescue",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rescue.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rescue-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Major Havoc",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mhavoc.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mhavoc-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ordyne",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ordyne.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ordyne-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Off The Wall",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/offtwall.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/offtwall-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pleiads",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pleiads.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pleiads-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Skull &amp; Crossbones",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/skullxbo.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/skullxbo-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Out Zone",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/outzone.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/outzone-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Seicross",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/seicross.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/seicross-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Psychic 5",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/psychic5.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/psychic5-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Samurai Nihon-ichi",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/tsamurai.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/tsamurai-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Breakout",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/sbrkout.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/sbrkout-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pistol Daimyo No Bouken",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pistoldm.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pistoldm-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mystic Warriors",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mystwarr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mystwarr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Power Instinct",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/powerins.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/powerins-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Punch-out!!",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/punchout.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/punchout-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rack 'em Up",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/thehustl.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/thehustl-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kyros",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/kyros.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/kyros-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pac-man Plus",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pacplus.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pacplus-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rescue Raider",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/rescraid.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/rescraid-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Motos",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/motos.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/motos-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Visual Football: European Sega Cup",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/svf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/svf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ponpoko",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ponpoko.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ponpoko-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Nemesis",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/nemesis.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/nemesis-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lightning Fighters",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/lgtnfght.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/lgtnfght-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Contra",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/scontra.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/scontra-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spelunker",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/spelunkr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/spelunkr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Q*bert's Qubes",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/qbertqub.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/qbertqub-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pac-land",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pacland.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pacland-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Quartet",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/quartet.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/quartet-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Return Of The Jedi",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/jedi.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/jedi-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Swimmer",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/swimmer.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/swimmer-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Quantum",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/quantum.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/quantum-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Pac-man",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/superpac.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/superpac-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Moon Patrol",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mpatrol.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mpatrol-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pinball Action",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pbaction.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pbaction-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shoot Out",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/shootout.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/shootout-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kuri Kinton",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/kurikint.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/kurikint-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Sprint",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ssprint.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ssprint-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lee Trevino's Fighting Golf",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/fitegolf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/fitegolf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Popeye",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/popeye.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/popeye-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pig Out: Dine Like a Swine!",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pigout.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pigout-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lunar Rescue",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/lrescue.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/lrescue-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Nba Jam",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/nbajam.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/nbajam-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Land Sea Air Squad",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/lsasquad.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/lsasquad-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Football",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/sfootbal.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/sfootbal-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Nova 2001",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/nova2001.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/nova2001-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Valkyrie No Densetsu",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/valkyrie.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/valkyrie-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zzyzzyxx",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/zzyzzyxx.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/zzyzzyxx-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Total Carnage",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/totcarn.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/totcarn-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wiz",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/wiz.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/wiz-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Tower of Druaga",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/todruaga.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/todruaga-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wwf Wrestlefest",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/wwfwfest.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/wwfwfest-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Xexex",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/xexex.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/xexex-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Xevious",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/xevious.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/xevious-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ufo Robo Dangar",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dangar.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dangar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Track &amp; Field",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/trackfld.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/trackfld-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tempest",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/tempest.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/tempest-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Violence Fight",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/viofight.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/viofight-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Trog",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/trog.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/trog-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vanguard",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/vanguard.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/vanguard-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Xain'd Sleena",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/xsleena.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/xsleena-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Undercover Cops",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/uccops.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/uccops-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Time Tunnel",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/timetunl.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/timetunl-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "World Soccer Finals",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/wsf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/wsf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The End",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/theend.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/theend-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wonder Boy",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/wboy.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/wboy-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Xybots",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/xybots.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/xybots-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tumble Pop",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/tumblep.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/tumblep-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Thunderjaws",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/thunderj.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/thunderj-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Battle-Road",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/battroad.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/battroad-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Simpsons",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/simpsons2pj.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/simpsons2pj-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vs. Balloon Fight",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/balonfgt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/balonfgt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Time Pilot",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/timeplt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/timeplt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vanguard II",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/vangrd2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/vangrd2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vs. Freedom Force",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/vsfdf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/vsfdf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wec Le Mans 24",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/wecleman.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/wecleman-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "World Court",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/wldcourt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/wldcourt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Tin Star",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/tinstar.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/tinstar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vendetta",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/videos/vendetta2pu-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/vendetta2pu-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Thundercade / Twin Formation",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/tndrcade.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/tndrcade-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "World Stadium",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ws.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ws-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Main Event",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mainevt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mainevt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wiping",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/wiping.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/wiping-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vigilante",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/vigilant.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/vigilant-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Ninja Kids",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ninjak.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ninjak-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tetris",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/atetris.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/atetris-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Toki",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/toki.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/toki-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Thunder Fox",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/thundfox.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/thundfox-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ultra Toukon Densetsu",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/utoukond.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/utoukond-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Legend of Kage",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/lkage.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/lkage-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wonder Boy III - Monster Lair",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/wb3.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/wb3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Combatribes",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ctribe.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ctribe-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The NewZealand Story",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/tnzs.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/tnzs-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Victory Road",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/victroad.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/victroad-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ultra Balloon",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/uballoon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/uballoon-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Twin Cobra",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/twincobr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/twincobr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "X Multiply",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/xmultipl.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/xmultipl-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Traverse Usa / Zippy Race",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/travrusa.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/travrusa-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Yie Ar Kung-fu",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/yiear.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/yiear-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Touchdown Fever",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/tdfever.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/tdfever-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Three Stooges In Brides Is Brides",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/3stooges.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/3stooges-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ultra X Weapons",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ultrax.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ultrax-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vindicators Part II",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/vindctr2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/vindctr2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Violent Storm",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/viostorm.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/viostorm-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zodiack",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/zodiack.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/zodiack-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Twinbee",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/twinbee.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/twinbee-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Astyanax",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/astyanax.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/astyanax-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Venture",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/venture.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/venture-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Turtles",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/turtles.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/turtles-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Berlin Wall",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/berlwall.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/berlwall-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "World Series: The Season",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/wseries.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/wseries-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Time Soldiers",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/timesold.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/timesold-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Real Ghostbusters",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ghostb.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ghostb-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vapor Trail - Hyper Offence Formation",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/vaportra.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/vaportra-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Return of Ishtar",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/roishtar.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/roishtar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zoar",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/zoar.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/zoar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Triple Punch",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/triplep.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/triplep-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Up'n Down",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/upndown.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/upndown-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tropical Angel",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/troangel.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/troangel-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wizard Of Wor",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/wow.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/wow-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Final Round",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/fround.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/fround-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dog Fight",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dogfight.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dogfight-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Green Beret",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gberet.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gberet-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Donkey Kong 3",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dkong3.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dkong3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "City Bomber",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/citybomb.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/citybomb-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Block Block",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/block.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/block-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hammerin' Harry",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hharry.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hharry-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hydra",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hydra.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hydra-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Challenger",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/challeng.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/challeng-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jump Bug",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/jumpbug.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/jumpbug-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jail Break",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/jailbrek.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/jailbrek-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cop 01",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/cop01.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/cop01-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cheyenne",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/cheyenne.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/cheyenne-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Champion Wrestler",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/champwr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/champwr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Datsun 280 Zzzap",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/280zzzap.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/280zzzap-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Food Fight",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/foodf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/foodf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bonanza Bros",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bnzabros.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bnzabros-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chase H.q.",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/chasehq.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/chasehq-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bogey Manor",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bogeyman.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bogeyman-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gauntlet 2",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gaunt2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gaunt2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Curve Ball",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/curvebal.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/curvebal-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crazy Climber 2",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/cclimbr2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/cclimbr2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Colony 7",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/colony7.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/colony7-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Devil World",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/devilw.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/devilw-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crude Buster",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/cbuster.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/cbuster-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gradius III",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gradius3.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gradius3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battle Of Atlantis",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/atlantis.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/atlantis-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "E.D.F. : Earth Defense Force",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/edf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/edf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Flicky",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/flicky.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/flicky-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gorf",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gorf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gorf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bombjack Twin",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bjtwin.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bjtwin-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Elevator Action",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/elevator.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/elevator-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Burning Force",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/burnforc.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/burnforc-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Goindol",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/goindol.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/goindol-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "D-day",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dday.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dday-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blue Print",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/blueprnt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/blueprnt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jumping Jack",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/jjack.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/jjack-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dino Rex",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dinorex.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dinorex-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gaplus",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gaplus.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gaplus-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ambush",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/videos/ambush-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ambush-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Burger Time",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/btime.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/btime-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hoccer",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hoccer.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hoccer-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bay Route",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bayroute.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bayroute-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Galaga '88",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/galaga88.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/galaga88-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Assault",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/assault.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/assault-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Devil Fish",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/devilfsh.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/devilfsh-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Drift Out",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/driftout.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/driftout-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Canyon Bomber",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/canyon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/canyon-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Double Dragon",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ddragon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ddragon-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hat Trick",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hattrick.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hattrick-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Best Bout Boxing",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bbbxing.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bbbxing-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cosmo Gang The Video",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/cosmogng.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/cosmogng-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bagman",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bagman.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bagman-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "John Elway's Team Quarterback",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/teamqb.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/teamqb-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Caliber 50",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/calibr50.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/calibr50-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hippodrome",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hippodrm.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hippodrm-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kageki",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/kageki.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/kageki-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Image Fight",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/imgfight.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/imgfight-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fever SOS",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/feversos.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dfeveron-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "In The Hunt",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/inthunt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/inthunt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gang Busters",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gbusters.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gbusters-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dark Seal",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/darkseal.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/darkseal-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Funky Fish",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/fnkyfish.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/fnkyfish-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Saber",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dsaber.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dsaber-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blood Bros.",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bloodbro.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bloodbro-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hit The Ice",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hitice.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hitice-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Eyes",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/eyes.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/eyes-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Captain America And The Avengers",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/captaven.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/captaven-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Golden Axe",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/goldnaxe.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/goldnaxe-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gimme A Break",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gimeabrk.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gimeabrk-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Big Karnak",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bigkarnk.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bigkarnk-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gunforce - Battle Fire Engulfed Terror Island",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gunforce.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gunforce-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Escape From The Planet Of The Robot Monsters",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/eprom.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/eprom-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Anteater",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/anteater.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/anteater-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battle Lane! Vol. 5",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/battlane.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/battlane-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Block Out",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/blockout.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/blockout-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Darwin 4078",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/darwin.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/darwin-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Athena",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/athena.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/athena-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bank Panic",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bankp.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bankp-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Danny Sullivan's Indy Heat",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/indyheat.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/indyheat-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Frogger",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/frogger.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/frogger-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Extra Bases",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ebases.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ebases-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Football Champ",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/footchmp.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/footchmp-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Buster",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/drgnbstr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/drgnbstr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battlantis",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/battlnts.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/battlnts-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Exerion",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/exerion.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/exerion-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Guzzler",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/guzzler.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/guzzler-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Do! Run Run",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dorunrun.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dorunrun-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aurail",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/aurail.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/aurail-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blades Of Steel",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bladestl.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bladestl-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "DragonBall Z",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dbz.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dbz-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dig Dug II",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/digdug2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/digdug2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Flying Shark",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/fshark.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/fshark-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Double Dragon 3 - The Rosetta Stone",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ddragon3.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ddragon3-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Frisky Tom",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/friskyt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/friskyt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "City Connection",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/citycon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/citycon-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Final Star Force",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/fstarfrc.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/fstarfrc-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Avalanche",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/avalnche.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/avalnche-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gang Wars",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gangwars.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gangwars-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gondomania",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gondo.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gondo-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Don Doko Don",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dondokod.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dondokod-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blandia",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/blandia.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/blandia-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Brute Force",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/brutforc.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/brutforc-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jr. Pac-man",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/jrpacman.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/jrpacman-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Contra",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/contra.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/contra-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Demon's World",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/demonwld.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/demonwld-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chiller",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/chiller.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/chiller-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Boot Hill",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/boothill.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/boothill-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Championship Sprint",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/csprint.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/csprint-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crossbow",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/crossbow.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/crossbow-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Amidar",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/amidar.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/amidar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hard Hat",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hardhat.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hardhat-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Double Dribble",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ddribble.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ddribble-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blade Master",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bmaster.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bmaster-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Circus Charlie",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/circusc.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/circusc-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dead Connection",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/deadconx.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/deadconx-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hot Shocker",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hotshock.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hotshock-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hyper Sports",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hyperspt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hyperspt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dyger",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dyger.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dyger-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Columns",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/columns.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/columns-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alpine Ski",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/alpine.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/alpine-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Buck Rogers: Planet of Zoom",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/buckrog.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/buckrog-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bad Lands",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/badlands.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/badlands-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Karate Blazers",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/karatblz.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/karatblz-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kid Niki - Radical Ninja",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/kidniki.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/kidniki-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Congo Bongo",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/congo.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/congo-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "I, Robot",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/irobot.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/irobot-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crystal Castles",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ccastles.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ccastles-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kicker",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/kicker.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/kicker-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cerberus",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/cerberus.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/cerberus-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Exciting Soccer",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/exctsccr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/exctsccr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bump 'n' Jump",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/brubber.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/brubber-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jackal",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/jackal.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/jackal-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Baluba-louk No Densetsu",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/baluba.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/baluba-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Back Street Soccer",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bssoccer.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bssoccer-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Garyo Retsuden",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/garyoret.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/garyoret-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Growl",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/growl.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/growl-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lock'n'chase",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/lnc.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/lnc-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gridiron Fight",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gridiron.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gridiron-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Armored Car",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/armorcar.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/armorcar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bomb Bee",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bombbee.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bombbee-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Centipede",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/centiped.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/centiped-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crazy Balloon",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/crbaloon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/crbaloon-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chicken Shift",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/cshift.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/cshift-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bucky O'Hare",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bucky.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bucky-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fantasy",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/fantasy.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/fantasy-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dangerous Seed",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dangseed.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dangseed-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Body Slam",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bodyslam.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bodyslam-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cloak &amp; Dagger",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/cloak.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/cloak-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Capcom Bowling",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/capbowl.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/capbowl-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Goalie Ghost",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gghost.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gghost-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "High Impact Football",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hiimpact.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hiimpact-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cosmo Police Galivan",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/galivan.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/galivan-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Astro Blaster",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/astrob.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/astrob-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Eliminator",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/elim2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/elim2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Haunted Castle",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hcastle.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hcastle-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chelnov - Atomic Runner",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/chelnov.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/chelnov-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hachoo!",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hachoo.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hachoo-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crime Fighters",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/crimfght.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/crimfght-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Caveman Ninja",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/cninja.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/cninja-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hang-on",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hangon.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hangon-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Arabian",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/arabian.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/arabian-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crime City",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/crimec.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/crimec-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chopper I",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/chopper.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/chopper-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Heavyweight Champ",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hwchamp.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hwchamp-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blazer",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/blazer.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/blazer-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Arkanoid - Revenge Of Doh",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/arknoid2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/arknoid2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Heavy Barrel",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hbarrel.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hbarrel-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Intrepid",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/intrepid.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/intrepid-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bonze Adventure",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bonzeadv.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bonzeadv-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gladiator",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gladiatr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gladiatr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Danger Zone",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dangerz.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dangerz-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Donkey Kong Junior",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dkongjr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dkongjr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Express Raider",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/exprraid.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/exprraid-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Apb - All Points Bulletin",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/apb.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/apb-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ironman Ivan Stewart's Super Off-road Track-pak",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/offroadt.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/offroadt-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cheeky Mouse",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/cheekyms.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/cheekyms-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kick And Run",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/kicknrun.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/kicknrun-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blasteroids",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/blstroid.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/blstroid-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fighting Hawk",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/fhawk.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/fhawk-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dream Soccer '94",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dsoccr94.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dsoccr94-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Galactic Warriors",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gwarrior.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gwarrior-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Devastators",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/devstors.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/devstors-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hook",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hook.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hook-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bells &amp; Whistles",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/blswhstl.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/blswhstl-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gravitar",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/gravitar.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/gravitar-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crazy Climber",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/cclimber.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/cclimber-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bomb Jack",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bombjack.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bombjack-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Combat",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/combat.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/combat-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Grobda",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/grobda.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/grobda-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kick Rider",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/kickridr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/kickridr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battle Chopper",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bchopper.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bchopper-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "F-1 Dream",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/f1dream.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/f1dream-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chequered Flag",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/chqflag.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/chqflag-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Karnov",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/karnov.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/karnov-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Double Dragon II - The Revenge",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ddragon2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ddragon2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "High Way Race",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/hwrace.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/hwrace-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Break Thru",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/brkthru.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/brkthru-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Spirit",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dspirit.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dspirit-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Empire City: 1931",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/empcity.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/empcity-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ironman Ivan Stewart's Super Off-road",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/offroad.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/offroad-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Big Striker",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/bigstrik.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/bigstrik-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Calipso",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/calipso.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/calipso-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Indiana Jones And The Temple Of Doom",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/indytemp.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/indytemp-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blast Off",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/blastoff.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/blastoff-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dynamite Duke",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dynduke.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dynduke-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Biomechanical Toy",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/biomtoy.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/biomtoy-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Front Line",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/frontlin.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/frontlin-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Extermination",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/extrmatn.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/extrmatn-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jack The Giantkiller",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/jack.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/jack-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pitfall II",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/pitfall2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/pitfall2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mortal Kombat 2",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mk2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mk2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Avenging Spirit",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/avspirit.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/avspirit-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Astro Fighter",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/astrof.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/astrof-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Asteroids Deluxe",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/astdelux.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/astdelux-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Donkey Kong",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/dkong.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/dkong-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mortal Kombat 3",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mk3.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mk3-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Battletoads",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/btoads.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/btoads-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ultimate Mortal Kombat 3",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/umk3.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/umk3-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Mortal Kombat",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/mk.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/mk-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "64th. Street - A Detective Story",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/64street.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/64street-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "After Burner II",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/aburner2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/aburner2-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Act-fancer Cybernetick Hyper Weapon",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/actfancr.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/actfancr-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Air Duel",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/airduel.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/airduel-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Airwolf",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/airwolf.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/airwolf-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ajax",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ajax.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ajax-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alien Syndrome",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/aliensyn.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/aliensyn-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Argus",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/argus.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/argus-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Arkanoid",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/arkanoid.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/arkanoid-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aso - Armored Scrum Object",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/aso.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/aso-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Asterix",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/asterix.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/asterix-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Asteroids",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/asteroid.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/asteroid-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ataxx",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/ataxx.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/ataxx-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bad Dudes vs. Dragonninja",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/videos/baddudes-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/baddudes-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Batman",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/batman.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/batman-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Karate Champ",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/kchamp.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/kchamp-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aliens",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/aliens.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/aliens-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Killer Instinct",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/videos/ki1.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/marquee/ki1.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Killer Instinct 2",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/videos/ki2.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/marquee/ki2.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Legend Of Hero Tonma",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/loht.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/loht-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "2 On 2 Open Ice Challenge",
+    "console": "mame",
+    "video": "https://ggbox.com.br/jogos/mame/media/videos/openice.mp4",
+    "imagem": "https://ggbox.com.br/jogos/mame/images/openice-marquee.png",
+    "pack": "pack_standard"
+  }
+]

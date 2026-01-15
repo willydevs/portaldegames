@@ -1,0 +1,2438 @@
+[
+  {
+    "Nome": "Trick Boarder",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Trick%20Boarder%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Trick%20Boarder%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hole In One Golf",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Hole%20In%20One%20Golf%20(USA)%20(Rumble%20Version)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Hole%20In%20One%20Golf%20(USA)%20(Rumble%20Version)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Warlocked",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Warlocked%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Warlocked%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tiny Toon Adventures : Buster Saves the Day",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tiny%20Toon%20Adventures%20-%20Buster%20Saves%20the%20Day%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tiny%20Toon%20Adventures%20-%20Buster%20Saves%20the%20Day%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Army Men : Air Combat",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Army%20Men%20-%20Air%20Combat%20(USA%2C%20Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Army%20Men%20-%20Air%20Combat%20(USA%2C%20Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Suzuki Alstare Extreme Racing",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Suzuki%20Alstare%20Extreme%20Racing%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Suzuki%20Alstare%20Extreme%20Racing%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Legend of the River King 2",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Legend%20of%20the%20River%20King%202%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Legend%20of%20the%20River%20King%202%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Catz : Your Virtual Petz Palz",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Catz%20-%20Your%20Virtual%20Petz%20Palz%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Catz%20-%20Your%20Virtual%20Petz%20Palz%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Diva Starz : Mall Mania",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Diva%20Starz%20-%20Mall%20Mania%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Diva%20Starz%20-%20Mall%20Mania%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Action Man : Search for Base X",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Action%20Man%20-%20Search%20for%20Base%20X%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Action%20Man%20-%20Search%20for%20Base%20X%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gobs of Games",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Gobs%20of%20Games%20(USA)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Gobs%20of%20Games%20(USA)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Antz Racing",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Antz%20Racing%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Antz%20Racing%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Swiv",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/SWIV%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/SWIV%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Thunderbirds",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Thunderbirds%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Thunderbirds%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rats!",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Rats!%20(USA)%20(En%2CEs)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Rats!%20(USA)%20(En%2CEs)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Woody Woodpecker",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Woody%20Woodpecker%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Woody%20Woodpecker%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tonka Raceway",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tonka%20Raceway%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tonka%20Raceway%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Beauty and the Beast : A Board Game Adventure",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Beauty%20and%20the%20Beast%20-%20A%20Board%20Game%20Adventure%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Beauty%20and%20the%20Beast%20-%20A%20Board%20Game%20Adventure%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Road Champs : BXS Stunt Biking",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Road%20Champs%20-%20BXS%20Stunt%20Biking%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Road%20Champs%20-%20BXS%20Stunt%20Biking%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wario Land II",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Wario%20Land%20II%20(USA%2C%20Europe)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Wario%20Land%20II%20(USA%2C%20Europe)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "WCW Mayhem",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/WCW%20Mayhem%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/WCW%20Mayhem%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Revelations : The Demon Slayer",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Revelations%20-%20The%20Demon%20Slayer%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Revelations%20-%20The%20Demon%20Slayer%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Santa Claus Junior",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Santa%20Claus%20Junior%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Santa%20Claus%20Junior%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tweenies - Doodles' Bones",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tweenies%20-%20Doodles'%20Bones%20(Europe)%20(En%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tweenies%20-%20Doodles'%20Bones%20(Europe)%20(En%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "WWF Attitude",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/WWF%20Attitude%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/WWF%20Attitude%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Evel Knievel",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Evel%20Knievel%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Evel%20Knievel%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hugo 2 1-2",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Hugo%202%201-2%20(Germany)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Hugo%202%201-2%20(Germany)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Power Rangers : Lightspeed Rescue",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Power%20Rangers%20-%20Lightspeed%20Rescue%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Power%20Rangers%20-%20Lightspeed%20Rescue%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Land Before Time",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Land%20Before%20Time%2C%20The%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Land%20Before%20Time%2C%20The%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pokémon: Crystal Version",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Pokemon%20-%20Crystal%20Version%20(USA%2C%20Europe)%20(Rev%20A)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Pokemon%20-%20Crystal%20Version%20(USA%2C%20Europe)%20(Rev%20A)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Marvin Strikes Back!",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Marvin%20Strikes%20Back!%20(USA)%20(En%2CFr%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Marvin%20Strikes%20Back!%20(USA)%20(En%2CFr%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bionic Commando : Elite Forces",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Bionic%20Commando%20-%20Elite%20Forces%20(USA%2C%20Australia)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Bionic%20Commando%20-%20Elite%20Forces%20(USA%2C%20Australia)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Championship Motocross 2001 featuring Ricky Carmic",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Championship%20Motocross%202001%20featuring%20Ricky%20Carmichael%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Championship%20Motocross%202001%20featuring%20Ricky%20Carmichael%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rip-tide Racer",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Rip-Tide%20Racer%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Rip-Tide%20Racer%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tom and Jerry in Mouse Attacks!",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tom%20and%20Jerry%20in%20Mouse%20Attacks!%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tom%20and%20Jerry%20in%20Mouse%20Attacks!%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tiger Woods PGA Tour 2000",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tiger%20Woods%20PGA%20Tour%202000%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tiger%20Woods%20PGA%20Tour%202000%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dexter's Laboratory : Robot Rampage",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Dexter's%20Laboratory%20-%20Robot%20Rampage%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Dexter's%20Laboratory%20-%20Robot%20Rampage%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "New York Race",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/N.Y.%20Race%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CPt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/N.Y.%20Race%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CPt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Antz World Sportz",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Antz%20World%20Sportz%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Antz%20World%20Sportz%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kirby : Tilt 'n' Tumble",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Kirby%20-%20Tilt%20'n'%20Tumble%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Kirby%20-%20Tilt%20'n'%20Tumble%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Las Vegas Cool Hand",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Las%20Vegas%20Cool%20Hand%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Las%20Vegas%20Cool%20Hand%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Animorphs",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Animorphs%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Animorphs%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rugrats in Paris : The Movie",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Rugrats%20in%20Paris%20-%20The%20Movie%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Rugrats%20in%20Paris%20-%20The%20Movie%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tiny Toon Adventures: Dizzy's Candy Quest",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tiny%20Toon%20Adventures%20-%20Dizzy's%20Candy%20Quest%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tiny%20Toon%20Adventures%20-%20Dizzy's%20Candy%20Quest%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Mummy",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Mummy%2C%20The%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Mummy%2C%20The%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Metal Gear Solid",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Metal%20Gear%20Solid%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Metal%20Gear%20Solid%20(USA)-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Chase H.Q. : Secret Police",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Chase%20H.Q.%20-%20Secret%20Police%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Chase%20H.Q.%20-%20Secret%20Police%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "F1 World Grand Prix II for Game Boy Color",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/F1%20World%20Grand%20Prix%20II%20for%20Game%20Boy%20Color%20(USA)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/F1%20World%20Grand%20Prix%20II%20for%20Game%20Boy%20Color%20(USA)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Asteroids",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Asteroids%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Asteroids%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Chinese Fighter Ex",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Super%20Chinese%20Fighter%20EX%20(Japan)%20(T)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Super%20Chinese%20Fighter%20EX%20(Japan)%20(T)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "720 Degrees",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/720%20Degrees%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/720%20Degrees%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "102 Dalmatians : Puppies to the Rescue",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/102%20Dalmatians%20-%20Puppies%20to%20the%20Rescue%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/102%20Dalmatians%20-%20Puppies%20to%20the%20Rescue%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Polaris SnoCross",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Polaris%20SnoCross%20(USA)%20(Rumble%20Version)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Polaris%20SnoCross%20(USA)%20(Rumble%20Version)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Batman of the Future : Return of the Joker",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Batman%20Beyond%20-%20Return%20of%20the%20Joker%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Batman%20Beyond%20-%20Return%20of%20the%20Joker%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zoboomafoo : Playtime in Zobooland",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Zoboomafoo%20-%20Playtime%20in%20Zobooland%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Zoboomafoo%20-%20Playtime%20in%20Zobooland%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Xtreme Wheels",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Xtreme%20Wheels%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Xtreme%20Wheels%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Klustar",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Klustar%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Klustar%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Vigilante 8",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Vigilante%208%20(USA)%20(Rumble%20Version)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Vigilante%208%20(USA)%20(Rumble%20Version)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mickey's Racing Adventure",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Mickey's%20Racing%20Adventure%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Mickey's%20Racing%20Adventure%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Adventures of Elmo in Grouchland",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Adventures%20of%20Elmo%20in%20Grouchland%2C%20The%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Adventures%20of%20Elmo%20in%20Grouchland%2C%20The%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "NFL Blitz 2000",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/NFL%20Blitz%202000%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/NFL%20Blitz%202000%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rocket Power : Gettin' Air",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Rocket%20Power%20-%20Gettin'%20Air%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Rocket%20Power%20-%20Gettin'%20Air%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Daffy Duck : Fowl Play",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Daffy%20Duck%20-%20Fowl%20Play%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Daffy%20Duck%20-%20Fowl%20Play%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Croc",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Croc%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Croc%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "X-Men : Mutant Academy",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/X-Men%20-%20Mutant%20Academy%20(USA%2C%20Europe)%20(Rev%20A)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/X-Men%20-%20Mutant%20Academy%20(USA%2C%20Europe)%20(Rev%20A)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sesame Street Sports",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Sesame%20Street%20Sports%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Sesame%20Street%20Sports%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Astérix : Search for Dogmatix",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Asterix%20-%20Search%20for%20Dogmatix%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Asterix%20-%20Search%20for%20Dogmatix%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rayman",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Rayman%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Rayman%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tonic Trouble",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tonic%20Trouble%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tonic%20Trouble%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chicken Run",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Chicken%20Run%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Chicken%20Run%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Towers : Lord Baniff's Deceit",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Towers%20-%20Lord%20Baniff's%20Deceit%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Towers%20-%20Lord%20Baniff's%20Deceit%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pokémon : Gold Version",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Pokemon%20-%20Gold%20Version%20(USA%2C%20Europe)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Pokemon%20-%20Gold%20Version%20(USA%2C%20Europe)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Magical Chase GB - Minarai Mahoutsukai Kenja no Ta",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Magical%20Chase%20GB%20-%20Minarai%20Mahoutsukai%20Kenja%20no%20Tani%20e%20(Japan)%20(T)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Magical%20Chase%20GB%20-%20Minarai%20Mahoutsukai%20Kenja%20no%20Tani%20e%20(Japan)%20(T)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Legend of the River King GB",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Legend%20of%20the%20River%20King%20GB%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Legend%20of%20the%20River%20King%20GB%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Backgammon",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Backgammon%20(Europe)%20(En%2CFr%2CDe%2CEs)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Backgammon%20(Europe)%20(En%2CFr%2CDe%2CEs)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Metal Walker",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Metal%20Walker%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Metal%20Walker%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Monsters, Inc.",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Monsters%2C%20Inc.%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Monsters%2C%20Inc.%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tazmanian Devil : Munching Madness",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tazmanian%20Devil%20-%20Munching%20Madness%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tazmanian%20Devil%20-%20Munching%20Madness%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ultimate Fighting Championship",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Ultimate%20Fighting%20Championship%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Ultimate%20Fighting%20Championship%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Emperor's New Groove, The",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Emperor's%20New%20Groove%2C%20The%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Emperor's%20New%20Groove%2C%20The%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lucky Luke",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Lucky%20Luke%20(USA)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Lucky%20Luke%20(USA)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Road Rash",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Road%20Rash%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Road%20Rash%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Dance",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Dragon%20Dance%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Dragon%20Dance%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The New Batman Adventures : Chaos in Gotham",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/New%20Batman%20Adventures%2C%20The%20-%20Chaos%20in%20Gotham%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/New%20Batman%20Adventures%2C%20The%20-%20Chaos%20in%20Gotham%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Robocop",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/RoboCop%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/RoboCop%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Nations, The - Land Of Legends",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Nations%2C%20The%20-%20Land%20of%20Legends%20(Europe)%20(En%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Nations%2C%20The%20-%20Land%20of%20Legends%20(Europe)%20(En%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Carl Lewis Athletics 2000",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Carl%20Lewis%20Athletics%202000%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Carl%20Lewis%20Athletics%202000%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Atv Racing",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/ATV%20Racing%20(Europe)%20(Unl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/ATV%20Racing%20(Europe)%20(Unl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Legend of Zelda : Oracle of Seasons",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Seasons%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Seasons%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "TOCA Touring Car Championship",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/TOCA%20Touring%20Car%20Championship%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/TOCA%20Touring%20Car%20Championship%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Austin Powers : Oh, Behave!",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Austin%20Powers%20-%20Oh%2C%20Behave!%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Austin%20Powers%20-%20Oh%2C%20Behave!%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Monkey Puncher",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Monkey%20Puncher%20(Europe)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Monkey%20Puncher%20(Europe)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Baby Felix - Halloween",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Baby%20Felix%20-%20Halloween%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Baby%20Felix%20-%20Halloween%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Daiku No Gen-san - Kachikachi No Tonkachi Ga Kachi",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Daiku%20no%20Gen-san%20-%20Kachikachi%20no%20Tonkachi%20ga%20Kachi%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible)%20(T)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Daiku%20no%20Gen-san%20-%20Kachikachi%20no%20Tonkachi%20ga%20Kachi%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible)%20(T)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Toy Story Racer",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Toy%20Story%20Racer%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Toy%20Story%20Racer%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Mario Bros. Deluxe",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Super%20Mario%20Bros.%20Deluxe%20(USA%2C%20Europe)%20(Rev%20B)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Super%20Mario%20Bros.%20Deluxe%20(USA%2C%20Europe)%20(Rev%20B)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Yoda Stories",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Yoda%20Stories%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Yoda%20Stories%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gold and Glory : The Road to El Dorado",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Gold%20and%20Glory%20-%20The%20Road%20to%20El%20Dorado%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Gold%20and%20Glory%20-%20The%20Road%20to%20El%20Dorado%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Winnie the Pooh : Adventures in the 100 Acre Wood",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Winnie%20the%20Pooh%20-%20Adventures%20in%20the%20100%20Acre%20Wood%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Winnie%20the%20Pooh%20-%20Adventures%20in%20the%20100%20Acre%20Wood%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "International Superstar Soccer 2000",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/International%20Superstar%20Soccer%202000%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/International%20Superstar%20Soccer%202000%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Xtreme Sports",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Xtreme%20Sports%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Xtreme%20Sports%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wendy : Every Witch Way",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Wendy%20-%20Every%20Witch%20Way%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Wendy%20-%20Every%20Witch%20Way%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Tales : Dragon Adventures",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Dragon%20Tales%20-%20Dragon%20Adventures%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Dragon%20Tales%20-%20Dragon%20Adventures%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spider-Man 2 : The Sinister Six",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Spider-Man%202%20-%20The%20Sinister%20Six%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Spider-Man%202%20-%20The%20Sinister%20Six%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Keep The Balance",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Keep%20the%20Balance%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Keep%20the%20Balance%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Kirikou",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Kirikou%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CPt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Kirikou%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CPt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Monster Rancher Battle Card GB",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Monster%20Rancher%20Battle%20Card%20GB%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Monster%20Rancher%20Battle%20Card%20GB%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Test Drive 2001",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Test%20Drive%202001%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Test%20Drive%202001%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mr Nutz",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Mr%20Nutz%20(USA)%20(En%2CFr%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Mr%20Nutz%20(USA)%20(En%2CFr%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Denki Blocks!",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Denki%20Blocks!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Denki%20Blocks!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Snow White and the Seven Dwarfs",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Snow%20White%20and%20the%20Seven%20Dwarfs%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Snow%20White%20and%20the%20Seven%20Dwarfs%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Donald Duck : Goin' Quackers",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Donald%20Duck%20-%20Goin'%20Quackers%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Donald%20Duck%20-%20Goin'%20Quackers%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Trouballs",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Trouballs%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Trouballs%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Catwoman",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Catwoman%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Catwoman%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Commander Keen",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Commander%20Keen%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Commander%20Keen%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sylvanian Melodies - Mori no Nakama to Odori Mashi",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Sylvanian%20Melodies%20-%20Mori%20no%20Nakama%20to%20Odori%20Masho!%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible)%20(T)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Sylvanian%20Melodies%20-%20Mori%20no%20Nakama%20to%20Odori%20Masho!%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible)%20(T)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "No Fear - Downhill Mountain Biking",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/No%20Fear%20-%20Downhill%20Mountain%20Biking%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/No%20Fear%20-%20Downhill%20Mountain%20Biking%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mr. Driller",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Mr.%20Driller%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Mr.%20Driller%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Caterpillar Construction Zone",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Caterpillar%20Construction%20Zone%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Caterpillar%20Construction%20Zone%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sabrina : The Animated Series, Spooked!",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Sabrina%20-%20The%20Animated%20Series%20-%20Spooked!%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Sabrina%20-%20The%20Animated%20Series%20-%20Spooked!%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Adventures of the Smurfs",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Adventures%20of%20the%20Smurfs%2C%20The%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Adventures%20of%20the%20Smurfs%2C%20The%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "International Rally",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/International%20Rally%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/International%20Rally%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Austin Powers : Welcome to my Underground Lair!",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Austin%20Powers%20-%20Welcome%20to%20my%20Underground%20Lair!%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Austin%20Powers%20-%20Welcome%20to%20my%20Underground%20Lair!%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dracula : Crazy Vampire",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Dracula%20-%20Crazy%20Vampire%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Dracula%20-%20Crazy%20Vampire%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tomb Raider",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tomb%20Raider%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tomb%20Raider%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Bob the Builder : Fix it Fun!",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Bob%20the%20Builder%20-%20Fix%20it%20Fun!%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Bob%20the%20Builder%20-%20Fix%20it%20Fun!%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gremlins Unleashed",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Gremlins%20Unleashed%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CPt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Gremlins%20Unleashed%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CPt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Speedy Gonzales : Aztec Adventure",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Speedy%20Gonzales%20-%20Aztec%20Adventure%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Speedy%20Gonzales%20-%20Aztec%20Adventure%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rocky Mountain Trophy Hunter",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Rocky%20Mountain%20Trophy%20Hunter%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Rocky%20Mountain%20Trophy%20Hunter%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tetris DX",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tetris%20DX%20(World)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tetris%20DX%20(World)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Doug's Big Game",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Doug's%20Big%20Game%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Doug's%20Big%20Game%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wizardry Empire",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Wizardry%20Empire%20(Japan)%20(Rev%20A)%20(T)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Wizardry%20Empire%20(Japan)%20(Rev%20A)%20(T)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Walt Disney World Quest : Magical Racing Tour",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Walt%20Disney%20World%20Quest%20-%20Magical%20Racing%20Tour%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Walt%20Disney%20World%20Quest%20-%20Magical%20Racing%20Tour%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hello Kitty's Cube Frenzy",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Hello%20Kitty's%20Cube%20Frenzy%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Hello%20Kitty's%20Cube%20Frenzy%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Deadly Skies",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/AirForce%20Delta%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/AirForce%20Delta%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "International Superstar Soccer 99",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/International%20Superstar%20Soccer%2099%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/International%20Superstar%20Soccer%2099%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cool Bricks",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Cool%20Bricks%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Cool%20Bricks%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Super Breakout!",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Super%20Breakout!%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Super%20Breakout!%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mission : Impossible",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Mission%20Impossible%20(USA)%20(En%2CFr%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Mission%20Impossible%20(USA)%20(En%2CFr%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Player Manager 2001",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Player%20Manager%202001%20(Europe)%20(En%2CFr)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Player%20Manager%202001%20(Europe)%20(En%2CFr)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Resident Evil Gaiden",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Resident%20Evil%20Gaiden%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Resident%20Evil%20Gaiden%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "A Bug's Life",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Bug's%20Life%2C%20A%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Bug's%20Life%2C%20A%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Mummy Returns",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Mummy%20Returns%2C%20The%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Mummy%20Returns%2C%20The%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "VIP",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/VIP%20(USA)%20(En%2CFr%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/VIP%20(USA)%20(En%2CFr%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pocket Racing",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Pocket%20Racing%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Pocket%20Racing%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Xena : Warrior Princess",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Xena%20-%20Warrior%20Princess%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Xena%20-%20Warrior%20Princess%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Shadowgate Classic",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Shadowgate%20Classic%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CSv)%20(Rev%20A)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Shadowgate%20Classic%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CSv)%20(Rev%20A)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Armorines : Project S.W.A.R.M.",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Armorines%20-%20Project%20S.W.A.R.M.%20(USA%2C%20Europe)%20(En%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Armorines%20-%20Project%20S.W.A.R.M.%20(USA%2C%20Europe)%20(En%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shantae",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Shantae%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Shantae%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zidane Football Generation",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Zidane%20Football%20Generation%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Zidane%20Football%20Generation%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Toy Story 2",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Toy%20Story%202%20(USA%2C%20Europe)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Toy%20Story%202%20(USA%2C%20Europe)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Barbie : Fashion Pack Games",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Barbie%20-%20Fashion%20Pack%20Games%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Barbie%20-%20Fashion%20Pack%20Games%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bass Masters Classic",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Bass%20Masters%20Classic%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Bass%20Masters%20Classic%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Worms Armageddon",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Worms%20Armageddon%20(USA)%20(En%2CFr%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Worms%20Armageddon%20(USA)%20(En%2CFr%2CEs)-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Prince Naseem Boxing",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Prince%20Naseem%20Boxing%20(Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Prince%20Naseem%20Boxing%20(Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Grand Theft Auto 2",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Grand%20Theft%20Auto%202%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Grand%20Theft%20Auto%202%20(USA)-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Bomberman Max : Blue Champion",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Bomberman%20Max%20-%20Blue%20Champion%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Bomberman%20Max%20-%20Blue%20Champion%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mario Tennis",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Mario%20Tennis%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Mario%20Tennis%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Razor Freestyle Scooter",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Razor%20Freestyle%20Scooter%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Razor%20Freestyle%20Scooter%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hang Time Basketball",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Hang%20Time%20Basketball%20(Europe)%20(Unl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Hang%20Time%20Basketball%20(Europe)%20(Unl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ready 2 Rumble Boxing",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Ready%202%20Rumble%20Boxing%20(USA)%20(Rumble%20Version)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Ready%202%20Rumble%20Boxing%20(USA)%20(Rumble%20Version)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Street Fighter Alpha : Warriors' Dreams",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Street%20Fighter%20Alpha%20-%20Warriors'%20Dreams%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Street%20Fighter%20Alpha%20-%20Warriors'%20Dreams%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jeremy McGrath Supercross 2000",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Jeremy%20McGrath%20Supercross%202000%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Jeremy%20McGrath%20Supercross%202000%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Karate Joe",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Karate%20Joe%20(Europe)%20(Unl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Karate%20Joe%20(Europe)%20(Unl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Yars' Revenge",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Yars'%20Revenge%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Yars'%20Revenge%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "F1 Racing Championship",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/F1%20Racing%20Championship%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/F1%20Racing%20Championship%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "F-1 World Grand Prix",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/F-1%20World%20Grand%20Prix%20(Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/F-1%20World%20Grand%20Prix%20(Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tintin - Prisoners Of The Sun",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tintin%20-%20Prisoners%20of%20the%20Sun%20(Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tintin%20-%20Prisoners%20of%20the%20Sun%20(Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Babe and Friends",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Babe%20and%20Friends%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Babe%20and%20Friends%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Quest RPG : Brian's Journey",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Quest%20RPG%20-%20Brian's%20Journey%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Quest%20RPG%20-%20Brian's%20Journey%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ms. Pac-Man: Special Color Edition",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Ms.%20Pac-Man%20-%20Special%20Color%20Edition%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Ms.%20Pac-Man%20-%20Special%20Color%20Edition%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Atlantis : The Lost Empire",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Atlantis%20-%20The%20Lost%20Empire%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Atlantis%20-%20The%20Lost%20Empire%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Klax",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Klax%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Klax%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Robin Hood",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Robin%20Hood%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Robin%20Hood%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Crystalis",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Crystalis%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Crystalis%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jurassic Boy 2",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Jurassic%20Boy%202%20(World)%20(Rev%201)%20(Sachen)%20(No%20Copyright)%20(Unl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Jurassic%20Boy%202%20(World)%20(Rev%201)%20(Sachen)%20(No%20Copyright)%20(Unl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Tales : Dragon Wings",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Dragon%20Tales%20-%20Dragon%20Wings%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Dragon%20Tales%20-%20Dragon%20Wings%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hamtaro : Ham-Hams Unite!",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Hamtaro%20-%20Ham-Hams%20Unite!%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Hamtaro%20-%20Ham-Hams%20Unite!%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tyco RC : Racin' Ratz",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tyco%20RC%20-%20Racin'%20Ratz%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tyco%20RC%20-%20Racin'%20Ratz%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Billy Bob's Huntin' 'n' Fishin'",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Billy%20Bob's%20Huntin'%20'n'%20Fishin'%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Billy%20Bob's%20Huntin'%20'n'%20Fishin'%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "All Star Tennis 2000",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/All%20Star%20Tennis%202000%20(Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/All%20Star%20Tennis%202000%20(Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dave Mirra Freestyle BMX",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Dave%20Mirra%20Freestyle%20BMX%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Dave%20Mirra%20Freestyle%20BMX%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Shrek : Fairy Tale Freakdown",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Shrek%20-%20Fairy%20Tale%20Freakdown%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Shrek%20-%20Fairy%20Tale%20Freakdown%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Robopon : Sun Version",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Robopon%20-%20Sun%20Version%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Robopon%20-%20Sun%20Version%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Earthworm Jim : Menace 2 the Galaxy",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Earthworm%20Jim%20-%20Menace%202%20the%20Galaxy%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Earthworm%20Jim%20-%20Menace%202%20the%20Galaxy%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Grinch",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Grinch%2C%20The%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Grinch%2C%20The%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Ball Z : Legendary Super Warriors",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Dragon%20Ball%20Z%20-%20Legendary%20Super%20Warriors%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Dragon%20Ball%20Z%20-%20Legendary%20Super%20Warriors%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "QIX Adventure",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/QIX%20Adventure%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/QIX%20Adventure%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Woody Woodpecker Racing",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Woody%20Woodpecker%20Racing%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Woody%20Woodpecker%20Racing%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Jungle Book : Mowgli's Wild Adventure, The",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Jungle%20Book%2C%20The%20-%20Mowgli's%20Wild%20Adventure%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Jungle%20Book%2C%20The%20-%20Mowgli's%20Wild%20Adventure%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Papyrus",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Papyrus%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Papyrus%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cubix : Robots for Everyone, Race 'n Robots",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Cubix%20-%20Robots%20for%20Everyone%20-%20Race%20'n%20Robots%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Cubix%20-%20Robots%20for%20Everyone%20-%20Race%20'n%20Robots%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pro Pool",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Pro%20Pool%20(USA)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Pro%20Pool%20(USA)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "NBA Show Time : NBA on NBC",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/NBA%20Show%20Time%20-%20NBA%20on%20NBC%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/NBA%20Show%20Time%20-%20NBA%20on%20NBC%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lufia : The Legend Returns",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Lufia%20-%20The%20Legend%20Returns%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Lufia%20-%20The%20Legend%20Returns%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "All-Star Baseball 2000",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/All-Star%20Baseball%202000%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/All-Star%20Baseball%202000%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Puzzle Master",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Puzzle%20Master%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Puzzle%20Master%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Legend of Zelda : Link's Awakening DX, The",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Legend%20of%20Zelda%2C%20The%20-%20Link's%20Awakening%20DX%20(USA%2C%20Europe)%20(Rev%20B)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Legend%20of%20Zelda%2C%20The%20-%20Link's%20Awakening%20DX%20(USA%2C%20Europe)%20(Rev%20B)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Harry Potter and the Sorcerer's Stone",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Harry%20Potter%20and%20the%20Sorcerer's%20Stone%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Harry%20Potter%20and%20the%20Sorcerer's%20Stone%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blaster Master : Enemy Below",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Blaster%20Master%20-%20Enemy%20Below%20(USA%2C%20Europe)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Blaster%20Master%20-%20Enemy%20Below%20(USA%2C%20Europe)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wacky Races",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Wacky%20Races%20(USA)%20(En%2CFr%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Wacky%20Races%20(USA)%20(En%2CFr%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Micro Machines V3",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Micro%20Machines%20V3%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Micro%20Machines%20V3%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Godzilla : The Series, Monster Wars",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Godzilla%20-%20The%20Series%20-%20Monster%20Wars%20(USA)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Godzilla%20-%20The%20Series%20-%20Monster%20Wars%20(USA)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "All-Star Baseball 2001",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/All-Star%20Baseball%202001%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/All-Star%20Baseball%202001%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Triple Play 2001",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Triple%20Play%202001%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Triple%20Play%202001%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Warrior III",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Dragon%20Warrior%20III%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Dragon%20Warrior%20III%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Azure Dreams",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Azure%20Dreams%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Azure%20Dreams%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Mask of Zorro",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Mask%20of%20Zorro%2C%20The%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Mask%20of%20Zorro%2C%20The%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Q*bert",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Q-bert%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Q-bert%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Halloween Racer",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Halloween%20Racer%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CPt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Halloween%20Racer%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CPt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Resident Evil",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Resident%20Evil%20(Unknown)%20(Proto)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Resident%20Evil%20(Unknown)%20(Proto)-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Extreme Ghostbusters",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Extreme%20Ghostbusters%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CPt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Extreme%20Ghostbusters%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CPt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Noddy And The Birthday Party",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Noddy%20and%20the%20Birthday%20Party%20(Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Noddy%20and%20the%20Birthday%20Party%20(Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Fort Boyard",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Fort%20Boyard%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Fort%20Boyard%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tomb Raider : Curse of the Sword",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tomb%20Raider%20-%20Curse%20of%20the%20Sword%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tomb%20Raider%20-%20Curse%20of%20the%20Sword%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Harvest Moon 3 GBC",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Harvest%20Moon%203%20GBC%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Harvest%20Moon%203%20GBC%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dinosaur'us",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Dinosaur'us%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Dinosaur'us%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alice in Wonderland",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Alice%20in%20Wonderland%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Alice%20in%20Wonderland%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ken Griffey Jr.'s Slugfest",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Ken%20Griffey%20Jr.'s%20Slugfest%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Ken%20Griffey%20Jr.'s%20Slugfest%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Grand Theft Auto",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Grand%20Theft%20Auto%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Grand%20Theft%20Auto%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Portal Runner",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Portal%20Runner%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Portal%20Runner%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "X-Men : Wolverine's Rage",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/X-Men%20-%20Wolverine's%20Rage%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/X-Men%20-%20Wolverine's%20Rage%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Turok : Rage Wars",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Turok%20-%20Rage%20Wars%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Turok%20-%20Rage%20Wars%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Wario Land 3",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Wario%20Land%203%20(World)%20(En%2CJa)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Wario%20Land%203%20(World)%20(En%2CJa)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Test Drive 6",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Test%20Drive%206%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Test%20Drive%206%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tony Hawk's Pro Skater 3",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tony%20Hawk's%20Pro%20Skater%203%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tony%20Hawk's%20Pro%20Skater%203%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Toonsylvania",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Toonsylvania%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Toonsylvania%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hoyle Casino",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Hoyle%20Casino%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Hoyle%20Casino%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Toki Tori",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Toki%20Tori%20(USA%2C%20Europe)%20(En%2CJa%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Toki%20Tori%20(USA%2C%20Europe)%20(En%2CJa%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Power Spike : Pro Beach Volleyball",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Power%20Spike%20-%20Pro%20Beach%20Volleyball%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Power%20Spike%20-%20Pro%20Beach%20Volleyball%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Deer Hunter",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Deer%20Hunter%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Deer%20Hunter%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "X-Men : Mutant Wars",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/X-Men%20-%20Mutant%20Wars%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/X-Men%20-%20Mutant%20Wars%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rayman 2 : The Great Escape",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Rayman%202%20-%20The%20Great%20Escape%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Rayman%202%20-%20The%20Great%20Escape%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Robot Wars - Metal Mayhem",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Robot%20Wars%20-%20Metal%20Mayhem%20(Europe)%20(En%2CFr%2CDe%2CIt%2CNl%2CSv)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Robot%20Wars%20-%20Metal%20Mayhem%20(Europe)%20(En%2CFr%2CDe%2CIt%2CNl%2CSv)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Megami Tensei Gaiden: Last Bible II",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Megami%20Tensei%20Gaiden%20-%20Last%20Bible%20II%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible)%20(T)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Megami%20Tensei%20Gaiden%20-%20Last%20Bible%20II%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible)%20(T)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Project S-11",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Project%20S-11%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Project%20S-11%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Roadsters Trophy",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Roadsters%20Trophy%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Roadsters%20Trophy%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Daikatana",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Daikatana%20(USA)%20(Proto)%20(2000-04-19)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Daikatana%20(USA)%20(Proto)%20(2000-04-19)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Return of the Ninja",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Return%20of%20the%20Ninja%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Return%20of%20the%20Ninja%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tom Clancy's Rainbow Six",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tom%20Clancy's%20Rainbow%20Six%20(USA%2C%20Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tom%20Clancy's%20Rainbow%20Six%20(USA%2C%20Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Wild Thornberrys : Rambler",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Wild%20Thornberrys%2C%20The%20-%20Rambler%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Wild%20Thornberrys%2C%20The%20-%20Rambler%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Grandia: Parallel Trippers",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Grandia%20-%20Parallel%20Trippers%20(Japan)%20(T)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Grandia%20-%20Parallel%20Trippers%20(Japan)%20(T)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Micro Machines 1 and 2 : Twin Turbo",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Micro%20Machines%201%20and%202%20-%20Twin%20Turbo%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Micro%20Machines%201%20and%202%20-%20Twin%20Turbo%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bomberman Max : Red Challenger",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Bomberman%20Max%20-%20Red%20Challenger%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Bomberman%20Max%20-%20Red%20Challenger%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Spy vs. Spy",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Spy%20vs.%20Spy%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Spy%20vs.%20Spy%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Cruis'n Exotica",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Cruis'n%20Exotica%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Cruis'n%20Exotica%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rampage 2 : Universal Tour",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Rampage%202%20-%20Universal%20Tour%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Rampage%202%20-%20Universal%20Tour%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tom and Jerry : Mousehunt",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tom%20and%20Jerry%20-%20Mousehunt%20(USA)%20(En%2CFr%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tom%20and%20Jerry%20-%20Mousehunt%20(USA)%20(En%2CFr%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tech Deck Skateboarding",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tech%20Deck%20Skateboarding%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tech%20Deck%20Skateboarding%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Croc 2",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Croc%202%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Croc%202%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Battleship",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Battleship%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Battleship%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Motocross Maniacs 2",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Motocross%20Maniacs%202%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Motocross%20Maniacs%202%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Godzilla : The Series",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Godzilla%20-%20The%20Series%20(USA)%20(En%2CFr%2CDe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Godzilla%20-%20The%20Series%20(USA)%20(En%2CFr%2CDe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Armada : FX Racers",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Armada%20-%20FX%20Racers%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Armada%20-%20FX%20Racers%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Army Men",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Army%20Men%20(USA%2C%20Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Army%20Men%20(USA%2C%20Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Pocket Soccer",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Pocket%20Soccer%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CPt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Pocket%20Soccer%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CPt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "NSYNC : Get to the Show",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/NSYNC%20-%20Get%20to%20the%20Show%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/NSYNC%20-%20Get%20to%20the%20Show%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Turok 2 : Seeds of Evil",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Turok%202%20-%20Seeds%20of%20Evil%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Turok%202%20-%20Seeds%20of%20Evil%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Yu-Gi-Oh! : Dark Duel Stories",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Yu-Gi-Oh!%20-%20Dark%20Duel%20Stories%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Yu-Gi-Oh!%20-%20Dark%20Duel%20Stories%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "David Beckham Soccer",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/David%20Beckham%20Soccer%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/David%20Beckham%20Soccer%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mega Man Xtreme",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Mega%20Man%20Xtreme%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Mega%20Man%20Xtreme%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "TG Rally 2",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Top%20Gear%20Pocket%202%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Top%20Gear%20Pocket%202%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Warriors of Might and Magic",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Warriors%20of%20Might%20and%20Magic%20(USA)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Warriors%20of%20Might%20and%20Magic%20(USA)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Antz",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Antz%20(USA)%20(En%2CFr%2CEs)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Antz%20(USA)%20(En%2CFr%2CEs)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Little Nicky",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Little%20Nicky%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Little%20Nicky%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Test Drive Cycles",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Test%20Drive%20Cycles%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Test%20Drive%20Cycles%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "LEGO Alpha Team",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/LEGO%20Alpha%20Team%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/LEGO%20Alpha%20Team%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "3d Pocket Pool",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/3D%20Pocket%20Pool%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/3D%20Pocket%20Pool%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "F-18 Thunder Strike",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/F-18%20Thunder%20Strike%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/F-18%20Thunder%20Strike%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bomberman Quest",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Bomberman%20Quest%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Bomberman%20Quest%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Indiana Jones and the Infernal Machine",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Indiana%20Jones%20and%20the%20Infernal%20Machine%20(USA%2C%20Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Indiana%20Jones%20and%20the%20Infernal%20Machine%20(USA%2C%20Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "BattleTanx",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/BattleTanx%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/BattleTanx%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "TNN Outdoors Fishing Champ",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/TNN%20Outdoors%20Fishing%20Champ%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/TNN%20Outdoors%20Fishing%20Champ%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "World Destruction League : Thunder Tanks",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/World%20Destruction%20League%20-%20Thunder%20Tanks%20(USA)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/World%20Destruction%20League%20-%20Thunder%20Tanks%20(USA)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rampage : World Tour",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Rampage%20-%20World%20Tour%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Rampage%20-%20World%20Tour%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Lion King : Simba's Mighty Adventure, The",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Lion%20King%2C%20The%20-%20Simba's%20Mighty%20Adventure%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Lion%20King%2C%20The%20-%20Simba's%20Mighty%20Adventure%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Legend of Zelda : Oracle of Ages",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Ages%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Ages%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "V-Rally : Championship Edition",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/V-Rally%20-%20Championship%20Edition%20(USA)%20(En%2CFr%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/V-Rally%20-%20Championship%20Edition%20(USA)%20(En%2CFr%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ultimate Surfing",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Ultimate%20Surfing%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Ultimate%20Surfing%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Perfect Dark",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Perfect%20Dark%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Rumble%20Version)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Perfect%20Dark%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Rumble%20Version)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "10-Pin Bowling",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/10-Pin%20Bowling%20(USA)%20(Rumble%20Version)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/10-Pin%20Bowling%20(USA)%20(Rumble%20Version)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rugrats : Totally Angelica",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Rugrats%20-%20Totally%20Angelica%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Rugrats%20-%20Totally%20Angelica%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "R-Type DX",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/R-Type%20DX%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/R-Type%20DX%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Men in Black 2 : The Series",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Men%20in%20Black%202%20-%20The%20Series%20(USA)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Men%20in%20Black%202%20-%20The%20Series%20(USA)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Chessmaster",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Chessmaster%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Chessmaster%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Ultimate Paint Ball",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Ultimate%20Paint%20Ball%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Ultimate%20Paint%20Ball%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aliens : Thanatos Encounter",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Aliens%20-%20Thanatos%20Encounter%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Aliens%20-%20Thanatos%20Encounter%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Turok 3 : Shadow of Oblivion",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Turok%203%20-%20Shadow%20of%20Oblivion%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Turok%203%20-%20Shadow%20of%20Oblivion%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Conker's Pocket Tales",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Conker's%20Pocket%20Tales%20(USA%2C%20Europe)%20(En%2CFr%2CDe)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Conker's%20Pocket%20Tales%20(USA%2C%20Europe)%20(En%2CFr%2CDe)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Muppets",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Muppets%2C%20The%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Muppets%2C%20The%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Invaders",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Space%20Invaders%20(USA%2C%20Europe)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Space%20Invaders%20(USA%2C%20Europe)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Elmo's 123s",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Elmo's%20123s%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Elmo's%20123s%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Test Drive Off-Road 3",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Test%20Drive%20Off-Road%203%20(USA)%20(Rumble%20Version)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Test%20Drive%20Off-Road%203%20(USA)%20(Rumble%20Version)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Knockout Kings",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Knockout%20Kings%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Knockout%20Kings%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alfred's Adventure",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Alfred's%20Adventure%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Alfred's%20Adventure%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Flintstones : Burgertime in Bedrock",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Flintstones%2C%20The%20-%20Burgertime%20in%20Bedrock%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Flintstones%2C%20The%20-%20Burgertime%20in%20Bedrock%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Uno",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Uno%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Uno%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Top Gun : Fire Storm",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Top%20Gun%20-%20Fire%20Storm%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Top%20Gun%20-%20Fire%20Storm%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tweety's High-Flying Adventure",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tweety's%20High-Flying%20Adventure%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tweety's%20High-Flying%20Adventure%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "NASCAR Challenge",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/NASCAR%20Challenge%20(USA)%20(Rumble%20Version)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/NASCAR%20Challenge%20(USA)%20(Rumble%20Version)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Sylvanian Families - Otogi No Kuni No Pendant",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Sylvanian%20Families%20-%20Otogi%20no%20Kuni%20no%20Pendant%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible)%20(T)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Sylvanian%20Families%20-%20Otogi%20no%20Kuni%20no%20Pendant%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible)%20(T)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dragon Warrior Monsters 2 : Tara's Adventure",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Dragon%20Warrior%20Monsters%202%20-%20Tara's%20Adventure%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Dragon%20Warrior%20Monsters%202%20-%20Tara's%20Adventure%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Gex 3 : Deep Pocket Gecko",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Gex%203%20-%20Deep%20Pocket%20Gecko%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Gex%203%20-%20Deep%20Pocket%20Gecko%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Frogger 2",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Frogger%202%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Frogger%202%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rampart",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Rampart%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Rampart%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Space Marauder",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Space%20Marauder%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Space%20Marauder%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Harry Potter and the Chamber of Secrets",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CDa)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CDa)-marquee.png",
+    "pack": "pack_adicional"
+  },
+  {
+    "Nome": "Centipede",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Centipede%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Centipede%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Who Wants to Be a Millionaire : 2nd Edition",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Who%20Wants%20to%20Be%20a%20Millionaire%20-%202nd%20Edition%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Who%20Wants%20to%20Be%20a%20Millionaire%20-%202nd%20Edition%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Rescue Heroes : Fire Frenzy",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Rescue%20Heroes%20-%20Fire%20Frenzy%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Rescue%20Heroes%20-%20Fire%20Frenzy%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tony Hawk's Pro Skater",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tony%20Hawk's%20Pro%20Skater%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tony%20Hawk's%20Pro%20Skater%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Logical",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Logical%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Logical%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "MTV Sports : Pure Ride",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/MTV%20Sports%20-%20Pure%20Ride%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/MTV%20Sports%20-%20Pure%20Ride%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Army Men 2",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Army%20Men%202%20(USA%2C%20Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Army%20Men%202%20(USA%2C%20Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Zebco Fishing!",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Zebco%20Fishing!%20(USA)%20(Rumble%20Version)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Zebco%20Fishing!%20(USA)%20(Rumble%20Version)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "ECW Hardcore Revolution",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/ECW%20Hardcore%20Revolution%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/ECW%20Hardcore%20Revolution%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Golden Goal",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Golden%20Goal%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Golden%20Goal%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Maus, Die",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Maus%2C%20Die%20(Europe)%20(En%2CFr%2CDe%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Maus%2C%20Die%20(Europe)%20(En%2CFr%2CDe%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dogz : Your Virtual Petz Palz",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Dogz%20-%20Your%20Virtual%20Petz%20Palz%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Dogz%20-%20Your%20Virtual%20Petz%20Palz%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tony Hawk's Pro Skater 2",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tony%20Hawk's%20Pro%20Skater%202%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tony%20Hawk's%20Pro%20Skater%202%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "3-D Ultra Pinball : Thrillride",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/3-D%20Ultra%20Pinball%20-%20Thrillride%20(USA)%20(Rumble%20Version)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/3-D%20Ultra%20Pinball%20-%20Thrillride%20(USA)%20(Rumble%20Version)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hugo - Black Diamond Fever",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Hugo%20-%20Black%20Diamond%20Fever%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Hugo%20-%20Black%20Diamond%20Fever%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%2CFi)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Hexcite : The Shapes of Victory",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Hexcite%20-%20The%20Shapes%20of%20Victory%20(USA%2C%20Europe)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Hexcite%20-%20The%20Shapes%20of%20Victory%20(USA%2C%20Europe)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Classic Bubble Bobble",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Classic%20Bubble%20Bobble%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Classic%20Bubble%20Bobble%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Smurfs Nightmare",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Smurfs%20Nightmare%2C%20The%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Smurfs%20Nightmare%2C%20The%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Titus the Fox to Marrakech and Back",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Titus%20the%20Fox%20to%20Marrakech%20and%20Back%20(USA)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Titus%20the%20Fox%20to%20Marrakech%20and%20Back%20(USA)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "The Powerpuff Girls : Paint the Townsville Green",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Powerpuff%20Girls%2C%20The%20-%20Paint%20the%20Townsville%20Green%20(USA)%20(Rev%20B)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Powerpuff%20Girls%2C%20The%20-%20Paint%20the%20Townsville%20Green%20(USA)%20(Rev%20B)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Blade",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Blade%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Blade%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Moomin's Tale",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Moomin's%20Tale%20(Europe)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Moomin's%20Tale%20(Europe)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Tootuff",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Tootuff%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Tootuff%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Arthur's Absolutely Fun Day!",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Arthur's%20Absolutely%20Fun%20Day!%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Arthur's%20Absolutely%20Fun%20Day!%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Little Magic",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Little%20Magic%20(Japan)%20(T)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Little%20Magic%20(Japan)%20(T)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Galaga : Destination Earth",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Galaga%20-%20Destination%20Earth%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Galaga%20-%20Destination%20Earth%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Donkey Kong Country",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Donkey%20Kong%20Country%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Donkey%20Kong%20Country%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Mega Man Xtreme 2",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Mega%20Man%20Xtreme%202%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Mega%20Man%20Xtreme%202%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Extreme Sports with the Berenstain Bears",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Extreme%20Sports%20with%20the%20Berenstain%20Bears%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Extreme%20Sports%20with%20the%20Berenstain%20Bears%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "O'leary Manager 2000",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/O'Leary%20Manager%202000%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CCa)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/O'Leary%20Manager%202000%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CCa)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Madden NFL 2000",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Madden%20NFL%202000%20(USA%2C%20Europe)%20(SGB%20Enhanced)%20(GB%20Compatible)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Madden%20NFL%202000%20(USA%2C%20Europe)%20(SGB%20Enhanced)%20(GB%20Compatible)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Thunder Blast Man",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Thunder%20Blast%20Man%20(Europe)%20(1B-003%2C%20Sachen)%20(Unl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Thunder%20Blast%20Man%20(Europe)%20(1B-003%2C%20Sachen)%20(Unl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Top Gear Rally",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Top%20Gear%20Pocket%20(USA)%20(Rumble%20Version)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Top%20Gear%20Pocket%20(USA)%20(Rumble%20Version)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Bear in the Big Blue House",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Bear%20in%20the%20Big%20Blue%20House%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Bear%20in%20the%20Big%20Blue%20House%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Dinosaur",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Dinosaur%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Dinosaur%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Colin Mcrae Rally",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Colin%20McRae%20Rally%20(Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Colin%20McRae%20Rally%20(Europe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Force 21",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Force%2021%20(USA)%20(En%2CFr%2CDe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Force%2021%20(USA)%20(En%2CFr%2CDe)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Aladdin",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Aladdin%20(USA)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Aladdin%20(USA)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Alone in the Dark : The New Nightmare",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/Alone%20in%20the%20Dark%20-%20The%20New%20Nightmare%20(USA)%20(En%2CFr%2CEs)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/Alone%20in%20the%20Dark%20-%20The%20New%20Nightmare%20(USA)%20(En%2CFr%2CEs)-marquee.png",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "Game Boy Color",
+    "console": "gbc",
+    "video": "",
+    "imagem": "",
+    "pack": "pack_standard"
+  },
+  {
+    "Nome": "007 : The World Is Not Enough",
+    "console": "gbc",
+    "video": "https://ggbox.com.br/jogos/gbc/videos/007%20-%20The%20World%20Is%20Not%20Enough%20(USA%2C%20Europe)-video.mp4",
+    "imagem": "https://ggbox.com.br/jogos/gbc/images/007%20-%20The%20World%20Is%20Not%20Enough%20(USA%2C%20Europe)-marquee.png",
+    "pack": "pack_standard"
+  }
+]

@@ -189,7 +189,7 @@ const GPBoxProducts = () => {
                             {/* Store Logo */}
                             <div className="w-20 h-20 rounded-full p-1 bg-gradient-to-br from-blue-500 to-purple-600 shadow-lg shrink-0">
                                 <div className="w-full h-full bg-white dark:bg-slate-900 rounded-full p-1">
-                                    <img src="/logo.png" alt="GPBOX Logo" className="w-full h-full object-contain rounded-full" />
+                                    <img src="/logos/logo.png" alt="GPBOX Logo" className="w-full h-full object-contain rounded-full" />
                                 </div>
                             </div>
 

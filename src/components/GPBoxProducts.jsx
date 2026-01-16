@@ -1,6 +1,7 @@
 import React, { useRef, useState, useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import Button from './ui/Button';
+import StorePreviewModal from './ui/StorePreviewModal';
 
 const ProductCard = ({ title, oldPrice, price, description, features, recommended, isBestSeller, image }) => (
     <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 dark:border-slate-800 flex flex-col min-w-[300px] md:min-w-[350px] snap-center group h-full">
@@ -56,6 +57,19 @@ const GPBoxProducts = () => {
     const location = useLocation();
     const [isHovered, setIsHovered] = useState(false);
     const [isPaused, setIsPaused] = useState(false);
+    const [isModalOpen, setIsModalOpen] = useState(false);
+
+    const gpboxStoreData = {
+        name: "GPBOX",
+        logo: "/logos/logo.png",
+        verified: true,
+        sales: "+3 mil vendas",
+        videos: [
+            "1Q1o3-VH_V0",
+            "OoK9jhdaLm8",
+            "c7uQrlQnj_I"
+        ]
+    };
 
     // Auto-scroll logic similar to ConsoleLists
     useEffect(() => {
@@ -178,8 +192,11 @@ const GPBoxProducts = () => {
         <section className="py-20 bg-gray-50 dark:bg-slate-950 transition-colors duration-300" id="products">
             <div className="container mx-auto px-4 md:px-6">
                 <div className="flex flex-col md:flex-row items-center justify-between mb-8 md:mb-12 gap-6">
-                    {/* Store Card Container */}
-                    <div className="bg-white dark:bg-slate-900 rounded-[2rem] p-6 shadow-xl shadow-slate-200/50 dark:shadow-slate-950/50 border border-gray-100 dark:border-slate-800 w-full max-w-md mx-auto md:mx-0 relative overflow-hidden group">
+                    {/* Store Card Container - Now Clickable */}
+                    <div
+                        className="bg-white dark:bg-slate-900 rounded-[2rem] p-6 shadow-xl shadow-slate-200/50 dark:shadow-slate-950/50 border border-gray-100 dark:border-slate-800 w-full max-w-md mx-auto md:mx-0 relative overflow-hidden group cursor-pointer hover:scale-[1.02] transition-transform duration-300"
+                        onClick={() => setIsModalOpen(true)}
+                    >
 
                         {/* Glow Effect */}
                         <div className="absolute top-0 right-0 w-32 h-32 bg-blue-500/10 rounded-full blur-3xl -mr-16 -mt-16 pointer-events-none"></div>
@@ -275,6 +292,13 @@ const GPBoxProducts = () => {
                     </div>
                 </div>
             </div>
+
+            {/* Store Preview Modal */}
+            <StorePreviewModal
+                isOpen={isModalOpen}
+                onClose={() => setIsModalOpen(false)}
+                store={gpboxStoreData}
+            />
         </section>
     );
 };

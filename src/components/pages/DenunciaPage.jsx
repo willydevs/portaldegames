@@ -1,13 +1,17 @@
 import React, { useState, useEffect } from 'react';
 import Button from '../ui/Button';
+import emailjs from '@emailjs/browser';
 
-const InputField = ({ label, type = "text", placeholder, required }) => (
+const InputField = ({ label, type = "text", placeholder, required, name, value, onChange }) => (
     <div className="mb-6">
         <label className="block text-sm font-bold text-gray-700 dark:text-gray-300 mb-2">
             {label} {required && <span className="text-red-500">*</span>}
         </label>
         <input
             type={type}
+            name={name}
+            value={value}
+            onChange={onChange}
             className="w-full px-4 py-3 rounded-lg border border-gray-300 dark:border-slate-700 bg-white dark:bg-slate-900 text-gray-900 dark:text-white focus:border-primary focus:ring-2 focus:ring-primary/20 transition-colors outline-none"
             placeholder={placeholder}
             required={required}
@@ -15,13 +19,18 @@ const InputField = ({ label, type = "text", placeholder, required }) => (
     </div>
 );
 
-const SelectField = ({ label, options, required }) => (
+const SelectField = ({ label, options, required, name, value, onChange }) => (
     <div className="mb-6">
         <label className="block text-sm font-bold text-gray-700 dark:text-gray-300 mb-2">
             {label} {required && <span className="text-red-500">*</span>}
         </label>
         <div className="relative">
-            <select className="w-full px-4 py-3 rounded-lg border border-gray-300 dark:border-slate-700 bg-white dark:bg-slate-900 text-gray-900 dark:text-white focus:border-primary focus:ring-2 focus:ring-primary/20 transition-colors outline-none appearance-none">
+            <select
+                name={name}
+                value={value}
+                onChange={onChange}
+                className="w-full px-4 py-3 rounded-lg border border-gray-300 dark:border-slate-700 bg-white dark:bg-slate-900 text-gray-900 dark:text-white focus:border-primary focus:ring-2 focus:ring-primary/20 transition-colors outline-none appearance-none"
+            >
                 <option value="">Selecione uma opção</option>
                 {options.map((opt, idx) => (
                     <option key={idx} value={opt}>{opt}</option>
@@ -38,6 +47,71 @@ const DenunciaPage = () => {
     useEffect(() => {
         window.scrollTo(0, 0);
     }, []);
+
+    const [loading, setLoading] = useState(false);
+    const [status, setStatus] = useState({ type: '', message: '' });
+
+    const [formData, setFormData] = useState({
+        from_name: '',
+        reply_to: '',
+        nature_type: '',
+        infringing_link: '',
+        message: '',
+        rights_holder_status: '',
+        trademark_link: '',
+        official_site_link: ''
+    });
+
+    const handleChange = (e) => {
+        const { name, value } = e.target;
+        setFormData(prev => ({
+            ...prev,
+            [name]: value
+        }));
+    };
+
+    const handleSubmit = (e) => {
+        e.preventDefault();
+        setLoading(true);
+        setStatus({ type: '', message: '' });
+
+        const serviceId = 'service_4zz2jxd';
+        const templateId = 'template_lt72c6q';
+        const publicKey = '-2I_xWwgjXncVaevP';
+
+        const templateParams = {
+            from_name: formData.from_name,
+            reply_to: formData.reply_to,
+            nature_type: formData.nature_type,
+            infringing_link: formData.infringing_link,
+            message: formData.message,
+            rights_holder_status: formData.rights_holder_status,
+            trademark_link: formData.trademark_link,
+            official_site_link: formData.official_site_link
+        };
+
+        emailjs.send(serviceId, templateId, templateParams, publicKey)
+            .then((response) => {
+                console.log('SUCCESS!', response.status, response.text);
+                setStatus({ type: 'success', message: 'Denúncia recebida. Analisaremos as informações enviadas.' });
+                setFormData({
+                    from_name: '',
+                    reply_to: '',
+                    nature_type: '',
+                    infringing_link: '',
+                    message: '',
+                    rights_holder_status: '',
+                    trademark_link: '',
+                    official_site_link: ''
+                });
+            }, (err) => {
+                console.log('FAILED...', err);
+                setStatus({ type: 'error', message: 'Falha ao enviar denúncia. Tente novamente.' });
+            })
+            .finally(() => {
+                setLoading(false);
+            });
+    };
 
     return (
         <div className="relative min-h-screen bg-gray-50 dark:bg-slate-950 pt-24 pb-20 transition-colors duration-300">
@@ -68,17 +142,33 @@ const DenunciaPage = () => {
                     </div>
                 </div>
 
-                <form className="bg-white dark:bg-slate-900 rounded-2xl shadow-xl border border-gray-100 dark:border-slate-800 p-8 md:p-10">
+                <form onSubmit={handleSubmit} className="bg-white dark:bg-slate-900 rounded-2xl shadow-xl border border-gray-100 dark:border-slate-800 p-8 md:p-10">
                     <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-8 border-b border-gray-100 dark:border-slate-800 pb-4">
                         Formulário de Denúncia de Direitos Autorais
                     </h3>
 
-                    <InputField label="Seu Nome" required />
-                    <InputField label="Seu E-mail para Contato" type="email" required />
+                    <InputField
+                        label="Seu Nome"
+                        required
+                        name="from_name"
+                        value={formData.from_name}
+                        onChange={handleChange}
+                    />
+                    <InputField
+                        label="Seu E-mail para Contato"
+                        type="email"
+                        required
+                        name="reply_to"
+                        value={formData.reply_to}
+                        onChange={handleChange}
+                    />
 
                     <SelectField
                         label="Qual é a natureza da denúncia?"
                         required
+                        name="nature_type"
+                        value={formData.nature_type}
+                        onChange={handleChange}
                         options={[
                             "Uso não autorizado de imagem",
                             "Uso não autorizado de texto",
@@ -87,13 +177,23 @@ const DenunciaPage = () => {
                         ]}
                     />
 
-                    <InputField label="Link para o Conteúdo Infrator" placeholder="https://..." required />
+                    <InputField
+                        label="Link para o Conteúdo Infrator"
+                        placeholder="https://..."
+                        required
+                        name="infringing_link"
+                        value={formData.infringing_link}
+                        onChange={handleChange}
+                    />
 
                     <div className="mb-6">
                         <label className="block text-sm font-bold text-gray-700 dark:text-gray-300 mb-2">
                             Descrição Detalhada da Violação <span className="text-red-500">*</span>
                         </label>
                         <textarea
+                            name="message"
+                            value={formData.message}
+                            onChange={handleChange}
                             className="w-full px-4 py-3 rounded-lg border border-gray-300 dark:border-slate-700 bg-white dark:bg-slate-900 text-gray-900 dark:text-white focus:border-primary focus:ring-2 focus:ring-primary/20 transition-colors outline-none h-32 resize-y"
                             required
                         ></textarea>
@@ -102,6 +202,9 @@ const DenunciaPage = () => {
                     <SelectField
                         label="Você é o detentor dos direitos autorais ou está denunciando em nome do detentor?"
                         required
+                        name="rights_holder_status"
+                        value={formData.rights_holder_status}
+                        onChange={handleChange}
                         options={[
                             "Sou o detentor dos direitos",
                             "Estou denunciando em nome do detentor",
@@ -109,12 +212,37 @@ const DenunciaPage = () => {
                         ]}
                     />
 
-                    <InputField label="Link do Registro da Marca (se aplicável)" />
-                    <InputField label="Link do Site Oficial do Detentor (se aplicável)" />
+                    <InputField
+                        label="Link do Registro da Marca (se aplicável)"
+                        name="trademark_link"
+                        value={formData.trademark_link}
+                        onChange={handleChange}
+                    />
+                    <InputField
+                        label="Link do Site Oficial do Detentor (se aplicável)"
+                        name="official_site_link"
+                        value={formData.official_site_link}
+                        onChange={handleChange}
+                    />
+
+                    {status.message && (
+                        <div className={`mb-6 p-4 rounded-lg text-sm ${status.type === 'success'
+                                ? 'bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400'
+                                : 'bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-400'
+                            }`}>
+                            {status.message}
+                        </div>
+                    )}
 
                     <div className="mt-8">
-                        <Button variant="primary" fullWidth size="lg" className="shadow-xl shadow-red-600/20 bg-red-600 hover:bg-red-700 border-red-600">
-                            Enviar Denúncia
+                        <Button
+                            variant="primary"
+                            fullWidth
+                            size="lg"
+                            className="shadow-xl shadow-red-600/20 bg-red-600 hover:bg-red-700 border-red-600"
+                            disabled={loading}
+                        >
+                            {loading ? 'Enviando...' : 'Enviar Denúncia'}
                         </Button>
                     </div>
 

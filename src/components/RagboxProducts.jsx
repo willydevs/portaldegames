@@ -116,7 +116,7 @@ const RagboxProducts = () => {
             title: "PENDRIVE RETRÔ 32GB",
             oldPrice: "120,00",
             price: "89,90",
-            image: "/products/ragbox-pendrive-retro.png",
+            image: "/products/pendrive-retro.png",
             badge: "Plug & Play",
             description: "Sistema Multijogos via boot. Transforme qualquer PC em uma máquina retrô. São 32GB de jogos configurados."
         }

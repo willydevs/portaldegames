@@ -63,7 +63,7 @@
     "pack": "pack_standard"
   },
   {
-    "Nome": "sonicwi2",
+    "Nome": "Sonic Wings 2",
     "console": "arcade",
     "video": "https://ggbox.com.br/jogos/arcade/videos/sonicwi2.mp4",
     "imagem": "https://ggbox.com.br/jogos/arcade/images/sonicwi2-marquee.png",
@@ -77,14 +77,14 @@
     "pack": "pack_standard"
   },
   {
-    "Nome": "truxton2",
+    "Nome": "Truxton II",
     "console": "arcade",
     "video": "https://ggbox.com.br/jogos/arcade/videos/truxton2.mp4",
     "imagem": "https://ggbox.com.br/jogos/arcade/images/truxton2-marquee.png",
     "pack": "pack_standard"
   },
   {
-    "Nome": "unsquad",
+    "Nome": "U.N. Squadron",
     "console": "arcade",
     "video": "https://ggbox.com.br/jogos/arcade/videos/unsquad.mp4",
     "imagem": "https://ggbox.com.br/jogos/arcade/images/unsquad-marquee.png",

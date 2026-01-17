@@ -1,6 +1,7 @@
 import React, { useRef, useState, useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import Button from './ui/Button';
+import StorePreviewModal from './ui/StorePreviewModal';
 
 // Importing images
 import logoGGBox from '../assets/images/empresas/logo-ggbox-colored.png';
@@ -63,11 +64,20 @@ const ProductCard = ({ title, oldPrice, price, description, image, link }) => (
     </div>
 );
 
+const ggboxStoreData = {
+    name: "GGBOX",
+    logo: logoGGBox,
+    verified: true,
+    sales: "+5 mil vendas",
+    videos: ["1Q1o3-VH_V0", "OoK9jhdaLm8", "c7uQrlQnj_I"] // Moved from GPBox
+};
+
 const GGBoxProducts = () => {
     const scrollRef = useRef(null);
     const location = useLocation();
     const [isHovered, setIsHovered] = useState(false);
     const [isPaused, setIsPaused] = useState(false);
+    const [isModalOpen, setIsModalOpen] = useState(false);
 
     // Auto-scroll logic
     useEffect(() => {
@@ -168,34 +178,60 @@ const GGBoxProducts = () => {
         <section className="py-20 bg-gray-50 dark:bg-slate-950 transition-colors duration-300 border-t border-gray-200 dark:border-slate-800" id="ggbox">
             <div className="container mx-auto px-4 md:px-6">
                 <div className="flex flex-col md:flex-row items-center justify-between mb-12">
-                    <div className="flex items-center gap-4 mb-6 md:mb-0">
-                        {/* Store Logo */}
-                        <div className="w-16 h-16 rounded-lg border border-gray-100 dark:border-slate-800 p-1 bg-white dark:bg-slate-900 shadow-sm shrink-0">
-                            <img src={logoGGBox} alt="GGBox Logo" className="w-full h-full object-contain rounded-md" />
+                    {/* Store Card Container - Now Clickable */}
+                    <div
+                        className="bg-white dark:bg-slate-900 rounded-[2rem] p-6 shadow-xl shadow-slate-200/50 dark:shadow-slate-950/50 border border-gray-100 dark:border-slate-800 w-full max-w-md mx-auto md:mx-0 relative overflow-hidden group cursor-pointer hover:scale-[1.02] transition-transform duration-300"
+                        onClick={() => setIsModalOpen(true)}
+                    >
+
+                        {/* Glow Effect */}
+                        <div className="absolute top-0 right-0 w-32 h-32 bg-orange-500/10 rounded-full blur-3xl -mr-16 -mt-16 pointer-events-none"></div>
+
+                        {/* Top Config: Logo + Info */}
+                        <div className="flex items-center gap-5 mb-6 relative z-10">
+                            {/* Store Logo */}
+                            <div className="w-20 h-20 rounded-full p-1 bg-gradient-to-br from-orange-400 to-red-500 shadow-lg shrink-0">
+                                <div className="w-full h-full bg-white dark:bg-slate-900 rounded-full p-1">
+                                    <img src={logoGGBox} alt="GGBox Logo" className="w-full h-full object-contain rounded-full" />
+                                </div>
+                            </div>
+
+                            {/* Store Info */}
+                            <div className="text-left flex-grow">
+                                <span className="text-gray-500 dark:text-gray-400 font-medium text-sm block mb-0.5">
+                                    {location.pathname === '/lojas' ? 'Loja Parceira' : 'Loja em Destaque'}
+                                </span>
+                                <div className="flex items-center gap-1.5 mb-1">
+                                    <h2 className="text-2xl font-bold text-gray-900 dark:text-white tracking-tight">GGBOX</h2>
+                                    {/* Blue Verified Badge */}
+                                    <svg className="w-5 h-5 text-blue-500" viewBox="0 0 24 24" fill="currentColor">
+                                        <path d="M22.5 12.5c0-1.58-.875-2.95-2.148-3.6.154-.435.238-.905.238-1.4 0-2.21-1.71-4-3.99-4-.485 0-.96.084-1.4.238C14.45 2.375 13.08 1.5 11.5 1.5c-1.58 0-2.95.875-3.6 2.148-.435-.154-.905-.238-1.4-.238-2.21 0-4 1.71-4 3.99 0 .485.084.96.238 1.4C1.375 9.55.5 10.92.5 12.5c0 1.58.875 2.95 2.148 3.6-.154.435-.238.905-.238 1.4 0 2.21 1.71 4 3.99 4 .485 0 .96-.084 1.4-.238C8.55 22.625 9.92 23.5 11.5 23.5c1.58 0 2.95-.875 3.6-2.148.435.154.905.238 1.4.238 2.21 0 4-1.71 4-3.99 0-.485-.084-.96-.238-1.4C21.625 15.45 22.5 14.08 22.5 12.5zM9.04 17.5l-4.5-4.5 1.42-1.42 3.08 3.08 8.08-8.08 1.42 1.42-9.5 9.5z"></path>
+                                    </svg>
+                                </div>
+                                <div className="text-sm text-gray-500 dark:text-gray-400 leading-tight">
+                                    Vendido por <span className="text-blue-600 dark:text-blue-400 font-medium">Portal de Games</span>
+                                </div>
+                                <div className="text-sm font-bold text-gray-900 dark:text-white mt-1">
+                                    +5 mil vendas
+                                </div>
+                            </div>
                         </div>
 
-                        {/* Store Info */}
-                        <div className="text-left">
-                            <div className="flex items-center gap-1.5">
-                                <span className="text-gray-500 dark:text-gray-400 font-normal">
-                                    {location.pathname === '/lojas' ? 'Loja' : 'Loja em destaque'}
-                                </span>
-                                <h2 className="text-lg font-bold text-gray-900 dark:text-white">GGBOX</h2>
-                                {/* Blue Verified Badge */}
-                                <svg className="w-5 h-5 text-blue-500" viewBox="0 0 20 20" fill="currentColor">
-                                    <path fillRule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
-                                </svg>
+                        {/* Delivery Banner */}
+                        <div className="bg-gray-50 dark:bg-slate-800/50 rounded-xl p-3 flex items-center justify-between group-hover:bg-slate-100 dark:group-hover:bg-slate-800 transition-colors cursor-default">
+                            <div className="flex items-center gap-2">
+                                <svg className="w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 24 24"><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" /></svg>
+                                <span className="text-gray-600 dark:text-gray-300 font-bold text-xs uppercase tracking-wider">Entrega <span className="text-green-600 dark:text-green-400">Imediata</span></span>
                             </div>
-                            <div className="text-sm text-gray-500 dark:text-gray-400">
-                                Vendido por <span className="text-blue-500 hover:underline cursor-pointer">Portal de Games</span>
-                            </div>
+                            <svg className="w-4 h-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" /></svg>
                         </div>
                     </div>
+
                     {/* Navigation */}
-                    <div className="flex items-center gap-2">
-                        <button onClick={scrollLeft} className="p-3 rounded-full bg-white border border-gray-200 hover:bg-gray-100 dark:bg-slate-800 dark:border-slate-700 dark:hover:bg-slate-700 text-gray-600 dark:text-gray-300 transition-colors focus:outline-none shadow-sm"><svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 19l-7-7 7-7" /></svg></button>
-                        <button onClick={togglePause} className={`p-3 rounded-full border border-gray-200 dark:border-slate-700 transition-colors focus:outline-none shadow-sm ${isPaused ? 'bg-red-50 text-red-600 border-red-100 dark:bg-red-900/20 dark:text-red-400 dark:border-red-900' : 'bg-white text-gray-600 hover:bg-gray-100 dark:bg-slate-800 dark:text-gray-300 dark:hover:bg-slate-700'}`}>{isPaused ? <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" /><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg> : <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 9v6m4-6v6m7-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>}</button>
-                        <button onClick={scrollRight} className="p-3 rounded-full bg-white border border-gray-200 hover:bg-gray-100 dark:bg-slate-800 dark:border-slate-700 dark:hover:bg-slate-700 text-gray-600 dark:text-gray-300 transition-colors focus:outline-none shadow-sm"><svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" /></svg></button>
+                    <div className="flex items-center justify-center gap-4 w-full md:w-auto">
+                        <button onClick={scrollLeft} className="p-4 rounded-full bg-white border border-gray-200 hover:bg-gray-100 dark:bg-slate-800 dark:border-slate-700 dark:hover:bg-slate-700 text-gray-600 dark:text-gray-300 transition-all focus:outline-none shadow-lg hover:shadow-xl active:scale-95"><svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 19l-7-7 7-7" /></svg></button>
+                        <button onClick={togglePause} className={`p-4 rounded-full border border-gray-200 dark:border-slate-700 transition-all focus:outline-none shadow-lg hover:shadow-xl active:scale-95 ${isPaused ? 'bg-red-50 text-red-600 border-red-100 dark:bg-red-900/20 dark:text-red-400 dark:border-red-900' : 'bg-white text-gray-600 hover:bg-gray-100 dark:bg-slate-800 dark:text-gray-300 dark:hover:bg-slate-700'}`}>{isPaused ? <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" /><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg> : <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 9v6m4-6v6m7-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>}</button>
+                        <button onClick={scrollRight} className="p-4 rounded-full bg-white border border-gray-200 hover:bg-gray-100 dark:bg-slate-800 dark:border-slate-700 dark:hover:bg-slate-700 text-gray-600 dark:text-gray-300 transition-all focus:outline-none shadow-lg hover:shadow-xl active:scale-95"><svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" /></svg></button>
                     </div>
                 </div>
 
@@ -207,6 +243,13 @@ const GGBoxProducts = () => {
                     </div>
                 </div>
             </div>
+
+            {/* Store Preview Modal */}
+            <StorePreviewModal
+                isOpen={isModalOpen}
+                onClose={() => setIsModalOpen(false)}
+                store={ggboxStoreData}
+            />
         </section>
     );
 };

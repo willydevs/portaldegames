@@ -80,11 +80,11 @@ const LojasPage = () => {
             {/* Ragbox Section (New) */}
             <RagboxProducts />
 
-            {/* GGBox Section (New) */}
-            <GGBoxProducts />
-
             {/* Playbox Section (Reused) */}
             <PlayboxProducts />
+
+            {/* GGBox Section (New) */}
+            <GGBoxProducts />
 
             {/* Other Stores Grid */}
             <section className="py-20 bg-gray-50 dark:bg-slate-900 transition-colors duration-300">

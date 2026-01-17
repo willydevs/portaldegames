@@ -1,6 +1,7 @@
 import React, { useRef, useState, useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import Button from './ui/Button';
+import StorePreviewModal from './ui/StorePreviewModal';
 import playboxLogo from '../assets/images/empresas/playbox-reserva.webp';
 
 const ProductCard = ({ title, oldPrice, price, description, features, recommended, isBestSeller, image, color }) => (
@@ -64,6 +65,18 @@ const ProductCard = ({ title, oldPrice, price, description, features, recommende
     </div>
 );
 
+const playboxStoreData = {
+    name: "Playbox",
+    logo: playboxLogo,
+    verified: true,
+    sales: "+1 mil vendas",
+    videos: [
+        { type: 'instagram', id: 'DTd2TN1jnnQ' },
+        { type: 'instagram', id: 'DTdgyPmjmtv' },
+        { type: 'instagram', id: 'DTObpyXjk8w' }
+    ]
+};
+
 const PlayboxProducts = () => {
     const scrollRef = useRef(null);
     const location = useLocation();
@@ -72,6 +85,7 @@ const PlayboxProducts = () => {
     const [isDown, setIsDown] = useState(false);
     const [startX, setStartX] = useState(0);
     const [scrollLeftState, setScrollLeftState] = useState(0);
+    const [isModalOpen, setIsModalOpen] = useState(false);
 
     // Auto-scroll logic
     useEffect(() => {
@@ -185,7 +199,10 @@ const PlayboxProducts = () => {
             <div className="container mx-auto px-4 md:px-6">
                 <div className="flex flex-col md:flex-row items-center justify-between mb-8 md:mb-12 gap-6">
                     {/* Store Card Container */}
-                    <div className="bg-white dark:bg-slate-900 rounded-[2rem] p-6 shadow-xl shadow-slate-200/50 dark:shadow-slate-950/50 border border-gray-100 dark:border-slate-800 w-full max-w-md mx-auto md:mx-0 relative overflow-hidden group">
+                    <div
+                        className="bg-white dark:bg-slate-900 rounded-[2rem] p-6 shadow-xl shadow-slate-200/50 dark:shadow-slate-950/50 border border-gray-100 dark:border-slate-800 w-full max-w-md mx-auto md:mx-0 relative overflow-hidden group cursor-pointer hover:scale-[1.02] transition-transform duration-300"
+                        onClick={() => setIsModalOpen(true)}
+                    >
 
                         {/* Glow Effect */}
                         <div className="absolute top-0 right-0 w-32 h-32 bg-yellow-500/10 rounded-full blur-3xl -mr-16 -mt-16 pointer-events-none"></div>
@@ -277,6 +294,14 @@ const PlayboxProducts = () => {
                     </div>
                 </div>
             </div>
+
+            {/* Store Preview Modal */}
+            <StorePreviewModal
+                isOpen={isModalOpen}
+                onClose={() => setIsModalOpen(false)}
+                store={playboxStoreData}
+            />
+
         </section>
     );
 };

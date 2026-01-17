@@ -65,9 +65,9 @@ const GPBoxProducts = () => {
         verified: true,
         sales: "+3 mil vendas",
         videos: [
-            "1Q1o3-VH_V0",
-            "OoK9jhdaLm8",
-            "c7uQrlQnj_I"
+            "pCFptaSdw6I",
+            "4nmd8hs5Id4",
+            "5Xdv1dhwQtc"
         ]
     };
 

@@ -1,6 +1,7 @@
 import React, { useRef, useState, useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import Button from './ui/Button';
+import StorePreviewModal from './ui/StorePreviewModal';
 
 // Importing logo
 import ragboxLogo from '../assets/images/empresas/ragbox.png';
@@ -63,11 +64,24 @@ const ProductCard = ({ title, oldPrice, price, description, image, badge }) => (
     </div>
 );
 
+const ragboxStoreData = {
+    name: "RAGBOX",
+    logo: ragboxLogo,
+    verified: true,
+    sales: "+10 mil vendas",
+    videos: [
+        { type: 'instagram', id: 'DNk-L6zxvrl' },
+        { type: 'instagram', id: 'C_HWo7LvuP_' },
+        { type: 'instagram', id: 'DNn2GD8Rj0F' }
+    ]
+};
+
 const RagboxProducts = () => {
     const scrollRef = useRef(null);
     const location = useLocation();
     const [isHovered, setIsHovered] = useState(false);
     const [isPaused, setIsPaused] = useState(false);
+    const [isModalOpen, setIsModalOpen] = useState(false); // Modal State
 
     // Auto-scroll logic
     useEffect(() => {
@@ -127,7 +141,10 @@ const RagboxProducts = () => {
             <div className="container mx-auto px-4 md:px-6">
                 <div className="flex flex-col md:flex-row items-center justify-between mb-8 md:mb-12 gap-6">
                     {/* Store Card Container */}
-                    <div className="bg-white dark:bg-slate-900 rounded-[2rem] p-6 shadow-xl shadow-slate-200/50 dark:shadow-slate-950/50 border border-gray-100 dark:border-slate-800 w-full max-w-md mx-auto md:mx-0 relative overflow-hidden group">
+                    <div
+                        className="bg-white dark:bg-slate-900 rounded-[2rem] p-6 shadow-xl shadow-slate-200/50 dark:shadow-slate-950/50 border border-gray-100 dark:border-slate-800 w-full max-w-md mx-auto md:mx-0 relative overflow-hidden group cursor-pointer hover:ring-2 hover:ring-blue-500/50 transition-all"
+                        onClick={() => setIsModalOpen(true)}
+                    >
 
                         {/* Glow Effect */}
                         <div className="absolute top-0 right-0 w-32 h-32 bg-purple-500/10 rounded-full blur-3xl -mr-16 -mt-16 pointer-events-none"></div>
@@ -215,6 +232,14 @@ const RagboxProducts = () => {
                     </div>
                 </div>
             </div>
+
+            {/* Store Preview Modal */}
+            <StorePreviewModal
+                isOpen={isModalOpen}
+                onClose={() => setIsModalOpen(false)}
+                store={ragboxStoreData}
+            />
+
         </section>
     );
 };

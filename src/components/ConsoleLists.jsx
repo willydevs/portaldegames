@@ -50,7 +50,13 @@ const GameCard = ({ title, image, oldPrice, price, video, onPlay }) => (
         </div>
 
         <div className="mt-auto">
-            <Button variant="primary" size="sm" fullWidth className="rounded-full shadow-blue-500/30 font-bold">
+            <Button
+                variant="primary"
+                size="sm"
+                fullWidth
+                className="rounded-full shadow-blue-500/30 font-bold"
+                onClick={() => window.open('https://go.perfectpay.com.br/PPU38CQ681S', '_blank')}
+            >
                 Baixar Jogo
             </Button>
         </div>

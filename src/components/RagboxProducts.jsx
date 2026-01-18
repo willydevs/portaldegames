@@ -1,12 +1,12 @@
 import React, { useRef, useState, useEffect } from 'react';
-import { useLocation } from 'react-router-dom';
+import { useLocation, Link } from 'react-router-dom';
 import Button from './ui/Button';
 import StorePreviewModal from './ui/StorePreviewModal';
 
 // Importing logo
 import ragboxLogo from '../assets/images/empresas/ragbox.png';
 
-const ProductCard = ({ title, oldPrice, price, description, image, badge }) => (
+const ProductCard = ({ title, oldPrice, price, description, image, badge, link }) => (
     <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 dark:border-slate-800 flex flex-col min-w-[300px] md:min-w-[350px] snap-center group h-full relative overflow-hidden">
 
         {/* Product Image */}
@@ -50,14 +50,19 @@ const ProductCard = ({ title, oldPrice, price, description, image, badge }) => (
                 <p className="text-xs text-gray-500 dark:text-gray-500 text-center -mt-4 mb-4">Requer Android 7.0.3 ou superior.</p>
             )}
             <div className="text-center mb-2">
-                <a href="#" className="text-pink-500 hover:text-pink-400 text-sm font-medium transition-colors">
+                <Link to="/jogos" className="text-pink-500 hover:text-pink-400 text-sm font-medium transition-colors">
                     Ver lista de jogos
-                </a>
+                </Link>
             </div>
         </div>
 
         <div className="mt-auto">
-            <Button variant='primary' fullWidth className="shadow-blue-500/20">
+            <Button
+                variant='primary'
+                fullWidth
+                className="shadow-blue-500/20"
+                onClick={() => window.open(link, '_blank')}
+            >
                 Comprar Agora
             </Button>
         </div>
@@ -68,6 +73,7 @@ const ragboxStoreData = {
     name: "RAGBOX",
     logo: ragboxLogo,
     verified: true,
+    url: "https://ragbox.app.br",
     sales: "+10 mil vendas",
     videos: [
         { type: 'instagram', id: 'DNk-L6zxvrl' },
@@ -124,7 +130,8 @@ const RagboxProducts = () => {
             price: "30,00",
             image: "/products/ragbox-premium-mobile.png",
             badge: "Vitalício",
-            description: "Jogue os clássicos no seu celular, tablet ou TV Box Android."
+            description: "Jogue os clássicos no seu celular, tablet ou TV Box Android.",
+            link: "https://go.perfectpay.com.br/PPU38CPRSAL"
         },
         {
             title: "PENDRIVE RETRÔ 32GB",
@@ -132,7 +139,8 @@ const RagboxProducts = () => {
             price: "89,90",
             image: "/products/pendrive-retro.png",
             badge: "Plug & Play",
-            description: "Sistema Multijogos via boot. Transforme qualquer PC em uma máquina retrô. São 32GB de jogos configurados."
+            description: "Sistema Multijogos via boot. Transforme qualquer PC em uma máquina retrô. São 32GB de jogos configurados.",
+            link: "https://go.perfectpay.com.br/PPU38CQ57PB"
         }
     ];
 

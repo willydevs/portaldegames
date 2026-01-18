@@ -3,7 +3,7 @@ import { useLocation } from 'react-router-dom';
 import Button from './ui/Button';
 import StorePreviewModal from './ui/StorePreviewModal';
 
-const ProductCard = ({ title, oldPrice, price, description, features, recommended, isBestSeller, image }) => (
+const ProductCard = ({ title, oldPrice, price, description, features, recommended, isBestSeller, image, link }) => (
     <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 dark:border-slate-800 flex flex-col min-w-[300px] md:min-w-[350px] snap-center group h-full">
         <div className="relative">
             {isBestSeller && (
@@ -45,7 +45,12 @@ const ProductCard = ({ title, oldPrice, price, description, features, recommende
         </p>
 
         <div className="mt-auto">
-            <Button variant={isBestSeller ? 'primary' : 'outline'} fullWidth className={isBestSeller ? 'shadow-lg shadow-blue-600/20' : 'dark:border-gray-700 dark:text-gray-200 dark:hover:bg-slate-800'}>
+            <Button
+                variant={isBestSeller ? 'primary' : 'outline'}
+                fullWidth
+                className={isBestSeller ? 'shadow-lg shadow-blue-600/20' : 'dark:border-gray-700 dark:text-gray-200 dark:hover:bg-slate-800'}
+                onClick={() => window.open(link, '_blank')}
+            >
                 Comprar Agora
             </Button>
         </div>
@@ -62,7 +67,9 @@ const GPBoxProducts = () => {
     const gpboxStoreData = {
         name: "GPBOX",
         logo: "/logos/logo.png",
+        logo: "/logos/logo.png",
         verified: true,
+        url: "https://gpbox.app.br",
         sales: "+3 mil vendas",
         videos: [
             "pCFptaSdw6I",
@@ -113,7 +120,8 @@ const GPBoxProducts = () => {
             price: "50,00",
             image: "/products/standard.webp",
             description: "Base completa do sistema: este é o ponto de partida para quem quer jogar sem complicação. Milhares de jogos clássicos, ocupando cerca de 70 GB.",
-            features: ["Ideal para computadores simples", "Reviva grandes títulos clássicos"]
+            features: ["Ideal para computadores simples", "Reviva grandes títulos clássicos"],
+            link: "https://go.perfectpay.com.br/PPU38CPRMCT"
         },
         {
             title: "Pack Adicional",
@@ -121,7 +129,8 @@ const GPBoxProducts = () => {
             price: "40,00",
             image: "/products/adicional.jpg",
             description: "Expanda o sistema com novos consoles e plataformas. Adiciona suporte a PSP, PS2, PS3, PS4, PS5, Xbox 360, Wii U, Switch e outros.",
-            features: ["Requer o pack STANDARD instalado", "Consoles modernos, emuladores avançados"]
+            features: ["Requer o pack STANDARD instalado", "Consoles modernos, emuladores avançados"],
+            link: "https://go.perfectpay.com.br/PPU38CPRO7J"
         },
         {
             title: "Atualizações",
@@ -129,7 +138,8 @@ const GPBoxProducts = () => {
             price: "40,00",
             image: "/products/update.webp",
             description: "Conteúdo adicional distribuído ao longo do tempo, somando mais de 20 TB de arquivos entre jogos, melhorias e novos títulos.",
-            features: ["Mantenha o sistema renovado", "Turbine sua coleção"]
+            features: ["Mantenha o sistema renovado", "Turbine sua coleção"],
+            link: "https://go.perfectpay.com.br/PPU38CPRO84"
         },
         {
             title: "Pack PC Completo",
@@ -138,7 +148,8 @@ const GPBoxProducts = () => {
             image: "/products/pc-completo.webp",
             description: "Tudo que nossa plataforma tem de melhor em um único pacote por um preço especial.",
             features: ["1x Standard", "1x Pack Adicional", "1x Pack de Atualizações", "Economia máxima"],
-            isBestSeller: true
+            isBestSeller: true,
+            link: "https://go.perfectpay.com.br/PPU38CPRSB7"
         },
         {
             title: "Pack Completo",
@@ -146,7 +157,8 @@ const GPBoxProducts = () => {
             price: "120,00",
             image: "/products/pack-completo.webp",
             description: "Versão definitiva. Inclui todo o conteúdo de PC mais a versão Mobile para Android.",
-            features: ["1x Standard, Adicional e Atualizações", "1x GPBOX Mobile", "Jogue no PC e Android"]
+            features: ["1x Standard, Adicional e Atualizações", "1x GPBOX Mobile", "Jogue no PC e Android"],
+            link: "https://go.perfectpay.com.br/PPU38CPRSBB"
         },
         {
             title: "Premium Mobile",
@@ -154,7 +166,8 @@ const GPBoxProducts = () => {
             price: "30,00",
             image: "/products/android.webp",
             description: "Celular / TV Box Android. Execute jogos clássicos diretamente em dispositivos Android 7.0.3 ou superior.",
-            features: ["Leve e Otimizado", "Compatível com TV Box"]
+            features: ["Leve e Otimizado", "Compatível com TV Box"],
+            link: "https://go.perfectpay.com.br/PPU38CPRSAL"
         }
     ];
 

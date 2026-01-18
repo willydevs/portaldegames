@@ -53,14 +53,14 @@ const LojasPage = () => {
     ];
 
     const otherStores = [
-        { name: "Full Store GG", logo: fullstoreImg, type: "Mobile / PC", verified: true },
-        { name: "GameFlix", logo: gameflixImg, type: "Retro / PC", verified: true },
+        { name: "Full Store GG", logo: fullstoreImg, type: "Mobile / PC", verified: true, url: "https://fullstoregg.com.br/" },
+        { name: "GameFlix", logo: gameflixImg, type: "Retro / PC", verified: true, url: "https://gameflix.app.br" },
     ];
 
     return (
         <div className="pt-24 pb-20 bg-gray-50 dark:bg-slate-950 min-h-screen transition-colors duration-300">
             <SEO
-                title="Nossas Lojas - GPBox, Ragbox e Mais"
+                title="Nossas Lojas"
                 description="Conheça todas as nossas lojas parceiras: GPBox, Ragbox e Playbox. Encontre a solução de emulação perfeita para você."
                 keywords="comprar gpbox, comprar ragbox, loja multijogos, emuladores pc, sistema de jogos"
                 url="/lojas"

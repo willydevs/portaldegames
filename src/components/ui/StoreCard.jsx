@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from './Button';
 
-const StoreCard = ({ name, logo, type, verified }) => (
+const StoreCard = ({ name, logo, type, verified, url }) => (
     <div className="bg-white dark:bg-slate-900 rounded-xl shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 dark:border-slate-800 flex flex-col items-center p-6 text-center group h-full">
         <div className="relative w-24 h-24 mb-4 rounded-full bg-gray-50 dark:bg-slate-800 flex items-center justify-center p-4 border border-gray-100 dark:border-slate-700">
             <img src={logo} alt={name} className="w-full h-full object-contain" />
@@ -17,7 +17,7 @@ const StoreCard = ({ name, logo, type, verified }) => (
         <span className="text-sm text-gray-500 dark:text-gray-400 mb-6">{type}</span>
 
         <div className="mt-auto w-full">
-            <Button variant="outline" fullWidth>
+            <Button variant="outline" fullWidth onClick={() => url && window.open(url, '_blank')}>
                 Acessar Loja
             </Button>
         </div>

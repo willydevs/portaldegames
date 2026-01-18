@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import Button from './Button';
 import UserProfileModal from './UserProfileModal';
 
@@ -50,6 +51,7 @@ const VideoStory = ({ video, onClick }) => {
 };
 
 const StorePreviewModal = ({ isOpen, onClose, store }) => {
+    const navigate = useNavigate();
     const [selectedVideo, setSelectedVideo] = useState(null);
 
     // Reviews State
@@ -270,8 +272,8 @@ const StorePreviewModal = ({ isOpen, onClose, store }) => {
 
                     {/* Actions */}
                     <div className="flex gap-3 mb-8">
-                        <Button variant="primary" fullWidth size="lg">Acessar Loja</Button>
-                        <Button variant="outline" fullWidth size="lg">Ver mais jogos</Button>
+                        <Button variant="primary" fullWidth size="lg" onClick={() => store.url && window.open(store.url, '_blank')}>Acessar Loja</Button>
+                        <Button variant="outline" fullWidth size="lg" onClick={() => { navigate('/jogos'); onClose(); }}>Ver mais jogos</Button>
                     </div>
 
                     {/* Trust Badges */}

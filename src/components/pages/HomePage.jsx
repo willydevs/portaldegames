@@ -18,7 +18,7 @@ const HomePage = () => {
     return (
         <>
             <SEO
-                title="GPBox e Ragbox - A Melhor Solução em Multijogos"
+                title="A Melhor Solução em Multijogos"
                 description="Descubra o GPBox e Ragbox, sistemas completos de emulação. Jogos retrô, alta performance e entrega imediata. Transforme seu PC ou TV em um arcade!"
                 keywords="gpbox, ragbox, multijogos, jogos retrô, emulação, ps2, ps1, super nintendo, arcade"
             />

@@ -4,7 +4,7 @@ import Button from './ui/Button';
 import StorePreviewModal from './ui/StorePreviewModal';
 import playboxLogo from '../assets/images/empresas/playbox-reserva.webp';
 
-const ProductCard = ({ title, oldPrice, price, description, features, recommended, isBestSeller, image, color }) => (
+const ProductCard = ({ title, oldPrice, price, description, features, recommended, isBestSeller, image, color, link }) => (
     <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 dark:border-slate-800 flex flex-col min-w-[300px] md:min-w-[350px] snap-center group h-full relative overflow-hidden">
 
         {/* Top Color Bar for "Tier" effect */}
@@ -58,7 +58,12 @@ const ProductCard = ({ title, oldPrice, price, description, features, recommende
         </div>
 
         <div className="mt-auto">
-            <Button variant={isBestSeller ? 'primary' : 'outline'} fullWidth className={isBestSeller ? 'bg-yellow-500 hover:bg-yellow-600 border-yellow-500 shadow-yellow-500/20 text-white' : 'dark:border-gray-700 dark:text-gray-200 dark:hover:bg-slate-800'}>
+            <Button
+                variant={isBestSeller ? 'primary' : 'outline'}
+                fullWidth
+                className={isBestSeller ? 'bg-yellow-500 hover:bg-yellow-600 border-yellow-500 shadow-yellow-500/20 text-white' : 'dark:border-gray-700 dark:text-gray-200 dark:hover:bg-slate-800'}
+                onClick={() => window.open(link, '_blank')}
+            >
                 Comprar Agora
             </Button>
         </div>
@@ -69,6 +74,7 @@ const playboxStoreData = {
     name: "Playbox",
     logo: playboxLogo,
     verified: true,
+    url: "https://sacplaybox.com.br",
     sales: "+1 mil vendas",
     videos: [
         { type: 'instagram', id: 'DTd2TN1jnnQ' },
@@ -146,7 +152,7 @@ const PlayboxProducts = () => {
         {
             title: "Ultimate",
             oldPrice: "144,80",
-            price: "134,80",
+            price: "120,00",
             image: "/logos/playbox/ultimate.avif",
             color: "bg-yellow-500",
             features: [
@@ -158,12 +164,13 @@ const PlayboxProducts = () => {
                 "Instalação remota",
                 "Consoles mais recentes"
             ],
-            isBestSeller: true
+            isBestSeller: true,
+            link: "https://go.perfectpay.com.br/PPU38CQ57BL"
         },
         {
             title: "Upgrade",
             oldPrice: "114,90",
-            price: "104,90",
+            price: "100,00",
             image: "/logos/playbox/intermediario.avif",
             color: "bg-blue-500",
             features: [
@@ -174,12 +181,13 @@ const PlayboxProducts = () => {
                 "Biblioteca completa",
                 "no-Instalação remota",
                 "no-Consoles mais recentes"
-            ]
+            ],
+            link: "https://go.perfectpay.com.br/PPU38CQ57BJ"
         },
         {
             title: "Playbox",
             oldPrice: "74,90",
-            price: "64,90",
+            price: "50,00",
             image: "/logos/playbox/basico.avif",
             color: "bg-gray-500",
             features: [
@@ -190,7 +198,8 @@ const PlayboxProducts = () => {
                 "no-Biblioteca completa",
                 "no-Instalação remota",
                 "no-Consoles mais recentes"
-            ]
+            ],
+            link: "https://go.perfectpay.com.br/PPU38CQ57BD"
         }
     ];
 

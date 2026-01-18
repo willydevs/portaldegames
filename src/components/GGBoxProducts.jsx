@@ -1,5 +1,5 @@
 import React, { useRef, useState, useEffect } from 'react';
-import { useLocation } from 'react-router-dom';
+import { useLocation, Link } from 'react-router-dom';
 import Button from './ui/Button';
 import StorePreviewModal from './ui/StorePreviewModal';
 
@@ -46,9 +46,15 @@ const ProductCard = ({ title, oldPrice, price, description, image, link }) => (
         </p>
 
         <div className="text-center mb-6">
-            <a href="#" className="text-pink-500 hover:text-pink-400 text-sm font-medium transition-colors">
-                {title === "PACK EXCLUSIVO" ? "Suporte premium?" : "Ver lista de jogos"}
-            </a>
+            {title === "PACK EXCLUSIVO" ? (
+                <a href="#" className="text-pink-500 hover:text-pink-400 text-sm font-medium transition-colors">
+                    Suporte premium?
+                </a>
+            ) : (
+                <Link to="/jogos" className="text-pink-500 hover:text-pink-400 text-sm font-medium transition-colors">
+                    Ver lista de jogos
+                </Link>
+            )}
         </div>
 
         <div className="mt-auto">
@@ -57,6 +63,7 @@ const ProductCard = ({ title, oldPrice, price, description, image, link }) => (
                 variant={title === "PACK EXCLUSIVO" ? 'primary' : 'outline'}
                 fullWidth
                 className={title === "PACK EXCLUSIVO" ? "shadow-blue-500/20" : "dark:text-gray-200 dark:border-gray-700 dark:hover:bg-slate-800"}
+                onClick={() => window.open(link, '_blank')}
             >
                 Comprar Agora
             </Button>
@@ -68,6 +75,7 @@ const ggboxStoreData = {
     name: "GGBOX",
     logo: logoGGBox,
     verified: true,
+    url: "https://ggbox.com.br",
     sales: "+5 mil vendas",
     videos: ["1Q1o3-VH_V0", "OoK9jhdaLm8", "c7uQrlQnj_I"] // Moved from GPBox
 };
@@ -119,28 +127,32 @@ const GGBoxProducts = () => {
             oldPrice: "89,90",
             price: "50,00",
             image: retroImg,
-            description: "Ideal para computadores com configurações simples, nesse pack você encontra os clássicos."
+            description: "Ideal para computadores com configurações simples, nesse pack você encontra os clássicos.",
+            link: "https://go.perfectpay.com.br/PPU38CQ4OB4"
         },
         {
             title: "PACK GAMER",
             oldPrice: "149,90",
             price: "100,00",
             image: gamerImg,
-            description: "Inclui: PSP, PS2, PS3, PS4, PS5, Xbox 360, GameCube, Wii, Wii U e Switch e muitos outros!"
+            description: "Inclui: PSP, PS2, PS3, PS4, PS5, Xbox 360, GameCube, Wii, Wii U e Switch e muitos outros!",
+            link: "https://go.perfectpay.com.br/PPU38CQ4OB6"
         },
         {
             title: "PACK EXCLUSIVO",
             oldPrice: "189,90",
             price: "120,00",
             image: exclusivoImg,
-            description: "Acesse todos os nossos sistemas, além de acesso exclusivo ao super pack de atualizações e pack mobile."
+            description: "Acesse todos os nossos sistemas, além de acesso exclusivo ao super pack de atualizações e pack mobile.",
+            link: "https://go.perfectpay.com.br/PPU38CPQPTQ"
         },
         {
             title: "PACK MOBILE",
             oldPrice: "59,90",
             price: "30,00",
             image: mobileImg,
-            description: "Perfeito para dispositivos móveis: celulares, tablets, TVs Android e TV boxes."
+            description: "Perfeito para dispositivos móveis: celulares, tablets, TVs Android e TV boxes.",
+            link: "https://go.perfectpay.com.br/PPU38CPRSAL"
         }
     ];
 

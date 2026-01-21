@@ -13,6 +13,7 @@ import AjudaPage from './components/pages/AjudaPage';
 import AbrirChamadoPage from './components/pages/AbrirChamadoPage';
 import DenunciaPage from './components/pages/DenunciaPage';
 import ProductsPage from './components/pages/ProductsPage';
+import { SocialProofToaster } from './socialProof/SocialProofToaster';
 
 function App() {
   const [theme, setTheme] = React.useState(() => {
@@ -66,6 +67,7 @@ function App() {
         </main>
 
         <Footer />
+        <SocialProofToaster />
       </div>
     </Router>
   );

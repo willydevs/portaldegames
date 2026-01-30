@@ -2,8 +2,8 @@ import React from 'react';
 import { Helmet } from 'react-helmet-async';
 
 const SEO = ({ title, description, keywords, image, url }) => {
-    const siteTitle = "Portal de Games";
-    const defaultDescription = "Sua plataforma premium para jogos digitais, GPBox, Ragbox e gift cards. Rápido, seguro e confiável.";
+    const siteTitle = "GPBOX | Playbox | Gameflix";
+    const defaultDescription = "Transforme seu setup com a Central Definitiva de Jogos. GameParts oferece acesso ilimitado a milhares de jogos retrô e modernos com interface premium e plug & play.";
     const defaultImage = "/logo.png"; // Ensure this image exists in public folder
     const siteUrl = "https://portaldegames.com.br"; // Update with actual domain if known
 
